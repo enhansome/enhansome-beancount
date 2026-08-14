@@ -15,7 +15,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Official Resources
 
-* [Source Code](https://github.com/beancount/beancount) ⭐ 5,894 | 🐛 235 | 🌐 Python | 📅 2026-05-18
+* [Source Code](https://github.com/beancount/beancount) ⭐ 5,899 | 🐛 235 | 🌐 Python | 📅 2026-05-18
 * [Homepage](https://beancount.github.io/)
 * Documentation
   * [GitHub Pages](https://beancount.github.io/docs/) ([generated](https://github.com/beancount/docs) ⭐ 59 | 🐛 12 | 🌐 Python | 📅 2026-07-11 from Google Docs)
@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 359 | 🐛 5 | 🌐 Rust | 📅 2026-08-13 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 359 | 🐛 6 | 🌐 Rust | 📅 2026-08-14 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
@@ -118,7 +118,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ### Misc
 
-* [Web UI for semi-automatically importing external data into beancount](https://github.com/jbms/beancount-import) ⭐ 469 | 🐛 78 | 🌐 Python | 📅 2026-06-06
+* [Web UI for semi-automatically importing external data into beancount](https://github.com/jbms/beancount-import) ⭐ 470 | 🐛 78 | 🌐 Python | 📅 2026-06-06
 * [Augment Beancount importers with machine learning](https://github.com/beancount/smart_importer) ⭐ 305 | 🐛 4 | 🌐 Python | 📅 2026-07-26
 * [Red's Importers: Collection of simple importers and a framework to write your own](https://github.com/redstreet/beancount_reds_importers) ⭐ 165 | 🐛 32 | 🌐 Python | 📅 2026-04-30
 * [Importers, plugins and price-fetchers for Beancount](https://github.com/tarioch/beancounttools) ⭐ 97 | 🐛 12 | 🌐 Python | 📅 2026-08-05
@@ -195,7 +195,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 ### Fava
 
 * [fava-dashboards](https://github.com/andreasgerstmayr/fava-dashboards) ⭐ 398 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-03 - Additional fully custom dashboards
-* [fava\_investor](https://github.com/redstreet/fava_investor) ⭐ 179 | 🐛 14 | 🌐 Python | 📅 2026-01-21 reports, analyses, and tools for investments
+* [fava\_investor](https://github.com/redstreet/fava_investor) ⭐ 180 | 🐛 14 | 🌐 Python | 📅 2026-01-21 reports, analyses, and tools for investments
 * [fava-envelope](https://github.com/polarmutex/fava-envelope) ⭐ 143 | 🐛 17 | 🌐 Python | 📅 2025-07-17 - Beancount Fava extension for envelope budgeting
 * [fava-portfolio-returns](https://github.com/andreasgerstmayr/fava-portfolio-returns) ⭐ 102 | 🐛 10 | 🌐 Python | 📅 2026-08-03 shows portfolio returns
 * [fava-portfolio-summary](https://github.com/PhracturedBlue/fava-portfolio-summary) ⭐ 29 | 🐛 5 | 🌐 Python | 📅 2025-01-07 grouped portfolio view; also calculate MWRR (Money-Weighted Rate of Return) or TWRR (Time-Weighted Rate of Return)
@@ -291,4 +291,4 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
