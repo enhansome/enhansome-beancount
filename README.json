@@ -14,7 +14,7 @@
             "last_commit": "2026-05-18T12:28:07Z",
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5899
+            "stars": 5904
           }
         },
         {
@@ -638,7 +638,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T07:48:05Z",
+            "last_commit": "2026-08-15T09:15:10Z",
             "owner": "open-banking-io",
             "repo": "clients",
             "stars": 9
@@ -790,7 +790,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-11T13:08:05Z",
+            "last_commit": "2026-08-15T09:05:30Z",
             "owner": "aldur",
             "repo": "dotfiles",
             "stars": 23
@@ -1157,7 +1157,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-03T11:43:49Z",
+            "last_commit": "2026-08-15T11:54:32Z",
             "owner": "andreasgerstmayr",
             "repo": "fava-dashboards",
             "stars": 398
@@ -1666,7 +1666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:42:46.829Z",
+    "last_updated": "2026-08-15T14:08:34.339Z",
     "original_repository": "siddhantgoel/awesome-beancount",
     "original_repository_sha": "7cc1dea3bcb3945f8314caef5739f1ce83578a5e",
     "enhanced_repository": "enhansome/enhansome-beancount",
