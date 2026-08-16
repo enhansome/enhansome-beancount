@@ -14,7 +14,7 @@
             "last_commit": "2026-05-18T12:28:07Z",
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5904
+            "stars": 5907
           }
         },
         {
@@ -599,7 +599,7 @@
             "last_commit": "2026-07-26T12:59:09Z",
             "owner": "beancount",
             "repo": "smart_importer",
-            "stars": 305
+            "stars": 307
           }
         },
         {
@@ -641,7 +641,7 @@
             "last_commit": "2026-08-15T09:15:10Z",
             "owner": "open-banking-io",
             "repo": "clients",
-            "stars": 9
+            "stars": 10
           }
         },
         {
@@ -790,7 +790,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-15T09:05:30Z",
+            "last_commit": "2026-08-16T07:58:42Z",
             "owner": "aldur",
             "repo": "dotfiles",
             "stars": 23
@@ -1157,7 +1157,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T11:54:32Z",
+            "last_commit": "2026-08-15T14:27:50Z",
             "owner": "andreasgerstmayr",
             "repo": "fava-dashboards",
             "stars": 398
@@ -1199,7 +1199,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-03T08:53:29Z",
+            "last_commit": "2026-08-15T14:58:42Z",
             "owner": "andreasgerstmayr",
             "repo": "fava-portfolio-returns",
             "stars": 102
@@ -1630,7 +1630,7 @@
             "last_commit": "2026-06-03T13:44:34Z",
             "owner": "Evernight",
             "repo": "lazy-beancount",
-            "stars": 166
+            "stars": 167
           }
         },
         {
@@ -1666,7 +1666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:08:34.339Z",
+    "last_updated": "2026-08-16T14:09:29.175Z",
     "original_repository": "siddhantgoel/awesome-beancount",
     "original_repository_sha": "7cc1dea3bcb3945f8314caef5739f1ce83578a5e",
     "enhanced_repository": "enhansome/enhansome-beancount",
