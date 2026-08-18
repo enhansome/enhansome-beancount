@@ -15,7 +15,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Official Resources
 
-* [Source Code](https://github.com/beancount/beancount) ⭐ 5,907 | 🐛 235 | 🌐 Python | 📅 2026-05-18
+* [Source Code](https://github.com/beancount/beancount) ⭐ 5,914 | 🐛 235 | 🌐 Python | 📅 2026-05-18
 * [Homepage](https://beancount.github.io/)
 * Documentation
   * [GitHub Pages](https://beancount.github.io/docs/) ([generated](https://github.com/beancount/docs) ⭐ 59 | 🐛 12 | 🌐 Python | 📅 2026-07-11 from Google Docs)
@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 363 | 🐛 7 | 🌐 Rust | 📅 2026-08-16 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 364 | 🐛 6 | 🌐 Rust | 📅 2026-08-18 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
@@ -55,9 +55,9 @@ system — ideal for plain text accounting users and Python software developers.
 
 ### Germany
 
-* [Deutsche Kredit Bank](https://github.com/siddhantgoel/beancount-dkb) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2026-08-10
-* [ING](https://github.com/siddhantgoel/beancount-ing) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2026-08-03
-* [N26](https://github.com/siddhantgoel/beancount-n26) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2026-08-03
+* [Deutsche Kredit Bank](https://github.com/siddhantgoel/beancount-dkb) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2026-08-17
+* [ING](https://github.com/siddhantgoel/beancount-ing) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2026-08-17
+* [N26](https://github.com/siddhantgoel/beancount-n26) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2026-08-17
 * [Commerzbank](https://github.com/siddhantgoel/beancount-commerzbank) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2024-04-11
 * [Volksbank & GLS-Bank](https://github.com/Fjanks/beancount-importer-volksbank) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-03-21
 
@@ -119,7 +119,7 @@ system — ideal for plain text accounting users and Python software developers.
 ### Misc
 
 * [Web UI for semi-automatically importing external data into beancount](https://github.com/jbms/beancount-import) ⭐ 470 | 🐛 78 | 🌐 Python | 📅 2026-06-06
-* [Augment Beancount importers with machine learning](https://github.com/beancount/smart_importer) ⭐ 307 | 🐛 4 | 🌐 Python | 📅 2026-07-26
+* [Augment Beancount importers with machine learning](https://github.com/beancount/smart_importer) ⭐ 308 | 🐛 4 | 🌐 Python | 📅 2026-07-26
 * [Red's Importers: Collection of simple importers and a framework to write your own](https://github.com/redstreet/beancount_reds_importers) ⭐ 165 | 🐛 32 | 🌐 Python | 📅 2026-04-30
 * [Importers, plugins and price-fetchers for Beancount](https://github.com/tarioch/beancounttools) ⭐ 97 | 🐛 12 | 🌐 Python | 📅 2026-08-05
 * [open-banking.io](https://github.com/open-banking-io/clients/tree/main/beancount) ⭐ 10 | 🐛 4 | 🌐 Go | 📅 2026-08-15: beangulp importer syncing EEA & UK bank transactions over PSD2, decrypted client-side; no eIDAS certificate and no per-account daily rate-limit (`pip install beancount-openbanking-io`)
@@ -157,9 +157,9 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [Beancount Language Server](https://github.com/polarmutex/beancount-language-server) ⭐ 245 | 🐛 23 | 🌐 Rust | 📅 2026-08-01
 * [Vim](https://github.com/nathangrigg/vim-beancount) ⭐ 191 | 🐛 25 | 🌐 Vim Script | 📅 2024-11-25
 * [Emacs](https://github.com/beancount/beancount-mode) ⭐ 159 | 🐛 11 | 🌐 Emacs Lisp | 📅 2026-05-17
-* [Tree-Sitter](https://github.com/polarmutex/tree-sitter-beancount) ⭐ 54 | 🐛 7 | 🌐 Rust | 📅 2026-07-26
+* [Tree-Sitter](https://github.com/polarmutex/tree-sitter-beancount) ⭐ 55 | 🐛 7 | 🌐 Rust | 📅 2026-07-26
 * [Sublime Text](https://github.com/norseghost/sublime-beancount) ⭐ 35 | 🐛 8 | 🌐 Python | 📅 2025-11-06
-* [ctags](https://github.com/aldur/dotfiles/blob/master/various/ctags/beancount.ctags) ⭐ 23 | 🐛 0 | 🌐 Nix | 📅 2026-08-16
+* [ctags](https://github.com/aldur/dotfiles/blob/master/various/ctags/beancount.ctags) ⭐ 23 | 🐛 0 | 🌐 Nix | 📅 2026-08-18
 * [Zed](https://github.com/zed-extensions/beancount) ⭐ 18 | 🐛 5 | 🌐 Rust | 📅 2026-06-07
 * [Atom](https://atom.io/packages/beancount)
 * [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
@@ -185,10 +185,10 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [beancount-balancechange](https://github.com/daniel-wells/beancount_balancechange) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-07-12 - Checks *change* in balance between two dates
 * [beancount-balexpr](https://github.com/w1ndy/beancount_balexpr) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-09-24 - Check balances against simple expressions combining accounts in Beancount
 * [beancount-checkclosed](https://github.com/daniel-wells/beancount_checkclosed) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-07-12 - Automatically insert a 0 balance check for closed balance sheet accounts
-* [beancount-lazy-plugins.filter\_map](https://github.com/Evernight/beancount-lazy-plugins/blob/main/docs/filter_map/README.md) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-06-01 - apply operations to group of transactions selected by Fava filters
-* [beancount-lazy-plugins.valuation](https://github.com/Evernight/beancount-lazy-plugins/blob/main/docs/valuation/README.md) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-06-01 - track total value of the opaque fund over time
-* [beancount-lazy-plugins.tag\_from\_continuous\_events](https://github.com/Evernight/beancount-lazy-plugins/blob/main/docs/tag_from_continuous_events/README.md) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-06-01 - apply tags to transactions based on Events
-* [beancount-lazy-plugins.balance\_extended](https://github.com/Evernight/beancount-lazy-plugins/blob/main/docs/balance_extended/README.md) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-06-01 - adds extended balance assertions (full, padded, full-padded)
+* [beancount-lazy-plugins.filter\_map](https://github.com/Evernight/beancount-lazy-plugins/blob/main/docs/filter_map/README.md) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2026-06-01 - apply operations to group of transactions selected by Fava filters
+* [beancount-lazy-plugins.valuation](https://github.com/Evernight/beancount-lazy-plugins/blob/main/docs/valuation/README.md) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2026-06-01 - track total value of the opaque fund over time
+* [beancount-lazy-plugins.tag\_from\_continuous\_events](https://github.com/Evernight/beancount-lazy-plugins/blob/main/docs/tag_from_continuous_events/README.md) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2026-06-01 - apply tags to transactions based on Events
+* [beancount-lazy-plugins.balance\_extended](https://github.com/Evernight/beancount-lazy-plugins/blob/main/docs/balance_extended/README.md) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2026-06-01 - adds extended balance assertions (full, padded, full-padded)
 * [metadata-spray](https://github.com/seltzered/beancount-plugins-metadata-spray) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2019-08-28 use a regex pattern to add metadata to entries
 * [beancount-mortgage](https://github.com/mclate/beancount-mortgage) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-05: Plugin to simulate loan/mortgage schedule and payments.
 
@@ -200,7 +200,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [fava-portfolio-returns](https://github.com/andreasgerstmayr/fava-portfolio-returns) ⭐ 102 | 🐛 9 | 🌐 Python | 📅 2026-08-15 shows portfolio returns
 * [fava-portfolio-summary](https://github.com/PhracturedBlue/fava-portfolio-summary) ⭐ 29 | 🐛 5 | 🌐 Python | 📅 2025-01-07 grouped portfolio view; also calculate MWRR (Money-Weighted Rate of Return) or TWRR (Time-Weighted Rate of Return)
 * [fava-classy-portfolio](https://github.com/seltzered/fava-classy-portfolio) ⭐ 29 | 🐛 4 | 🌐 Python | 📅 2022-02-04 displays a list of different portfolios, with breakdowns using metadata labels
-* [fava\_budget\_freedom](https://github.com/Leon2xiaowu/fava_budget_freedom) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-02-07 provide flexible and powerful budget management and visualization features
+* [fava\_budget\_freedom](https://github.com/Leon2xiaowu/fava_budget_freedom) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-02-07 provide flexible and powerful budget management and visualization features
 * [fava-currency-tracker](https://github.com/Evernight/fava-currency-tracker) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-08 - Currency exchange rate dashboard for Fava
 * [beancount-plugin-tax-uk](https://github.com/Evernight/beancount-plugin-tax-uk) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-04 - UK tax reporting for Beancount (capital gains and more)
 * [beantab](https://github.com/Evernight/beantab) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-01 - Beancount Fava extension for balances editing visualization
@@ -220,7 +220,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms) ⭐ 16 | 🐛 5 | 🌐 Python | 📅 2026-03-06 - Data types and processors of custom beancount forms for inputting repeating similar entries easily
 * [Importer from YNAB to Beancount](https://github.com/hoostus/beancount-ynab) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2024-02-13
 * [Moneywiz3 to Beancount](https://github.com/zhangzhishan/beancount_importer) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2020-07-07
-* [beanhub-web-react](https://github.com/LaunchPlatform/beanhub-web-react) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - React components for beancount entry input forms and [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms) ⭐ 16 | 🐛 5 | 🌐 Python | 📅 2026-03-06
+* [beanhub-web-react](https://github.com/LaunchPlatform/beanhub-web-react) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-18 - React components for beancount entry input forms and [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms) ⭐ 16 | 🐛 5 | 🌐 Python | 📅 2026-03-06
 * GnuCash to Beancount
   * <https://github.com/henriquebastos/gnucash-to-beancount/> ⭐ 34 | 🐛 12 | 🌐 Python | 📅 2022-09-27
   * <https://github.com/dtrai2/gnucash-to-beancount/> ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-03-01
@@ -282,7 +282,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ## Misc
 
-* [Lazy Beancount: Beancount and tools in Docker with an alternative use guide](https://github.com/Evernight/lazy-beancount) ⭐ 167 | 🐛 6 | 🌐 TypeScript | 📅 2026-06-03
+* [Lazy Beancount: Beancount and tools in Docker with an alternative use guide](https://github.com/Evernight/lazy-beancount) ⭐ 167 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-03
 * [Reports on portfolio asset allocation in Beancount](https://github.com/ghislainbourgeois/beancount_portfolio_allocation/) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2025-11-29
 * [jbeancount](https://github.com/jbeancount/jbeancount) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2025-03-10
 * [Budgets using Fava](https://fava.pythonanywhere.com/example-with-budgets/)
@@ -291,4 +291,4 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

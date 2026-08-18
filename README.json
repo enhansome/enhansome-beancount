@@ -14,7 +14,7 @@
             "last_commit": "2026-05-18T12:28:07Z",
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5907
+            "stars": 5914
           }
         },
         {
@@ -237,7 +237,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T17:13:00Z",
+            "last_commit": "2026-08-17T18:46:28Z",
             "owner": "siddhantgoel",
             "repo": "beancount-dkb",
             "stars": 52
@@ -251,7 +251,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-03T12:23:06Z",
+            "last_commit": "2026-08-17T12:23:06Z",
             "owner": "siddhantgoel",
             "repo": "beancount-ing",
             "stars": 36
@@ -265,7 +265,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-03T11:23:07Z",
+            "last_commit": "2026-08-17T11:23:03Z",
             "owner": "siddhantgoel",
             "repo": "beancount-n26",
             "stars": 29
@@ -599,7 +599,7 @@
             "last_commit": "2026-07-26T12:59:09Z",
             "owner": "beancount",
             "repo": "smart_importer",
-            "stars": 307
+            "stars": 308
           }
         },
         {
@@ -765,7 +765,7 @@
             "last_commit": "2026-07-26T08:22:43Z",
             "owner": "polarmutex",
             "repo": "tree-sitter-beancount",
-            "stars": 54
+            "stars": 55
           }
         },
         {
@@ -790,7 +790,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-16T07:58:42Z",
+            "last_commit": "2026-08-18T13:54:16Z",
             "owner": "aldur",
             "repo": "dotfiles",
             "stars": 23
@@ -1244,7 +1244,7 @@
             "last_commit": "2026-02-07T15:04:43Z",
             "owner": "Leon2xiaowu",
             "repo": "fava_budget_freedom",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -1485,7 +1485,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T06:40:36Z",
+            "last_commit": "2026-08-18T08:03:26Z",
             "owner": "LaunchPlatform",
             "repo": "beanhub-web-react",
             "stars": 2
@@ -1666,7 +1666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:09:29.175Z",
+    "last_updated": "2026-08-18T14:18:57.329Z",
     "original_repository": "siddhantgoel/awesome-beancount",
     "original_repository_sha": "7cc1dea3bcb3945f8314caef5739f1ce83578a5e",
     "enhanced_repository": "enhansome/enhansome-beancount",
