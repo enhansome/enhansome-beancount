@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 366 | 🐛 10 | 🌐 Rust | 📅 2026-08-19 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 366 | 🐛 11 | 🌐 Rust | 📅 2026-08-19 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
@@ -282,7 +282,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ## Misc
 
-* [Lazy Beancount: Beancount and tools in Docker with an alternative use guide](https://github.com/Evernight/lazy-beancount) ⭐ 167 | 🐛 6 | 🌐 TypeScript | 📅 2026-06-03
+* [Lazy Beancount: Beancount and tools in Docker with an alternative use guide](https://github.com/Evernight/lazy-beancount) ⭐ 168 | 🐛 6 | 🌐 TypeScript | 📅 2026-06-03
 * [Reports on portfolio asset allocation in Beancount](https://github.com/ghislainbourgeois/beancount_portfolio_allocation/) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2025-11-29
 * [jbeancount](https://github.com/jbeancount/jbeancount) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2025-03-10
 * [Budgets using Fava](https://fava.pythonanywhere.com/example-with-budgets/)
