@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266158455,
             "language": "Python",
             "last_commit": "2026-05-18T12:28:07Z",
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5914
+            "stars": 5917
           }
         },
         {
@@ -29,6 +30,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 193495006,
                 "language": "Python",
                 "last_commit": "2026-07-11T00:32:07Z",
                 "owner": "beancount",
@@ -42,7 +44,7 @@
       "title": "Official Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -51,6 +53,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197218134,
             "language": "TypeScript",
             "last_commit": "2022-11-03T16:30:11Z",
             "owner": "xuhcc",
@@ -65,6 +68,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 421501278,
             "language": "Go",
             "last_commit": "2025-04-07T14:14:41Z",
             "owner": "LucaBernstein",
@@ -79,6 +83,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 330009916,
             "language": "Python",
             "last_commit": "2026-01-06T15:08:39Z",
             "owner": "johannesjh",
@@ -93,6 +98,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1077649536,
             "language": "Python",
             "last_commit": "2026-01-13T16:07:38Z",
             "owner": "blinkstu",
@@ -104,281 +110,560 @@
       "title": "User Interfaces"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Importers"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "WeChat Pay / 微信支付",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-04T12:45:21Z",
-            "owner": "deb-sig",
-            "repo": "double-entry-generator",
-            "stars": 712
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FinancialBeancount",
-          "description": "China-focused Beancount importer and deduplication pipeline for Alipay, WeChat Pay, and bank statements.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-30T21:31:32Z",
-            "owner": "CacinieP",
-            "repo": "FinancialBeancount",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Alipay / 支付宝",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "deb-sig/double-entry-generator",
+              "title": "WeChat Pay / 微信支付",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 213560328,
                 "language": "Go",
                 "last_commit": "2026-08-04T12:45:21Z",
                 "owner": "deb-sig",
                 "repo": "double-entry-generator",
-                "stars": 712
+                "stars": 713
               }
             },
             {
               "node_type": "item",
-              "title": "wzyboy/awesome-beancount",
-              "description": null,
+              "title": "FinancialBeancount",
+              "description": "China-focused Beancount importer and deduplication pipeline for Alipay, WeChat Pay, and bank statements.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1149106163,
                 "language": "Python",
-                "last_commit": "2026-01-02T20:48:41Z",
-                "owner": "wzyboy",
-                "repo": "awesome-beancount",
-                "stars": 178
+                "last_commit": "2026-05-30T21:31:32Z",
+                "owner": "CacinieP",
+                "repo": "FinancialBeancount",
+                "stars": 4
               }
             },
             {
-              "node_type": "item",
-              "title": "dhr2333/Beancount-Trans",
+              "node_type": "group",
+              "title": "Alipay / 支付宝",
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-12T14:52:20Z",
-                "owner": "dhr2333",
-                "repo": "Beancount-Trans",
-                "stars": 77
-              }
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "deb-sig/double-entry-generator",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 213560328,
+                    "language": "Go",
+                    "last_commit": "2026-08-04T12:45:21Z",
+                    "owner": "deb-sig",
+                    "repo": "double-entry-generator",
+                    "stars": 713
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "wzyboy/awesome-beancount",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 53190399,
+                    "language": "Python",
+                    "last_commit": "2026-01-02T20:48:41Z",
+                    "owner": "wzyboy",
+                    "repo": "awesome-beancount",
+                    "stars": 178
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "dhr2333/Beancount-Trans",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 670040890,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-12T14:52:20Z",
+                    "owner": "dhr2333",
+                    "repo": "Beancount-Trans",
+                    "stars": 77
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "China Merchants Bank (CMB)",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Debit",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 53190399,
+                    "language": "Python",
+                    "last_commit": "2026-01-02T20:48:41Z",
+                    "owner": "wzyboy",
+                    "repo": "awesome-beancount",
+                    "stars": 178
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Credit",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 53190399,
+                    "language": "Python",
+                    "last_commit": "2026-01-02T20:48:41Z",
+                    "owner": "wzyboy",
+                    "repo": "awesome-beancount",
+                    "stars": 178
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "China"
         },
         {
-          "node_type": "group",
-          "title": "China Merchants Bank (CMB)",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "Debit",
+              "title": "Deutsche Kredit Bank",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 127779406,
                 "language": "Python",
-                "last_commit": "2026-01-02T20:48:41Z",
-                "owner": "wzyboy",
-                "repo": "awesome-beancount",
-                "stars": 178
+                "last_commit": "2026-08-17T18:46:28Z",
+                "owner": "siddhantgoel",
+                "repo": "beancount-dkb",
+                "stars": 52
               }
             },
             {
               "node_type": "item",
-              "title": "Credit",
+              "title": "ING",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 142293785,
                 "language": "Python",
-                "last_commit": "2026-01-02T20:48:41Z",
-                "owner": "wzyboy",
-                "repo": "awesome-beancount",
-                "stars": 178
+                "last_commit": "2026-08-17T12:23:06Z",
+                "owner": "siddhantgoel",
+                "repo": "beancount-ing",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "N26",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 216653151,
+                "language": "Python",
+                "last_commit": "2026-08-17T11:23:03Z",
+                "owner": "siddhantgoel",
+                "repo": "beancount-n26",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Commerzbank",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143616099,
+                "language": "Python",
+                "last_commit": "2024-04-11T23:33:49Z",
+                "owner": "siddhantgoel",
+                "repo": "beancount-commerzbank",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volksbank & GLS-Bank",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 326243364,
+                "language": "Python",
+                "last_commit": "2026-03-21T10:55:43Z",
+                "owner": "Fjanks",
+                "repo": "beancount-importer-volksbank",
+                "stars": 9
               }
             }
-          ]
-        }
-      ],
-      "title": "China"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Deutsche Kredit Bank",
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T18:46:28Z",
-            "owner": "siddhantgoel",
-            "repo": "beancount-dkb",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ING",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T12:23:06Z",
-            "owner": "siddhantgoel",
-            "repo": "beancount-ing",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "N26",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T11:23:03Z",
-            "owner": "siddhantgoel",
-            "repo": "beancount-n26",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Commerzbank",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-11T23:33:49Z",
-            "owner": "siddhantgoel",
-            "repo": "beancount-commerzbank",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Volksbank & GLS-Bank",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-21T10:55:43Z",
-            "owner": "Fjanks",
-            "repo": "beancount-importer-volksbank",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Germany"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Boursorama, Amex, ...",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-08T20:14:41Z",
-            "owner": "grostim",
-            "repo": "Beancount-myTools",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Caisse d'Epargne",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-04T06:12:39Z",
-            "owner": "ArthurFDLR",
-            "repo": "beancount-ce",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fortuneo, Crédit Mutuel",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-23T16:57:57Z",
-            "owner": "vrischmann",
-            "repo": "beancount-importers",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "France"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Finpension",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T14:56:26Z",
-            "owner": "Dr-Nuke",
-            "repo": "drnuke-bean",
-            "stars": 19
-          }
-        },
-        {
           "node_type": "group",
-          "title": "PostFinance",
-          "description": null,
+          "title": "Germany"
+        },
+        {
           "children": [
             {
               "node_type": "item",
-              "title": "tariochbc/beancounttools",
+              "title": "Boursorama, Amex, ...",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 208236243,
+                "language": "Python",
+                "last_commit": "2026-06-08T20:14:41Z",
+                "owner": "grostim",
+                "repo": "Beancount-myTools",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Caisse d'Epargne",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293830874,
+                "language": "Python",
+                "last_commit": "2024-01-04T06:12:39Z",
+                "owner": "ArthurFDLR",
+                "repo": "beancount-ce",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fortuneo, Crédit Mutuel",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184449304,
+                "language": "Python",
+                "last_commit": "2025-11-23T16:57:57Z",
+                "owner": "vrischmann",
+                "repo": "beancount-importers",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "France"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Finpension",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253304767,
+                "language": "Python",
+                "last_commit": "2026-08-10T14:56:26Z",
+                "owner": "Dr-Nuke",
+                "repo": "drnuke-bean",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "PostFinance",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "tariochbc/beancounttools",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 225922307,
+                    "language": "Python",
+                    "last_commit": "2026-08-05T01:41:36Z",
+                    "owner": "tarioch",
+                    "repo": "beancounttools",
+                    "stars": 97
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dr-Nuke/drnunke-bean",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 253304767,
+                    "language": "Python",
+                    "last_commit": "2026-08-10T14:56:26Z",
+                    "owner": "Dr-Nuke",
+                    "repo": "drnuke-bean",
+                    "stars": 19
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Switzerland"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Monzo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 795598816,
+                "language": "Python",
+                "last_commit": "2025-03-12T15:18:20Z",
+                "owner": "Evernight",
+                "repo": "beancount-importers",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Revolut",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Evernight/beancount-importers",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 795598816,
+                    "language": "Python",
+                    "last_commit": "2025-03-12T15:18:20Z",
+                    "owner": "Evernight",
+                    "repo": "beancount-importers",
+                    "stars": 16
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Wise:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Evernight/beancount-importers",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 795598816,
+                    "language": "Python",
+                    "last_commit": "2025-03-12T15:18:20Z",
+                    "owner": "Evernight",
+                    "repo": "beancount-importers",
+                    "stars": 16
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "UK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Amazon",
+              "description": "(GDPR Download order data, gift card. pip-installable)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260047558,
+                "language": "Python",
+                "last_commit": "2026-04-30T00:06:21Z",
+                "owner": "redstreet",
+                "repo": "beancount_reds_importers",
+                "stars": 166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IBKR",
+              "description": "(Flex Query importer and downloader)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260047558,
+                "language": "Python",
+                "last_commit": "2026-04-30T00:06:21Z",
+                "owner": "redstreet",
+                "repo": "beancount_reds_importers",
+                "stars": 166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Red's Importers",
+              "description": "(Including Ally, Chase, Citi, Fidelity, Schwab, Vanguard, pip-installable)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260047558,
+                "language": "Python",
+                "last_commit": "2026-04-30T00:06:21Z",
+                "owner": "redstreet",
+                "repo": "beancount_reds_importers",
+                "stars": 166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chase",
+              "description": "(Checking, Credit, pip-installable)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456202232,
+                "language": "Python",
+                "last_commit": "2026-08-03T23:28:33Z",
+                "owner": "mtlynch",
+                "repo": "beancount-chase-bank",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chase",
+              "description": "(Checking, pip-installable)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 320466911,
+                "language": "Python",
+                "last_commit": "2021-07-06T04:02:11Z",
+                "owner": "ArthurFDLR",
+                "repo": "beancount-chase",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mercury",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456000908,
+                "language": "Python",
+                "last_commit": "2026-03-23T19:04:34Z",
+                "owner": "mtlynch",
+                "repo": "beancount-mercury",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Capital One",
+              "description": "(Credit, pip-installable)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612254978,
+                "language": "Python",
+                "last_commit": "2026-03-23T18:56:00Z",
+                "owner": "mtlynch",
+                "repo": "beancount-capitalone",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "US"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Web UI for semi-automatically importing external data into beancount",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47961517,
+                "language": "Python",
+                "last_commit": "2026-06-06T17:52:44Z",
+                "owner": "jbms",
+                "repo": "beancount-import",
+                "stars": 470
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Augment Beancount importers with machine learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112750160,
+                "language": "Python",
+                "last_commit": "2026-07-26T12:59:09Z",
+                "owner": "beancount",
+                "repo": "smart_importer",
+                "stars": 308
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Red's Importers: Collection of simple importers and a framework to write your own",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260047558,
+                "language": "Python",
+                "last_commit": "2026-04-30T00:06:21Z",
+                "owner": "redstreet",
+                "repo": "beancount_reds_importers",
+                "stars": 166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Importers, plugins and price-fetchers for Beancount",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225922307,
                 "language": "Python",
                 "last_commit": "2026-08-05T01:41:36Z",
                 "owner": "tarioch",
@@ -388,278 +673,41 @@
             },
             {
               "node_type": "item",
-              "title": "Dr-Nuke/drnunke-bean",
-              "description": null,
+              "title": "open-banking.io",
+              "description": "beangulp importer syncing EEA & UK bank transactions over PSD2, decrypted client-side; no eIDAS certificate and no per-account daily rate-limit ()",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-10T14:56:26Z",
-                "owner": "Dr-Nuke",
-                "repo": "drnuke-bean",
-                "stars": 19
+                "id": 1264078752,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:12:21Z",
+                "owner": "open-banking-io",
+                "repo": "clients",
+                "stars": 12
               }
-            }
-          ]
-        }
-      ],
-      "title": "Switzerland"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Monzo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-12T15:18:20Z",
-            "owner": "Evernight",
-            "repo": "beancount-importers",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Revolut",
-          "description": null,
-          "children": [
+            },
             {
               "node_type": "item",
-              "title": "Evernight/beancount-importers",
+              "title": "Beancount importers for the F-Droid Budget app and for a bank CSV",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 116847092,
                 "language": "Python",
-                "last_commit": "2025-03-12T15:18:20Z",
-                "owner": "Evernight",
-                "repo": "beancount-importers",
-                "stars": 16
+                "last_commit": "2018-05-04T12:37:58Z",
+                "owner": "jamatute",
+                "repo": "beancount-importer",
+                "stars": 6
               }
             }
-          ]
-        },
-        {
+          ],
+          "description": null,
           "node_type": "group",
-          "title": "Wise:",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Evernight/beancount-importers",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-03-12T15:18:20Z",
-                "owner": "Evernight",
-                "repo": "beancount-importers",
-                "stars": 16
-              }
-            }
-          ]
+          "title": "Misc"
         }
       ],
-      "title": "UK"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Amazon",
-          "description": "(GDPR Download order data, gift card. pip-installable)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-30T00:06:21Z",
-            "owner": "redstreet",
-            "repo": "beancount_reds_importers",
-            "stars": 165
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IBKR",
-          "description": "(Flex Query importer and downloader)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-30T00:06:21Z",
-            "owner": "redstreet",
-            "repo": "beancount_reds_importers",
-            "stars": 165
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Red's Importers",
-          "description": "(Including Ally, Chase, Citi, Fidelity, Schwab, Vanguard, pip-installable)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-30T00:06:21Z",
-            "owner": "redstreet",
-            "repo": "beancount_reds_importers",
-            "stars": 165
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chase",
-          "description": "(Checking, Credit, pip-installable)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T23:28:33Z",
-            "owner": "mtlynch",
-            "repo": "beancount-chase-bank",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chase",
-          "description": "(Checking, pip-installable)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-07-06T04:02:11Z",
-            "owner": "ArthurFDLR",
-            "repo": "beancount-chase",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mercury",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-23T19:04:34Z",
-            "owner": "mtlynch",
-            "repo": "beancount-mercury",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Capital One",
-          "description": "(Credit, pip-installable)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-23T18:56:00Z",
-            "owner": "mtlynch",
-            "repo": "beancount-capitalone",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "US"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Web UI for semi-automatically importing external data into beancount",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-06T17:52:44Z",
-            "owner": "jbms",
-            "repo": "beancount-import",
-            "stars": 470
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Augment Beancount importers with machine learning",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-26T12:59:09Z",
-            "owner": "beancount",
-            "repo": "smart_importer",
-            "stars": 308
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Red's Importers: Collection of simple importers and a framework to write your own",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-30T00:06:21Z",
-            "owner": "redstreet",
-            "repo": "beancount_reds_importers",
-            "stars": 165
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Importers, plugins and price-fetchers for Beancount",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-05T01:41:36Z",
-            "owner": "tarioch",
-            "repo": "beancounttools",
-            "stars": 97
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "open-banking.io",
-          "description": "beangulp importer syncing EEA & UK bank transactions over PSD2, decrypted client-side; no eIDAS certificate and no per-account daily rate-limit ()",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-15T09:15:10Z",
-            "owner": "open-banking-io",
-            "repo": "clients",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Beancount importers for the F-Droid Budget app and for a bank CSV",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-05-04T12:37:58Z",
-            "owner": "jamatute",
-            "repo": "beancount-importer",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Misc"
+      "title": "Importers"
     },
     {
       "description": "How to export (the \"inferred\" extended form of) to other formats:",
@@ -676,6 +724,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 472152977,
                 "language": "Python",
                 "last_commit": "2026-08-11T06:42:20Z",
                 "owner": "LaunchPlatform",
@@ -697,6 +746,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 790326838,
                 "language": "PLpgSQL",
                 "last_commit": "2024-04-29T17:47:11Z",
                 "owner": "gerdemb",
@@ -710,7 +760,7 @@
       "title": "Exports"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -719,6 +769,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265094440,
             "language": "Rust",
             "last_commit": "2026-08-01T04:54:03Z",
             "owner": "polarmutex",
@@ -733,6 +784,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24867673,
             "language": "Vim Script",
             "last_commit": "2024-11-25T23:54:46Z",
             "owner": "nathangrigg",
@@ -747,6 +799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 303555018,
             "language": "Emacs Lisp",
             "last_commit": "2026-05-17T18:03:45Z",
             "owner": "beancount",
@@ -761,6 +814,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 281706272,
             "language": "Rust",
             "last_commit": "2026-07-26T08:22:43Z",
             "owner": "polarmutex",
@@ -775,6 +829,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23852513,
             "language": "Python",
             "last_commit": "2025-11-06T16:10:50Z",
             "owner": "norseghost",
@@ -789,6 +844,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23732507,
             "language": "Nix",
             "last_commit": "2026-08-18T13:54:16Z",
             "owner": "aldur",
@@ -803,6 +859,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 754898584,
             "language": "Rust",
             "last_commit": "2026-06-07T22:08:02Z",
             "owner": "zed-extensions",
@@ -814,500 +871,537 @@
       "title": "Editor Support"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "reds capital_gains_classifier",
+              "description": "rebooks capital gains into separate long and short accounts, and separate gains and losses accounts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48400521,
+                "language": "Python",
+                "last_commit": "2026-07-24T13:51:45Z",
+                "owner": "redstreet",
+                "repo": "beancount_reds_plugins",
+                "stars": 123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reds effective_date",
+              "description": "enables per-posting dates (each posting in a transaction can have a different date)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48400521,
+                "language": "Python",
+                "last_commit": "2026-07-24T13:51:45Z",
+                "owner": "redstreet",
+                "repo": "beancount_reds_plugins",
+                "stars": 123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reds opengroup",
+              "description": "Inserts open statements for sets of accounts based on specifiable rules.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48400521,
+                "language": "Python",
+                "last_commit": "2026-07-24T13:51:45Z",
+                "owner": "redstreet",
+                "repo": "beancount_reds_plugins",
+                "stars": 123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reds rename_accounts",
+              "description": "rename arbitrary accounts on the fly (eg: move Taxes from Expenses to Income when you temporarily want to view all your Expenses except taxes)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48400521,
+                "language": "Python",
+                "last_commit": "2026-07-24T13:51:45Z",
+                "owner": "redstreet",
+                "repo": "beancount_reds_plugins",
+                "stars": 123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reds zerosum",
+              "description": "find matching pairs of postings that sum up to zero. Useful in de-duplication, and tracking things such as reimbursements, rebates, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48400521,
+                "language": "Python",
+                "last_commit": "2026-07-24T13:51:45Z",
+                "owner": "redstreet",
+                "repo": "beancount_reds_plugins",
+                "stars": 123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "beangrow",
+              "description": "computes investment returns on a variety of assets",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 333634558,
+                "language": "Python",
+                "last_commit": "2025-10-15T03:43:30Z",
+                "owner": "beancount",
+                "repo": "beangrow",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "autobean.include",
+              "description": "Includes external beancount ledgers without disabling their plugins",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201581324,
+                "language": "Python",
+                "last_commit": "2026-07-12T20:08:14Z",
+                "owner": "SEIAROTg",
+                "repo": "autobean",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "autobean.narration",
+              "description": "Generates transaction narration from posting narration and posting narration from comments",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201581324,
+                "language": "Python",
+                "last_commit": "2026-07-12T20:08:14Z",
+                "owner": "SEIAROTg",
+                "repo": "autobean",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "autobean.share",
+              "description": "Expense split, joint bookkeeping, and debt management for personal use cases",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201581324,
+                "language": "Python",
+                "last_commit": "2026-07-12T20:08:14Z",
+                "owner": "SEIAROTg",
+                "repo": "autobean",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "autobean.sorted",
+              "description": "Checks that transactions are in non-descending order in each file",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201581324,
+                "language": "Python",
+                "last_commit": "2026-07-12T20:08:14Z",
+                "owner": "SEIAROTg",
+                "repo": "autobean",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "autobean.truelayer",
+              "description": "Imports transactions from banks via TrueLayer, a bank API aggregator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201581324,
+                "language": "Python",
+                "last_commit": "2026-07-12T20:08:14Z",
+                "owner": "SEIAROTg",
+                "repo": "autobean",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "autobean.xcheck",
+              "description": "Cross-checks against external ledgers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201581324,
+                "language": "Python",
+                "last_commit": "2026-07-12T20:08:14Z",
+                "owner": "SEIAROTg",
+                "repo": "autobean",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "portfolio-returns",
+              "description": "calculates money-weighted and time-weighted returns for a portfolio",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164037366,
+                "language": "Python",
+                "last_commit": "2022-08-28T14:36:16Z",
+                "owner": "hoostus",
+                "repo": "portfolio-returns",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "portfolio_allocation",
+              "description": "reports on portfolio asset allocations; useful for risk analysis and for rebalancing purposes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137623549,
+                "language": "Python",
+                "last_commit": "2025-11-29T17:01:56Z",
+                "owner": "ghislainbourgeois",
+                "repo": "beancount_portfolio_allocation",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "beancount-balancechange",
+              "description": "Checks change in balance between two dates",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 459365274,
+                "language": "Python",
+                "last_commit": "2025-07-12T15:04:38Z",
+                "owner": "daniel-wells",
+                "repo": "beancount_balancechange",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "beancount-balexpr",
+              "description": "Check balances against simple expressions combining accounts in Beancount",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 346462384,
+                "language": "Python",
+                "last_commit": "2025-09-24T03:08:11Z",
+                "owner": "w1ndy",
+                "repo": "beancount_balexpr",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "beancount-checkclosed",
+              "description": "Automatically insert a 0 balance check for closed balance sheet accounts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456281012,
+                "language": "Python",
+                "last_commit": "2025-07-12T15:05:10Z",
+                "owner": "daniel-wells",
+                "repo": "beancount_checkclosed",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "beancount-lazy-plugins.filter_map",
+              "description": "apply operations to group of transactions selected by Fava filters",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 863571695,
+                "language": "Python",
+                "last_commit": "2026-06-01T13:04:59Z",
+                "owner": "Evernight",
+                "repo": "beancount-lazy-plugins",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "beancount-lazy-plugins.valuation",
+              "description": "track total value of the opaque fund over time",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 863571695,
+                "language": "Python",
+                "last_commit": "2026-06-01T13:04:59Z",
+                "owner": "Evernight",
+                "repo": "beancount-lazy-plugins",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "beancount-lazy-plugins.tag_from_continuous_events",
+              "description": "apply tags to transactions based on Events",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 863571695,
+                "language": "Python",
+                "last_commit": "2026-06-01T13:04:59Z",
+                "owner": "Evernight",
+                "repo": "beancount-lazy-plugins",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "beancount-lazy-plugins.balance_extended",
+              "description": "adds extended balance assertions (full, padded, full-padded)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 863571695,
+                "language": "Python",
+                "last_commit": "2026-06-01T13:04:59Z",
+                "owner": "Evernight",
+                "repo": "beancount-lazy-plugins",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "metadata-spray",
+              "description": "use a regex pattern to add metadata to entries",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157490987,
+                "language": "Python",
+                "last_commit": "2019-08-28T18:46:38Z",
+                "owner": "seltzered",
+                "repo": "beancount-plugins-metadata-spray",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "beancount-mortgage",
+              "description": "Plugin to simulate loan/mortgage schedule and payments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1317642595,
+                "language": "Python",
+                "last_commit": "2026-08-05T10:38:46Z",
+                "owner": "mclate",
+                "repo": "beancount-mortgage",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Beancount"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fava-dashboards",
+              "description": "Additional fully custom dashboards",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 611467725,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T14:27:50Z",
+                "owner": "andreasgerstmayr",
+                "repo": "fava-dashboards",
+                "stars": 398
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fava_investor",
+              "description": "reports, analyses, and tools for investments",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245901501,
+                "language": "Python",
+                "last_commit": "2026-01-21T20:19:04Z",
+                "owner": "redstreet",
+                "repo": "fava_investor",
+                "stars": 180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fava-envelope",
+              "description": "Beancount Fava extension for envelope budgeting",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252475092,
+                "language": "Python",
+                "last_commit": "2025-07-17T02:23:15Z",
+                "owner": "polarmutex",
+                "repo": "fava-envelope",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fava-portfolio-returns",
+              "description": "shows portfolio returns",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 460908160,
+                "language": "Python",
+                "last_commit": "2026-08-15T14:58:42Z",
+                "owner": "andreasgerstmayr",
+                "repo": "fava-portfolio-returns",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fava-portfolio-summary",
+              "description": "grouped portfolio view; also calculate MWRR (Money-Weighted Rate of Return) or TWRR (Time-Weighted Rate of Return)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 417156425,
+                "language": "Python",
+                "last_commit": "2025-01-07T18:23:30Z",
+                "owner": "PhracturedBlue",
+                "repo": "fava-portfolio-summary",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fava-classy-portfolio",
+              "description": "displays a list of different portfolios, with breakdowns using metadata labels",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 207036421,
+                "language": "Python",
+                "last_commit": "2022-02-04T16:53:43Z",
+                "owner": "seltzered",
+                "repo": "fava-classy-portfolio",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fava_budget_freedom",
+              "description": "provide flexible and powerful budget management and visualization features",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1106601325,
+                "language": "Python",
+                "last_commit": "2026-02-07T15:04:43Z",
+                "owner": "Leon2xiaowu",
+                "repo": "fava_budget_freedom",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fava-currency-tracker",
+              "description": "Currency exchange rate dashboard for Fava",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1129734399,
+                "language": "TypeScript",
+                "last_commit": "2026-04-08T16:59:55Z",
+                "owner": "Evernight",
+                "repo": "fava-currency-tracker",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "beancount-plugin-tax-uk",
+              "description": "UK tax reporting for Beancount (capital gains and more)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 943361737,
+                "language": "Python",
+                "last_commit": "2026-07-04T18:14:31Z",
+                "owner": "Evernight",
+                "repo": "beancount-plugin-tax-uk",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "beantab",
+              "description": "Beancount Fava extension for balances editing visualization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1157359674,
+                "language": "TypeScript",
+                "last_commit": "2026-06-01T13:47:12Z",
+                "owner": "Evernight",
+                "repo": "beantab",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fava-git",
+              "description": "simple Git integration for Fava",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1157464699,
+                "language": "TypeScript",
+                "last_commit": "2026-04-09T16:26:32Z",
+                "owner": "Evernight",
+                "repo": "fava-git",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fava"
+        }
+      ],
       "title": "Plugins"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "reds capital_gains_classifier",
-          "description": "rebooks capital gains into separate long and short accounts, and separate gains and losses accounts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-24T13:51:45Z",
-            "owner": "redstreet",
-            "repo": "beancount_reds_plugins",
-            "stars": 123
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "reds effective_date",
-          "description": "enables per-posting dates (each posting in a transaction can have a different date)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-24T13:51:45Z",
-            "owner": "redstreet",
-            "repo": "beancount_reds_plugins",
-            "stars": 123
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "reds opengroup",
-          "description": "Inserts open statements for sets of accounts based on specifiable rules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-24T13:51:45Z",
-            "owner": "redstreet",
-            "repo": "beancount_reds_plugins",
-            "stars": 123
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "reds rename_accounts",
-          "description": "rename arbitrary accounts on the fly (eg: move Taxes from Expenses to Income when you temporarily want to view all your Expenses except taxes)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-24T13:51:45Z",
-            "owner": "redstreet",
-            "repo": "beancount_reds_plugins",
-            "stars": 123
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "reds zerosum",
-          "description": "find matching pairs of postings that sum up to zero. Useful in de-duplication, and tracking things such as reimbursements, rebates, etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-24T13:51:45Z",
-            "owner": "redstreet",
-            "repo": "beancount_reds_plugins",
-            "stars": 123
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "beangrow",
-          "description": "computes investment returns on a variety of assets",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-15T03:43:30Z",
-            "owner": "beancount",
-            "repo": "beangrow",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "autobean.include",
-          "description": "Includes external beancount ledgers without disabling their plugins",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-12T20:08:14Z",
-            "owner": "SEIAROTg",
-            "repo": "autobean",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "autobean.narration",
-          "description": "Generates transaction narration from posting narration and posting narration from comments",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-12T20:08:14Z",
-            "owner": "SEIAROTg",
-            "repo": "autobean",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "autobean.share",
-          "description": "Expense split, joint bookkeeping, and debt management for personal use cases",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-12T20:08:14Z",
-            "owner": "SEIAROTg",
-            "repo": "autobean",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "autobean.sorted",
-          "description": "Checks that transactions are in non-descending order in each file",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-12T20:08:14Z",
-            "owner": "SEIAROTg",
-            "repo": "autobean",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "autobean.truelayer",
-          "description": "Imports transactions from banks via TrueLayer, a bank API aggregator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-12T20:08:14Z",
-            "owner": "SEIAROTg",
-            "repo": "autobean",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "autobean.xcheck",
-          "description": "Cross-checks against external ledgers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-12T20:08:14Z",
-            "owner": "SEIAROTg",
-            "repo": "autobean",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "portfolio-returns",
-          "description": "calculates money-weighted and time-weighted returns for a portfolio",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-08-28T14:36:16Z",
-            "owner": "hoostus",
-            "repo": "portfolio-returns",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "portfolio_allocation",
-          "description": "reports on portfolio asset allocations; useful for risk analysis and for rebalancing purposes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-29T17:01:56Z",
-            "owner": "ghislainbourgeois",
-            "repo": "beancount_portfolio_allocation",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "beancount-balancechange",
-          "description": "Checks change in balance between two dates",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-12T15:04:38Z",
-            "owner": "daniel-wells",
-            "repo": "beancount_balancechange",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "beancount-balexpr",
-          "description": "Check balances against simple expressions combining accounts in Beancount",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-24T03:08:11Z",
-            "owner": "w1ndy",
-            "repo": "beancount_balexpr",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "beancount-checkclosed",
-          "description": "Automatically insert a 0 balance check for closed balance sheet accounts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-12T15:05:10Z",
-            "owner": "daniel-wells",
-            "repo": "beancount_checkclosed",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "beancount-lazy-plugins.filter_map",
-          "description": "apply operations to group of transactions selected by Fava filters",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-01T13:04:59Z",
-            "owner": "Evernight",
-            "repo": "beancount-lazy-plugins",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "beancount-lazy-plugins.valuation",
-          "description": "track total value of the opaque fund over time",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-01T13:04:59Z",
-            "owner": "Evernight",
-            "repo": "beancount-lazy-plugins",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "beancount-lazy-plugins.tag_from_continuous_events",
-          "description": "apply tags to transactions based on Events",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-01T13:04:59Z",
-            "owner": "Evernight",
-            "repo": "beancount-lazy-plugins",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "beancount-lazy-plugins.balance_extended",
-          "description": "adds extended balance assertions (full, padded, full-padded)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-01T13:04:59Z",
-            "owner": "Evernight",
-            "repo": "beancount-lazy-plugins",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "metadata-spray",
-          "description": "use a regex pattern to add metadata to entries",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-08-28T18:46:38Z",
-            "owner": "seltzered",
-            "repo": "beancount-plugins-metadata-spray",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "beancount-mortgage",
-          "description": "Plugin to simulate loan/mortgage schedule and payments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-05T10:38:46Z",
-            "owner": "mclate",
-            "repo": "beancount-mortgage",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Beancount"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "fava-dashboards",
-          "description": "Additional fully custom dashboards",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T14:27:50Z",
-            "owner": "andreasgerstmayr",
-            "repo": "fava-dashboards",
-            "stars": 398
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fava_investor",
-          "description": "reports, analyses, and tools for investments",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-21T20:19:04Z",
-            "owner": "redstreet",
-            "repo": "fava_investor",
-            "stars": 180
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fava-envelope",
-          "description": "Beancount Fava extension for envelope budgeting",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-17T02:23:15Z",
-            "owner": "polarmutex",
-            "repo": "fava-envelope",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fava-portfolio-returns",
-          "description": "shows portfolio returns",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-15T14:58:42Z",
-            "owner": "andreasgerstmayr",
-            "repo": "fava-portfolio-returns",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fava-portfolio-summary",
-          "description": "grouped portfolio view; also calculate MWRR (Money-Weighted Rate of Return) or TWRR (Time-Weighted Rate of Return)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-07T18:23:30Z",
-            "owner": "PhracturedBlue",
-            "repo": "fava-portfolio-summary",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fava-classy-portfolio",
-          "description": "displays a list of different portfolios, with breakdowns using metadata labels",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-02-04T16:53:43Z",
-            "owner": "seltzered",
-            "repo": "fava-classy-portfolio",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fava_budget_freedom",
-          "description": "provide flexible and powerful budget management and visualization features",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-07T15:04:43Z",
-            "owner": "Leon2xiaowu",
-            "repo": "fava_budget_freedom",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fava-currency-tracker",
-          "description": "Currency exchange rate dashboard for Fava",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-08T16:59:55Z",
-            "owner": "Evernight",
-            "repo": "fava-currency-tracker",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "beancount-plugin-tax-uk",
-          "description": "UK tax reporting for Beancount (capital gains and more)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-04T18:14:31Z",
-            "owner": "Evernight",
-            "repo": "beancount-plugin-tax-uk",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "beantab",
-          "description": "Beancount Fava extension for balances editing visualization",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-01T13:47:12Z",
-            "owner": "Evernight",
-            "repo": "beantab",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fava-git",
-          "description": "simple Git integration for Fava",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-09T16:26:32Z",
-            "owner": "Evernight",
-            "repo": "fava-git",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Fava"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1316,11 +1410,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213560328,
             "language": "Go",
             "last_commit": "2026-08-04T12:45:21Z",
             "owner": "deb-sig",
             "repo": "double-entry-generator",
-            "stars": 712
+            "stars": 713
           }
         },
         {
@@ -1330,6 +1425,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 910161,
             "language": "Python",
             "last_commit": "2026-08-01T07:16:20Z",
             "owner": "csingley",
@@ -1344,6 +1440,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 477183163,
             "language": "Python",
             "last_commit": "2025-03-08T21:08:05Z",
             "owner": "LaunchPlatform",
@@ -1358,6 +1455,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 958212823,
             "language": "Python",
             "last_commit": "2025-04-01T07:20:42Z",
             "owner": "vanto",
@@ -1372,6 +1470,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 476501536,
             "language": "Python",
             "last_commit": "2024-05-09T18:37:02Z",
             "owner": "LaunchPlatform",
@@ -1386,6 +1485,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 841375464,
             "language": "Python",
             "last_commit": "2026-05-19T13:38:43Z",
             "owner": "StdioA",
@@ -1400,6 +1500,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81868948,
             "language": "Clojure",
             "last_commit": "2017-02-24T14:43:07Z",
             "owner": "PaNaVTEC",
@@ -1414,6 +1515,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 567492685,
             "language": "Python",
             "last_commit": "2026-07-23T16:04:27Z",
             "owner": "maread99",
@@ -1428,6 +1530,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 351864621,
             "language": "Python",
             "last_commit": "2021-03-27T13:54:17Z",
             "owner": "bratekarate",
@@ -1442,6 +1545,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 688288170,
             "language": "Python",
             "last_commit": "2026-03-06T02:28:25Z",
             "owner": "LaunchPlatform",
@@ -1456,6 +1560,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78843665,
             "language": "Python",
             "last_commit": "2024-02-13T05:20:33Z",
             "owner": "hoostus",
@@ -1470,6 +1575,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189510973,
             "language": "Python",
             "last_commit": "2020-07-07T12:09:50Z",
             "owner": "zhangzhishan",
@@ -1484,8 +1590,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 463996532,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T08:03:26Z",
+            "last_commit": "2026-08-19T04:46:35Z",
             "owner": "LaunchPlatform",
             "repo": "beanhub-web-react",
             "stars": 2
@@ -1503,6 +1610,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 77810166,
                 "language": "Python",
                 "last_commit": "2022-09-27T17:38:04Z",
                 "owner": "henriquebastos",
@@ -1517,6 +1625,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 798350702,
                 "language": "Python",
                 "last_commit": "2026-03-01T10:34:49Z",
                 "owner": "dtrai2",
@@ -1538,6 +1647,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 125626223,
                 "language": "Perl",
                 "last_commit": "2026-06-14T07:22:39Z",
                 "owner": "beancount",
@@ -1552,6 +1662,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 100901430,
                 "language": "Python",
                 "last_commit": "2024-01-02T08:59:11Z",
                 "owner": "glasserc",
@@ -1560,30 +1671,12 @@
               }
             }
           ]
-        },
-        {
-          "node_type": "item",
-          "title": "beanhub-cli",
-          "description": "Beancount command line tools with features like formatter, beanhub-import and a beanhub-forms web app",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "beanhub-extract",
-          "description": "Simple Python library for extracting all kinds of bank export CSV files into standardized transaction data objects",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "beanhub-import",
-          "description": "Declarative idempotent rule-based beancount transaction import engine in Python consumes data extracted by beanhub-extract",
-          "children": []
         }
       ],
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1592,6 +1685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203583193,
             "language": "Python",
             "last_commit": "2026-03-07T09:12:29Z",
             "owner": "xuhcc",
@@ -1606,6 +1700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202524060,
             "language": "Python",
             "last_commit": "2024-12-27T10:38:54Z",
             "owner": "xuhcc",
@@ -1617,7 +1712,7 @@
       "title": "Price Sources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1626,6 +1721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 784206642,
             "language": "TypeScript",
             "last_commit": "2026-06-03T13:44:34Z",
             "owner": "Evernight",
@@ -1640,6 +1736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137623549,
             "language": "Python",
             "last_commit": "2025-11-29T17:01:56Z",
             "owner": "ghislainbourgeois",
@@ -1654,6 +1751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 945909824,
             "language": "Java",
             "last_commit": "2025-03-10T21:14:52Z",
             "owner": "jbeancount",
@@ -1666,8 +1764,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:18:57.329Z",
+    "last_updated": "2026-08-19T12:19:06.482Z",
     "original_repository": "siddhantgoel/awesome-beancount",
+    "original_repository_id": 154991835,
     "original_repository_sha": "7cc1dea3bcb3945f8314caef5739f1ce83578a5e",
     "enhanced_repository": "enhansome/enhansome-beancount",
     "enhanced_repository_description": null,
