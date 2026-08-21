@@ -15,7 +15,7 @@
             "last_commit": "2026-05-18T12:28:07Z",
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5924
+            "stars": 5925
           }
         },
         {
@@ -126,7 +126,7 @@
                 "last_commit": "2026-08-04T12:45:21Z",
                 "owner": "deb-sig",
                 "repo": "double-entry-generator",
-                "stars": 713
+                "stars": 714
               }
             },
             {
@@ -161,7 +161,7 @@
                     "last_commit": "2026-08-04T12:45:21Z",
                     "owner": "deb-sig",
                     "repo": "double-entry-generator",
-                    "stars": 713
+                    "stars": 714
                   }
                 },
                 {
@@ -620,7 +620,7 @@
                 "archived": false,
                 "id": 47961517,
                 "language": "Python",
-                "last_commit": "2026-06-06T17:52:44Z",
+                "last_commit": "2026-08-20T17:11:43Z",
                 "owner": "jbms",
                 "repo": "beancount-import",
                 "stars": 470
@@ -774,7 +774,7 @@
             "last_commit": "2026-08-01T04:54:03Z",
             "owner": "polarmutex",
             "repo": "beancount-language-server",
-            "stars": 245
+            "stars": 244
           }
         },
         {
@@ -1239,7 +1239,7 @@
                 "last_commit": "2026-08-15T14:27:50Z",
                 "owner": "andreasgerstmayr",
                 "repo": "fava-dashboards",
-                "stars": 398
+                "stars": 399
               }
             },
             {
@@ -1415,7 +1415,7 @@
             "last_commit": "2026-08-04T12:45:21Z",
             "owner": "deb-sig",
             "repo": "double-entry-generator",
-            "stars": 713
+            "stars": 714
           }
         },
         {
@@ -1764,7 +1764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:22:29.463Z",
+    "last_updated": "2026-08-21T14:20:50.493Z",
     "original_repository": "siddhantgoel/awesome-beancount",
     "original_repository_id": 154991835,
     "original_repository_sha": "7cc1dea3bcb3945f8314caef5739f1ce83578a5e",
