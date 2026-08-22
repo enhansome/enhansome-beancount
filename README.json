@@ -15,7 +15,7 @@
             "last_commit": "2026-05-18T12:28:07Z",
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5925
+            "stars": 5927
           }
         },
         {
@@ -1430,7 +1430,7 @@
             "last_commit": "2026-08-01T07:16:20Z",
             "owner": "csingley",
             "repo": "ofxtools",
-            "stars": 344
+            "stars": 345
           }
         },
         {
@@ -1764,7 +1764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:20:50.493Z",
+    "last_updated": "2026-08-22T14:07:08.625Z",
     "original_repository": "siddhantgoel/awesome-beancount",
     "original_repository_id": 154991835,
     "original_repository_sha": "7cc1dea3bcb3945f8314caef5739f1ce83578a5e",
