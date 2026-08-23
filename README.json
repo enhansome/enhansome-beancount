@@ -15,7 +15,7 @@
             "last_commit": "2026-05-18T12:28:07Z",
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5927
+            "stars": 5932
           }
         },
         {
@@ -282,7 +282,7 @@
                 "last_commit": "2026-08-17T11:23:03Z",
                 "owner": "siddhantgoel",
                 "repo": "beancount-n26",
-                "stars": 29
+                "stars": 28
               }
             },
             {
@@ -729,7 +729,7 @@
                 "last_commit": "2026-08-11T06:42:20Z",
                 "owner": "LaunchPlatform",
                 "repo": "beancount-exporter",
-                "stars": 3
+                "stars": 4
               }
             }
           ]
@@ -1764,7 +1764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:07:08.625Z",
+    "last_updated": "2026-08-23T14:09:39.656Z",
     "original_repository": "siddhantgoel/awesome-beancount",
     "original_repository_id": 154991835,
     "original_repository_sha": "7cc1dea3bcb3945f8314caef5739f1ce83578a5e",

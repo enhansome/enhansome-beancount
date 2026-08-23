@@ -15,7 +15,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Official Resources
 
-* [Source Code](https://github.com/beancount/beancount) ⭐ 5,927 | 🐛 235 | 🌐 Python | 📅 2026-05-18
+* [Source Code](https://github.com/beancount/beancount) ⭐ 5,932 | 🐛 236 | 🌐 Python | 📅 2026-05-18
 * [Homepage](https://beancount.github.io/)
 * Documentation
   * [GitHub Pages](https://beancount.github.io/docs/) ([generated](https://github.com/beancount/docs) ⭐ 59 | 🐛 12 | 🌐 Python | 📅 2026-07-11 from Google Docs)
@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 372 | 🐛 4 | 🌐 Rust | 📅 2026-08-22 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 374 | 🐛 3 | 🌐 Rust | 📅 2026-08-23 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
@@ -57,7 +57,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 * [Deutsche Kredit Bank](https://github.com/siddhantgoel/beancount-dkb) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2026-08-17
 * [ING](https://github.com/siddhantgoel/beancount-ing) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2026-08-17
-* [N26](https://github.com/siddhantgoel/beancount-n26) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2026-08-17
+* [N26](https://github.com/siddhantgoel/beancount-n26) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2026-08-17
 * [Commerzbank](https://github.com/siddhantgoel/beancount-commerzbank) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2024-04-11
 * [Volksbank & GLS-Bank](https://github.com/Fjanks/beancount-importer-volksbank) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-03-21
 
@@ -131,7 +131,7 @@ system — ideal for plain text accounting users and Python software developers.
 How to export (the "inferred" *extended form* of) `*.beancount` to other formats:
 
 * JSON
-  * <https://github.com/LaunchPlatform/beancount-exporter> ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2026-08-11
+  * <https://github.com/LaunchPlatform/beancount-exporter> ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-08-11
   * <https://gist.github.com/xiaoruoruo/3fdf8d0f92b3fd85f259b35f888e4257>
 * RDBMS
   * [Postgres](https://github.com/gerdemb/beanpost) ⭐ 66 | 🐛 0 | 🌐 PLpgSQL | 📅 2024-04-29
@@ -291,4 +291,4 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
