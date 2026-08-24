@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 375 | 🐛 5 | 🌐 Rust | 📅 2026-08-24 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 375 | 🐛 4 | 🌐 Rust | 📅 2026-08-24 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
