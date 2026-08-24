@@ -15,7 +15,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Official Resources
 
-* [Source Code](https://github.com/beancount/beancount) ⭐ 5,932 | 🐛 236 | 🌐 Python | 📅 2026-05-18
+* [Source Code](https://github.com/beancount/beancount) ⭐ 5,937 | 🐛 236 | 🌐 Python | 📅 2026-08-23
 * [Homepage](https://beancount.github.io/)
 * Documentation
   * [GitHub Pages](https://beancount.github.io/docs/) ([generated](https://github.com/beancount/docs) ⭐ 59 | 🐛 12 | 🌐 Python | 📅 2026-07-11 from Google Docs)
@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 374 | 🐛 3 | 🌐 Rust | 📅 2026-08-23 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 375 | 🐛 5 | 🌐 Rust | 📅 2026-08-24 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
@@ -48,7 +48,7 @@ system — ideal for plain text accounting users and Python software developers.
 * Alipay / 支付宝
   * [deb-sig/double-entry-generator](https://github.com/deb-sig/double-entry-generator) ⭐ 714 | 🐛 27 | 🌐 Go | 📅 2026-08-04
   * [wzyboy/awesome-beancount](https://github.com/wzyboy/awesome-beancount/blob/master/importers/alipay_acclog.py) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2026-01-02
-  * [dhr2333/Beancount-Trans](https://github.com/dhr2333/Beancount-Trans) ⭐ 77 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-12
+  * [dhr2333/Beancount-Trans](https://github.com/dhr2333/Beancount-Trans) ⭐ 77 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-24
 * China Merchants Bank (CMB)
   * [Debit](https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_debit_cards.py) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2026-01-02
   * [Credit](https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_credit_cards.py) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2026-01-02
@@ -56,8 +56,8 @@ system — ideal for plain text accounting users and Python software developers.
 ### Germany
 
 * [Deutsche Kredit Bank](https://github.com/siddhantgoel/beancount-dkb) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2026-08-17
-* [ING](https://github.com/siddhantgoel/beancount-ing) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2026-08-17
-* [N26](https://github.com/siddhantgoel/beancount-n26) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2026-08-17
+* [ING](https://github.com/siddhantgoel/beancount-ing) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2026-08-24
+* [N26](https://github.com/siddhantgoel/beancount-n26) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2026-08-24
 * [Commerzbank](https://github.com/siddhantgoel/beancount-commerzbank) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2024-04-11
 * [Volksbank & GLS-Bank](https://github.com/Fjanks/beancount-importer-volksbank) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-03-21
 
@@ -98,9 +98,9 @@ system — ideal for plain text accounting users and Python software developers.
 
 ### US
 
-* [Amazon](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers/amazon) ⭐ 166 | 🐛 32 | 🌐 Python | 📅 2026-04-30 (GDPR Download order data, gift card. pip-installable)
-* [IBKR](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers/ibkr) ⭐ 166 | 🐛 32 | 🌐 Python | 📅 2026-04-30 (Flex Query importer and downloader)
-* [Red's Importers](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers) ⭐ 166 | 🐛 32 | 🌐 Python | 📅 2026-04-30 (Including Ally, Chase, Citi, Fidelity, Schwab, Vanguard, pip-installable)
+* [Amazon](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers/amazon) ⭐ 166 | 🐛 33 | 🌐 Python | 📅 2026-04-30 (GDPR Download order data, gift card. pip-installable)
+* [IBKR](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers/ibkr) ⭐ 166 | 🐛 33 | 🌐 Python | 📅 2026-04-30 (Flex Query importer and downloader)
+* [Red's Importers](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers) ⭐ 166 | 🐛 33 | 🌐 Python | 📅 2026-04-30 (Including Ally, Chase, Citi, Fidelity, Schwab, Vanguard, pip-installable)
 * [Chase](https://github.com/mtlynch/beancount-chase-bank) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-08-03 (Checking, Credit, pip-installable)
 * [Chase](https://github.com/ArthurFDLR/beancount-chase) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2021-07-06 (Checking, pip-installable)
 * [Mercury](https://github.com/mtlynch/beancount-mercury) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2026-03-23
@@ -120,7 +120,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 * [Web UI for semi-automatically importing external data into beancount](https://github.com/jbms/beancount-import) ⭐ 470 | 🐛 78 | 🌐 Python | 📅 2026-08-20
 * [Augment Beancount importers with machine learning](https://github.com/beancount/smart_importer) ⭐ 308 | 🐛 4 | 🌐 Python | 📅 2026-07-26
-* [Red's Importers: Collection of simple importers and a framework to write your own](https://github.com/redstreet/beancount_reds_importers) ⭐ 166 | 🐛 32 | 🌐 Python | 📅 2026-04-30
+* [Red's Importers: Collection of simple importers and a framework to write your own](https://github.com/redstreet/beancount_reds_importers) ⭐ 166 | 🐛 33 | 🌐 Python | 📅 2026-04-30
 * [Importers, plugins and price-fetchers for Beancount](https://github.com/tarioch/beancounttools) ⭐ 97 | 🐛 12 | 🌐 Python | 📅 2026-08-05
 * [open-banking.io](https://github.com/open-banking-io/clients/tree/main/beancount) ⭐ 12 | 🐛 6 | 🌐 Go | 📅 2026-08-19: beangulp importer syncing EEA & UK bank transactions over PSD2, decrypted client-side; no eIDAS certificate and no per-account daily rate-limit (`pip install beancount-openbanking-io`)
 * [Beancount importers for the F-Droid Budget app and for a bank CSV](https://github.com/jamatute/beancount-importer) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2018-05-04
@@ -159,7 +159,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [Emacs](https://github.com/beancount/beancount-mode) ⭐ 159 | 🐛 11 | 🌐 Emacs Lisp | 📅 2026-05-17
 * [Tree-Sitter](https://github.com/polarmutex/tree-sitter-beancount) ⭐ 55 | 🐛 7 | 🌐 Rust | 📅 2026-07-26
 * [Sublime Text](https://github.com/norseghost/sublime-beancount) ⭐ 35 | 🐛 8 | 🌐 Python | 📅 2025-11-06
-* [ctags](https://github.com/aldur/dotfiles/blob/master/various/ctags/beancount.ctags) ⭐ 23 | 🐛 0 | 🌐 Nix | 📅 2026-08-18
+* [ctags](https://github.com/aldur/dotfiles/blob/master/various/ctags/beancount.ctags) ⭐ 23 | 🐛 0 | 🌐 Nix | 📅 2026-08-24
 * [Zed](https://github.com/zed-extensions/beancount) ⭐ 18 | 🐛 5 | 🌐 Rust | 📅 2026-06-07
 * [Atom](https://atom.io/packages/beancount)
 * [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
@@ -173,7 +173,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [reds opengroup](https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/opengroup#readme) ⭐ 123 | 🐛 9 | 🌐 Python | 📅 2026-07-24: Inserts open statements for sets of accounts based on specifiable rules.
 * [reds rename\_accounts](https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/rename_accounts#readme) ⭐ 123 | 🐛 9 | 🌐 Python | 📅 2026-07-24: rename arbitrary accounts on the fly (eg: move Taxes from Expenses to Income when you temporarily want to view all your Expenses except taxes)
 * [reds zerosum](https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/zerosum#readme) ⭐ 123 | 🐛 9 | 🌐 Python | 📅 2026-07-24: find matching pairs of postings that sum up to zero. Useful in de-duplication, and tracking things such as reimbursements, rebates, etc.
-* [beangrow](https://github.com/beancount/beangrow) ⭐ 89 | 🐛 17 | 🌐 Python | 📅 2025-10-15 computes investment returns on a variety of assets
+* [beangrow](https://github.com/beancount/beangrow) ⭐ 89 | 🐛 18 | 🌐 Python | 📅 2025-10-15 computes investment returns on a variety of assets
 * [autobean.include](https://github.com/SEIAROTg/autobean/tree/master/autobean/include) ⭐ 77 | 🐛 8 | 🌐 Python | 📅 2026-07-12: Includes external beancount ledgers without disabling their plugins
 * [autobean.narration](https://github.com/SEIAROTg/autobean/tree/master/autobean/narration) ⭐ 77 | 🐛 8 | 🌐 Python | 📅 2026-07-12: Generates transaction narration from posting narration and posting narration from comments
 * [autobean.share](https://github.com/SEIAROTg/autobean/tree/master/autobean/share) ⭐ 77 | 🐛 8 | 🌐 Python | 📅 2026-07-12: Expense split, joint bookkeeping, and debt management for personal use cases
@@ -190,7 +190,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [beancount-lazy-plugins.tag\_from\_continuous\_events](https://github.com/Evernight/beancount-lazy-plugins/blob/main/docs/tag_from_continuous_events/README.md) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2026-06-01 - apply tags to transactions based on Events
 * [beancount-lazy-plugins.balance\_extended](https://github.com/Evernight/beancount-lazy-plugins/blob/main/docs/balance_extended/README.md) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2026-06-01 - adds extended balance assertions (full, padded, full-padded)
 * [metadata-spray](https://github.com/seltzered/beancount-plugins-metadata-spray) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2019-08-28 use a regex pattern to add metadata to entries
-* [beancount-mortgage](https://github.com/mclate/beancount-mortgage) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-05: Plugin to simulate loan/mortgage schedule and payments.
+* [beancount-mortgage](https://github.com/mclate/beancount-mortgage) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-24: Plugin to simulate loan/mortgage schedule and payments.
 
 ### Fava
 
@@ -291,4 +291,4 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

@@ -12,10 +12,10 @@
             "archived": false,
             "id": 266158455,
             "language": "Python",
-            "last_commit": "2026-05-18T12:28:07Z",
+            "last_commit": "2026-08-23T20:17:45Z",
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5932
+            "stars": 5937
           }
         },
         {
@@ -188,7 +188,7 @@
                     "archived": false,
                     "id": 670040890,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-12T14:52:20Z",
+                    "last_commit": "2026-08-24T08:58:09Z",
                     "owner": "dhr2333",
                     "repo": "Beancount-Trans",
                     "stars": 77
@@ -264,7 +264,7 @@
                 "archived": false,
                 "id": 142293785,
                 "language": "Python",
-                "last_commit": "2026-08-17T12:23:06Z",
+                "last_commit": "2026-08-24T12:22:59Z",
                 "owner": "siddhantgoel",
                 "repo": "beancount-ing",
                 "stars": 36
@@ -279,7 +279,7 @@
                 "archived": false,
                 "id": 216653151,
                 "language": "Python",
-                "last_commit": "2026-08-17T11:23:03Z",
+                "last_commit": "2026-08-24T11:23:05Z",
                 "owner": "siddhantgoel",
                 "repo": "beancount-n26",
                 "stars": 28
@@ -371,6 +371,50 @@
           "description": null,
           "node_type": "group",
           "title": "France"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SBI/BOI/PAYTM/HSBC/ICICI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 443802274,
+                "language": "Python",
+                "last_commit": "2024-10-19T10:54:46Z",
+                "owner": "dumbPy",
+                "repo": "beancount-importers-india",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "India"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ABN AMRO Bank",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 746290587,
+                "language": "Python",
+                "last_commit": "2024-01-21T17:48:52Z",
+                "owner": "deepakg",
+                "repo": "beancount-abnamro",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "The Netherlands"
         },
         {
           "children": [
@@ -846,7 +890,7 @@
             "archived": false,
             "id": 23732507,
             "language": "Nix",
-            "last_commit": "2026-08-18T13:54:16Z",
+            "last_commit": "2026-08-24T10:18:57Z",
             "owner": "aldur",
             "repo": "dotfiles",
             "stars": 23
@@ -1214,7 +1258,7 @@
                 "archived": false,
                 "id": 1317642595,
                 "language": "Python",
-                "last_commit": "2026-08-05T10:38:46Z",
+                "last_commit": "2026-08-24T14:08:40Z",
                 "owner": "mclate",
                 "repo": "beancount-mortgage",
                 "stars": 0
@@ -1764,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:09:39.656Z",
+    "last_updated": "2026-08-24T14:28:17.046Z",
     "original_repository": "siddhantgoel/awesome-beancount",
     "original_repository_id": 154991835,
     "original_repository_sha": "7cc1dea3bcb3945f8314caef5739f1ce83578a5e",
