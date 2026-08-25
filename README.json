@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Source Code",
+          "title": "beancount/beancount",
           "description": null,
           "children": [],
           "repo_info": {
@@ -15,7 +15,7 @@
             "last_commit": "2026-08-23T20:17:45Z",
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5937
+            "stars": 5935
           }
         },
         {
@@ -249,7 +249,7 @@
                 "archived": false,
                 "id": 127779406,
                 "language": "Python",
-                "last_commit": "2026-08-17T18:46:28Z",
+                "last_commit": "2026-08-24T17:12:58Z",
                 "owner": "siddhantgoel",
                 "repo": "beancount-dkb",
                 "stars": 52
@@ -763,7 +763,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/LaunchPlatform/beancount-exporter",
+              "title": "LaunchPlatform/beancount-exporter",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1504,7 +1504,7 @@
             "last_commit": "2025-04-01T07:20:42Z",
             "owner": "vanto",
             "repo": "beanquery-mcp",
-            "stars": 51
+            "stars": 52
           }
         },
         {
@@ -1649,7 +1649,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/henriquebastos/gnucash-to-beancount/",
+              "title": "henriquebastos/gnucash-to-beancount",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1664,7 +1664,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/dtrai2/gnucash-to-beancount/",
+              "title": "dtrai2/gnucash-to-beancount",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1686,7 +1686,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/zacchiro/ledger2beancount",
+              "title": "beancount/ledger2beancount",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1701,7 +1701,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/glasserc/ledger-to-beancount/",
+              "title": "glasserc/ledger-to-beancount",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:07:05.196Z",
+    "last_updated": "2026-08-25T06:17:56.474Z",
     "original_repository": "siddhantgoel/awesome-beancount",
     "original_repository_id": 154991835,
     "original_repository_sha": "7cc1dea3bcb3945f8314caef5739f1ce83578a5e",
