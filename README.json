@@ -15,7 +15,7 @@
             "last_commit": "2026-08-23T20:17:45Z",
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5935
+            "stars": 5937
           }
         },
         {
@@ -188,7 +188,7 @@
                     "archived": false,
                     "id": 670040890,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T08:58:09Z",
+                    "last_commit": "2026-08-25T08:54:01Z",
                     "owner": "dhr2333",
                     "repo": "Beancount-Trans",
                     "stars": 77
@@ -890,7 +890,7 @@
             "archived": false,
             "id": 23732507,
             "language": "Nix",
-            "last_commit": "2026-08-24T10:18:57Z",
+            "last_commit": "2026-08-25T06:51:13Z",
             "owner": "aldur",
             "repo": "dotfiles",
             "stars": 23
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:17:56.474Z",
+    "last_updated": "2026-08-25T14:31:19.126Z",
     "original_repository": "siddhantgoel/awesome-beancount",
     "original_repository_id": 154991835,
     "original_repository_sha": "7cc1dea3bcb3945f8314caef5739f1ce83578a5e",

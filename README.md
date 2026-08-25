@@ -15,7 +15,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Official Resources
 
-* [Source Code](https://github.com/beancount/beancount) ⭐ 5,935 | 🐛 236 | 🌐 Python | 📅 2026-08-23
+* [Source Code](https://github.com/beancount/beancount) ⭐ 5,937 | 🐛 236 | 🌐 Python | 📅 2026-08-23
 * [Homepage](https://beancount.github.io/)
 * Documentation
   * [GitHub Pages](https://beancount.github.io/docs/) ([generated](https://github.com/beancount/docs) ⭐ 59 | 🐛 12 | 🌐 Python | 📅 2026-07-11 from Google Docs)
@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 375 | 🐛 8 | 🌐 Rust | 📅 2026-08-25 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 375 | 🐛 6 | 🌐 Rust | 📅 2026-08-25 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
@@ -48,7 +48,7 @@ system — ideal for plain text accounting users and Python software developers.
 * Alipay / 支付宝
   * [deb-sig/double-entry-generator](https://github.com/deb-sig/double-entry-generator) ⭐ 714 | 🐛 27 | 🌐 Go | 📅 2026-08-04
   * [wzyboy/awesome-beancount](https://github.com/wzyboy/awesome-beancount/blob/master/importers/alipay_acclog.py) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2026-01-02
-  * [dhr2333/Beancount-Trans](https://github.com/dhr2333/Beancount-Trans) ⭐ 77 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-24
+  * [dhr2333/Beancount-Trans](https://github.com/dhr2333/Beancount-Trans) ⭐ 77 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-25
 * China Merchants Bank (CMB)
   * [Debit](https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_debit_cards.py) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2026-01-02
   * [Credit](https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_credit_cards.py) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2026-01-02
@@ -159,7 +159,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [Emacs](https://github.com/beancount/beancount-mode) ⭐ 159 | 🐛 11 | 🌐 Emacs Lisp | 📅 2026-05-17
 * [Tree-Sitter](https://github.com/polarmutex/tree-sitter-beancount) ⭐ 55 | 🐛 7 | 🌐 Rust | 📅 2026-07-26
 * [Sublime Text](https://github.com/norseghost/sublime-beancount) ⭐ 35 | 🐛 8 | 🌐 Python | 📅 2025-11-06
-* [ctags](https://github.com/aldur/dotfiles/blob/master/various/ctags/beancount.ctags) ⭐ 23 | 🐛 0 | 🌐 Nix | 📅 2026-08-24
+* [ctags](https://github.com/aldur/dotfiles/blob/master/various/ctags/beancount.ctags) ⭐ 23 | 🐛 0 | 🌐 Nix | 📅 2026-08-25
 * [Zed](https://github.com/zed-extensions/beancount) ⭐ 18 | 🐛 5 | 🌐 Rust | 📅 2026-06-07
 * [Atom](https://atom.io/packages/beancount)
 * [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
