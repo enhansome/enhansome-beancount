@@ -15,7 +15,7 @@
             "last_commit": "2026-08-23T20:17:45Z",
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5937
+            "stars": 5941
           }
         },
         {
@@ -126,7 +126,7 @@
                 "last_commit": "2026-08-04T12:45:21Z",
                 "owner": "deb-sig",
                 "repo": "double-entry-generator",
-                "stars": 714
+                "stars": 715
               }
             },
             {
@@ -161,7 +161,7 @@
                     "last_commit": "2026-08-04T12:45:21Z",
                     "owner": "deb-sig",
                     "repo": "double-entry-generator",
-                    "stars": 714
+                    "stars": 715
                   }
                 },
                 {
@@ -386,7 +386,7 @@
                 "last_commit": "2024-10-19T10:54:46Z",
                 "owner": "dumbPy",
                 "repo": "beancount-importers-india",
-                "stars": 6
+                "stars": 7
               }
             }
           ],
@@ -724,7 +724,7 @@
                 "archived": false,
                 "id": 1264078752,
                 "language": "Go",
-                "last_commit": "2026-08-19T12:12:21Z",
+                "last_commit": "2026-08-26T12:06:28Z",
                 "owner": "open-banking-io",
                 "repo": "clients",
                 "stars": 12
@@ -890,7 +890,7 @@
             "archived": false,
             "id": 23732507,
             "language": "Nix",
-            "last_commit": "2026-08-25T06:51:13Z",
+            "last_commit": "2026-08-25T19:58:31Z",
             "owner": "aldur",
             "repo": "dotfiles",
             "stars": 23
@@ -1459,7 +1459,7 @@
             "last_commit": "2026-08-04T12:45:21Z",
             "owner": "deb-sig",
             "repo": "double-entry-generator",
-            "stars": 714
+            "stars": 715
           }
         },
         {
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:31:19.126Z",
+    "last_updated": "2026-08-26T14:30:58.892Z",
     "original_repository": "siddhantgoel/awesome-beancount",
     "original_repository_id": 154991835,
     "original_repository_sha": "7cc1dea3bcb3945f8314caef5739f1ce83578a5e",
