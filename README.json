@@ -15,7 +15,7 @@
             "last_commit": "2026-08-23T20:17:45Z",
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5941
+            "stars": 5943
           }
         },
         {
@@ -890,7 +890,7 @@
             "archived": false,
             "id": 23732507,
             "language": "Nix",
-            "last_commit": "2026-08-25T19:58:31Z",
+            "last_commit": "2026-08-26T17:55:02Z",
             "owner": "aldur",
             "repo": "dotfiles",
             "stars": 23
@@ -1283,7 +1283,7 @@
                 "last_commit": "2026-08-15T14:27:50Z",
                 "owner": "andreasgerstmayr",
                 "repo": "fava-dashboards",
-                "stars": 399
+                "stars": 401
               }
             },
             {
@@ -1808,9 +1808,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:30:58.892Z",
-    "original_repository": "siddhantgoel/awesome-beancount",
-    "original_repository_id": 154991835,
+    "last_updated": "2026-08-27T11:30:42.877Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 154991835,
+      "language": "HTML",
+      "last_commit": "2026-08-05T18:39:05Z",
+      "owner": "siddhantgoel",
+      "repo": "awesome-beancount",
+      "stars": 382
+    },
     "original_repository_sha": "7cc1dea3bcb3945f8314caef5739f1ce83578a5e",
     "enhanced_repository": "enhansome/enhansome-beancount",
     "enhanced_repository_description": null,
