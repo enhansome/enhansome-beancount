@@ -15,8 +15,9 @@
             "last_commit": "2026-08-23T20:17:45Z",
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5946
-          }
+            "stars": 5949
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "group",
@@ -36,7 +37,8 @@
                 "owner": "beancount",
                 "repo": "docs",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             }
           ]
         }
@@ -59,7 +61,8 @@
             "owner": "xuhcc",
             "repo": "beancount-mobile",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -74,7 +77,8 @@
             "owner": "LucaBernstein",
             "repo": "beancount-bot-tg",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -89,7 +93,8 @@
             "owner": "johannesjh",
             "repo": "favagtk",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -104,7 +109,8 @@
             "owner": "blinkstu",
             "repo": "beancount-telegram-bot",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         }
       ],
       "title": "User Interfaces"
@@ -127,7 +133,8 @@
                 "owner": "deb-sig",
                 "repo": "double-entry-generator",
                 "stars": 715
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -142,7 +149,8 @@
                 "owner": "CacinieP",
                 "repo": "FinancialBeancount",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "group",
@@ -162,7 +170,8 @@
                     "owner": "deb-sig",
                     "repo": "double-entry-generator",
                     "stars": 715
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:58.913Z"
                 },
                 {
                   "node_type": "item",
@@ -177,7 +186,8 @@
                     "owner": "wzyboy",
                     "repo": "awesome-beancount",
                     "stars": 178
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:58.913Z"
                 },
                 {
                   "node_type": "item",
@@ -192,7 +202,8 @@
                     "owner": "dhr2333",
                     "repo": "Beancount-Trans",
                     "stars": 77
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:58.913Z"
                 }
               ]
             },
@@ -214,7 +225,8 @@
                     "owner": "wzyboy",
                     "repo": "awesome-beancount",
                     "stars": 178
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:58.913Z"
                 },
                 {
                   "node_type": "item",
@@ -229,7 +241,8 @@
                     "owner": "wzyboy",
                     "repo": "awesome-beancount",
                     "stars": 178
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:58.913Z"
                 }
               ]
             }
@@ -253,7 +266,8 @@
                 "owner": "siddhantgoel",
                 "repo": "beancount-dkb",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -268,7 +282,8 @@
                 "owner": "siddhantgoel",
                 "repo": "beancount-ing",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -283,7 +298,8 @@
                 "owner": "siddhantgoel",
                 "repo": "beancount-n26",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -298,7 +314,8 @@
                 "owner": "siddhantgoel",
                 "repo": "beancount-commerzbank",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -313,7 +330,8 @@
                 "owner": "Fjanks",
                 "repo": "beancount-importer-volksbank",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             }
           ],
           "description": null,
@@ -335,7 +353,8 @@
                 "owner": "grostim",
                 "repo": "Beancount-myTools",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -350,7 +369,8 @@
                 "owner": "ArthurFDLR",
                 "repo": "beancount-ce",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -365,7 +385,8 @@
                 "owner": "vrischmann",
                 "repo": "beancount-importers",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             }
           ],
           "description": null,
@@ -387,7 +408,8 @@
                 "owner": "dumbPy",
                 "repo": "beancount-importers-india",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             }
           ],
           "description": null,
@@ -409,7 +431,8 @@
                 "owner": "deepakg",
                 "repo": "beancount-abnamro",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             }
           ],
           "description": null,
@@ -431,7 +454,8 @@
                 "owner": "Dr-Nuke",
                 "repo": "drnuke-bean",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "group",
@@ -447,11 +471,12 @@
                     "archived": false,
                     "id": 225922307,
                     "language": "Python",
-                    "last_commit": "2026-08-05T01:41:36Z",
+                    "last_commit": "2026-08-28T21:35:03Z",
                     "owner": "tarioch",
                     "repo": "beancounttools",
                     "stars": 97
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:58.913Z"
                 },
                 {
                   "node_type": "item",
@@ -466,7 +491,8 @@
                     "owner": "Dr-Nuke",
                     "repo": "drnuke-bean",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:58.913Z"
                 }
               ]
             }
@@ -490,7 +516,8 @@
                 "owner": "Evernight",
                 "repo": "beancount-importers",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "group",
@@ -510,7 +537,8 @@
                     "owner": "Evernight",
                     "repo": "beancount-importers",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:58.913Z"
                 }
               ]
             },
@@ -532,7 +560,8 @@
                     "owner": "Evernight",
                     "repo": "beancount-importers",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:58.913Z"
                 }
               ]
             }
@@ -556,7 +585,8 @@
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -571,7 +601,8 @@
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -586,7 +617,8 @@
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -601,7 +633,8 @@
                 "owner": "mtlynch",
                 "repo": "beancount-chase-bank",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -616,7 +649,8 @@
                 "owner": "ArthurFDLR",
                 "repo": "beancount-chase",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -631,7 +665,8 @@
                 "owner": "mtlynch",
                 "repo": "beancount-mercury",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -646,7 +681,8 @@
                 "owner": "mtlynch",
                 "repo": "beancount-capitalone",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             }
           ],
           "description": null,
@@ -668,7 +704,8 @@
                 "owner": "jbms",
                 "repo": "beancount-import",
                 "stars": 470
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -683,7 +720,8 @@
                 "owner": "beancount",
                 "repo": "smart_importer",
                 "stars": 308
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -698,7 +736,8 @@
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -709,11 +748,12 @@
                 "archived": false,
                 "id": 225922307,
                 "language": "Python",
-                "last_commit": "2026-08-05T01:41:36Z",
+                "last_commit": "2026-08-28T21:35:03Z",
                 "owner": "tarioch",
                 "repo": "beancounttools",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -728,7 +768,8 @@
                 "owner": "open-banking-io",
                 "repo": "clients",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -743,7 +784,8 @@
                 "owner": "jamatute",
                 "repo": "beancount-importer",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             }
           ],
           "description": null,
@@ -774,7 +816,8 @@
                 "owner": "LaunchPlatform",
                 "repo": "beancount-exporter",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             }
           ]
         },
@@ -796,7 +839,8 @@
                 "owner": "gerdemb",
                 "repo": "beanpost",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             }
           ]
         }
@@ -819,7 +863,8 @@
             "owner": "polarmutex",
             "repo": "beancount-language-server",
             "stars": 244
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -834,7 +879,8 @@
             "owner": "nathangrigg",
             "repo": "vim-beancount",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -849,7 +895,8 @@
             "owner": "beancount",
             "repo": "beancount-mode",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -863,8 +910,9 @@
             "last_commit": "2026-07-26T08:22:43Z",
             "owner": "polarmutex",
             "repo": "tree-sitter-beancount",
-            "stars": 55
-          }
+            "stars": 56
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -879,7 +927,8 @@
             "owner": "norseghost",
             "repo": "sublime-beancount",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -894,7 +943,8 @@
             "owner": "aldur",
             "repo": "dotfiles",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -909,7 +959,8 @@
             "owner": "zed-extensions",
             "repo": "beancount",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         }
       ],
       "title": "Editor Support"
@@ -932,7 +983,8 @@
                 "owner": "redstreet",
                 "repo": "beancount_reds_plugins",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -947,7 +999,8 @@
                 "owner": "redstreet",
                 "repo": "beancount_reds_plugins",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -962,7 +1015,8 @@
                 "owner": "redstreet",
                 "repo": "beancount_reds_plugins",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -977,7 +1031,8 @@
                 "owner": "redstreet",
                 "repo": "beancount_reds_plugins",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -992,7 +1047,8 @@
                 "owner": "redstreet",
                 "repo": "beancount_reds_plugins",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1007,7 +1063,8 @@
                 "owner": "beancount",
                 "repo": "beangrow",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1022,7 +1079,8 @@
                 "owner": "SEIAROTg",
                 "repo": "autobean",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1037,7 +1095,8 @@
                 "owner": "SEIAROTg",
                 "repo": "autobean",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1052,7 +1111,8 @@
                 "owner": "SEIAROTg",
                 "repo": "autobean",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1067,7 +1127,8 @@
                 "owner": "SEIAROTg",
                 "repo": "autobean",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1082,7 +1143,8 @@
                 "owner": "SEIAROTg",
                 "repo": "autobean",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1097,7 +1159,8 @@
                 "owner": "SEIAROTg",
                 "repo": "autobean",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1112,7 +1175,8 @@
                 "owner": "hoostus",
                 "repo": "portfolio-returns",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1127,7 +1191,8 @@
                 "owner": "ghislainbourgeois",
                 "repo": "beancount_portfolio_allocation",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1142,7 +1207,8 @@
                 "owner": "daniel-wells",
                 "repo": "beancount_balancechange",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1157,7 +1223,8 @@
                 "owner": "w1ndy",
                 "repo": "beancount_balexpr",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1172,7 +1239,8 @@
                 "owner": "daniel-wells",
                 "repo": "beancount_checkclosed",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1187,7 +1255,8 @@
                 "owner": "Evernight",
                 "repo": "beancount-lazy-plugins",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1202,7 +1271,8 @@
                 "owner": "Evernight",
                 "repo": "beancount-lazy-plugins",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1217,7 +1287,8 @@
                 "owner": "Evernight",
                 "repo": "beancount-lazy-plugins",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1232,7 +1303,8 @@
                 "owner": "Evernight",
                 "repo": "beancount-lazy-plugins",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1247,7 +1319,8 @@
                 "owner": "seltzered",
                 "repo": "beancount-plugins-metadata-spray",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1262,7 +1335,8 @@
                 "owner": "mclate",
                 "repo": "beancount-mortgage",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             }
           ],
           "description": null,
@@ -1284,7 +1358,8 @@
                 "owner": "andreasgerstmayr",
                 "repo": "fava-dashboards",
                 "stars": 402
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1299,7 +1374,8 @@
                 "owner": "redstreet",
                 "repo": "fava_investor",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1314,7 +1390,8 @@
                 "owner": "polarmutex",
                 "repo": "fava-envelope",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1329,7 +1406,8 @@
                 "owner": "andreasgerstmayr",
                 "repo": "fava-portfolio-returns",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1344,7 +1422,8 @@
                 "owner": "PhracturedBlue",
                 "repo": "fava-portfolio-summary",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1359,7 +1438,8 @@
                 "owner": "seltzered",
                 "repo": "fava-classy-portfolio",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1374,7 +1454,8 @@
                 "owner": "Leon2xiaowu",
                 "repo": "fava_budget_freedom",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1389,7 +1470,8 @@
                 "owner": "Evernight",
                 "repo": "fava-currency-tracker",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1404,7 +1486,8 @@
                 "owner": "Evernight",
                 "repo": "beancount-plugin-tax-uk",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1419,7 +1502,8 @@
                 "owner": "Evernight",
                 "repo": "beantab",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1434,7 +1518,8 @@
                 "owner": "Evernight",
                 "repo": "fava-git",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             }
           ],
           "description": null,
@@ -1460,7 +1545,8 @@
             "owner": "deb-sig",
             "repo": "double-entry-generator",
             "stars": 715
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -1475,7 +1561,8 @@
             "owner": "csingley",
             "repo": "ofxtools",
             "stars": 345
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -1490,7 +1577,8 @@
             "owner": "LaunchPlatform",
             "repo": "beancount-black",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -1505,7 +1593,8 @@
             "owner": "vanto",
             "repo": "beanquery-mcp",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -1520,7 +1609,8 @@
             "owner": "LaunchPlatform",
             "repo": "beancount-parser",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -1535,7 +1625,8 @@
             "owner": "StdioA",
             "repo": "beancount-bot",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -1550,7 +1641,8 @@
             "owner": "PaNaVTEC",
             "repo": "csv2beancount",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -1565,7 +1657,8 @@
             "owner": "maread99",
             "repo": "beanahead",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -1580,7 +1673,8 @@
             "owner": "bratekarate",
             "repo": "beancount-categorizer",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -1595,7 +1689,8 @@
             "owner": "LaunchPlatform",
             "repo": "beanhub-forms",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -1610,7 +1705,8 @@
             "owner": "hoostus",
             "repo": "beancount-ynab",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -1625,7 +1721,8 @@
             "owner": "zhangzhishan",
             "repo": "beancount_importer",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -1640,7 +1737,8 @@
             "owner": "LaunchPlatform",
             "repo": "beanhub-web-react",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "group",
@@ -1660,7 +1758,8 @@
                 "owner": "henriquebastos",
                 "repo": "gnucash-to-beancount",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1675,7 +1774,8 @@
                 "owner": "dtrai2",
                 "repo": "gnucash-to-beancount",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             }
           ]
         },
@@ -1697,7 +1797,8 @@
                 "owner": "beancount",
                 "repo": "ledger2beancount",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             },
             {
               "node_type": "item",
@@ -1712,7 +1813,8 @@
                 "owner": "glasserc",
                 "repo": "ledger-to-beancount",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
             }
           ]
         }
@@ -1735,7 +1837,8 @@
             "owner": "xuhcc",
             "repo": "beancount-cryptoassets",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -1750,7 +1853,8 @@
             "owner": "xuhcc",
             "repo": "beancount-exchangerates",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         }
       ],
       "title": "Price Sources"
@@ -1771,7 +1875,8 @@
             "owner": "Evernight",
             "repo": "lazy-beancount",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -1786,7 +1891,8 @@
             "owner": "ghislainbourgeois",
             "repo": "beancount_portfolio_allocation",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         },
         {
           "node_type": "item",
@@ -1801,14 +1907,15 @@
             "owner": "jbeancount",
             "repo": "jbeancount",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
         }
       ],
       "title": "Misc"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:14:57.480Z",
+    "last_updated": "2026-08-28T23:13:58.913Z",
     "original_repository_info": {
       "archived": false,
       "id": 154991835,
@@ -1816,7 +1923,7 @@
       "last_commit": "2026-08-05T18:39:05Z",
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
-      "stars": 382
+      "stars": 383
     },
     "original_repository_sha": "7cc1dea3bcb3945f8314caef5739f1ce83578a5e",
     "enhanced_repository": "enhansome/enhansome-beancount",
