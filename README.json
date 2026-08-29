@@ -10,12 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beancount: Double-Entry Accounting from Text Files.",
+            "homepage": "http://beancount.github.io/",
             "id": 266158455,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-23T20:17:45Z",
+            "open_issues": 237,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5949
+            "stars": 5949,
+            "topics": [
+              "beancount"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -31,12 +38,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beancount Documentation.",
+                "homepage": "https://beancount.github.io/docs/",
                 "id": 193495006,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-11T00:32:07Z",
+                "open_issues": 12,
                 "owner": "beancount",
                 "repo": "docs",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "beancount",
+                  "mkdocs-site",
+                  "pandoc"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             }
@@ -55,12 +71,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data entry app for Beancount plain-text accounting system",
+            "homepage": null,
             "id": 197218134,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-03T16:30:11Z",
+            "open_issues": 12,
             "owner": "xuhcc",
             "repo": "beancount-mobile",
-            "stars": 129
+            "stars": 129,
+            "topics": [
+              "android",
+              "beancount",
+              "nativescript-application",
+              "plaintext-accounting"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -71,12 +97,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This telegram bot helps you in recording your beancount transactions easily (e.g. while on the go).",
+            "homepage": "https://t.me/LB_Bean_Bot",
             "id": 421501278,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-04-07T14:14:41Z",
+            "open_issues": 21,
             "owner": "LucaBernstein",
             "repo": "beancount-bot-tg",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "beancount",
+              "go",
+              "golang",
+              "self-hosted",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -87,12 +124,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Desktop application for Fava and Beancount built using Python and GTK. Mirror of https://gitlab.gnome.org/johannesjh/favagtk/",
+            "homepage": "https://gitlab.gnome.org/johannesjh/favagtk/",
             "id": 330009916,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-06T15:08:39Z",
+            "open_issues": 0,
             "owner": "johannesjh",
             "repo": "favagtk",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "beancount",
+              "desktop-application",
+              "fava",
+              "flatpak",
+              "gnome",
+              "gtk4",
+              "linux",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -103,12 +154,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1077649536,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-13T16:07:38Z",
+            "open_issues": 1,
             "owner": "blinkstu",
             "repo": "beancount-telegram-bot",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         }
@@ -127,12 +183,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rule-based double-entry bookkeeping importer (from Alipay/WeChat/Huobi etc. to Beancount/Ledger).",
+                "homepage": "https://deb-sig.github.io/double-entry-generator/",
                 "id": 213560328,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-04T12:45:21Z",
+                "open_issues": 27,
                 "owner": "deb-sig",
                 "repo": "double-entry-generator",
-                "stars": 715
+                "stars": 715,
+                "topics": [
+                  "alipay",
+                  "alipay-records",
+                  "beancount",
+                  "double-entry-accounting",
+                  "double-entry-bookkeeping",
+                  "hacktoberfest",
+                  "ledger",
+                  "wechat"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -143,12 +213,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local Beancount converter and deduplicator for Alipay, WeChat Pay, bank statements, CSV, XLSX, and PDF.",
+                "homepage": null,
                 "id": 1149106163,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-30T21:31:32Z",
+                "open_issues": 1,
                 "owner": "CacinieP",
                 "repo": "FinancialBeancount",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "accounting",
+                  "alipay",
+                  "beancount",
+                  "deduplication",
+                  "finance",
+                  "personal-finance",
+                  "python",
+                  "wechat-pay"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -164,12 +248,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rule-based double-entry bookkeeping importer (from Alipay/WeChat/Huobi etc. to Beancount/Ledger).",
+                    "homepage": "https://deb-sig.github.io/double-entry-generator/",
                     "id": 213560328,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-04T12:45:21Z",
+                    "open_issues": 27,
                     "owner": "deb-sig",
                     "repo": "double-entry-generator",
-                    "stars": 715
+                    "stars": 715,
+                    "topics": [
+                      "alipay",
+                      "alipay-records",
+                      "beancount",
+                      "double-entry-accounting",
+                      "double-entry-bookkeeping",
+                      "hacktoberfest",
+                      "ledger",
+                      "wechat"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:58.913Z"
                 },
@@ -180,12 +278,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Beancount tips and tricks",
+                    "homepage": null,
                     "id": 53190399,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-01-02T20:48:41Z",
+                    "open_issues": 0,
                     "owner": "wzyboy",
                     "repo": "awesome-beancount",
-                    "stars": 178
+                    "stars": 178,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:58.913Z"
                 },
@@ -196,12 +299,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "上传账单，自动转换为可审计的 Beancount 复式记账数据，并在几分钟内查看财务报表。",
+                    "homepage": "https://trans.dhr2333.cn/",
                     "id": 670040890,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T08:54:01Z",
+                    "open_issues": 4,
                     "owner": "dhr2333",
                     "repo": "Beancount-Trans",
-                    "stars": 77
+                    "stars": 77,
+                    "topics": [
+                      "ai",
+                      "beancount",
+                      "llm",
+                      "self-hosting"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:58.913Z"
                 }
@@ -219,12 +332,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Beancount tips and tricks",
+                    "homepage": null,
                     "id": 53190399,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-01-02T20:48:41Z",
+                    "open_issues": 0,
                     "owner": "wzyboy",
                     "repo": "awesome-beancount",
-                    "stars": 178
+                    "stars": 178,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:58.913Z"
                 },
@@ -235,12 +353,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Beancount tips and tricks",
+                    "homepage": null,
                     "id": 53190399,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-01-02T20:48:41Z",
+                    "open_issues": 0,
                     "owner": "wzyboy",
                     "repo": "awesome-beancount",
-                    "stars": 178
+                    "stars": 178,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:58.913Z"
                 }
@@ -260,12 +383,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beancount Importers for DKB (Deutsche Kredit Bank) CSV Exports",
+                "homepage": null,
                 "id": 127779406,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T17:12:58Z",
+                "open_issues": 1,
                 "owner": "siddhantgoel",
                 "repo": "beancount-dkb",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "accounting",
+                  "banking",
+                  "beancount",
+                  "dkb",
+                  "finance",
+                  "germany",
+                  "personal-finance",
+                  "plaintext-accounting",
+                  "python",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -276,12 +415,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Beancount Importers for ING (Germany) CSV Exports",
+                "homepage": null,
                 "id": 142293785,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T12:22:59Z",
+                "open_issues": 1,
                 "owner": "siddhantgoel",
                 "repo": "beancount-ing",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "accounting",
+                  "banking",
+                  "beancount",
+                  "beancount-importers",
+                  "finance",
+                  "germany",
+                  "ing",
+                  "personal-finance",
+                  "plaintext-accounting",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -292,12 +447,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beancount Importers for N26 CSV Exports",
+                "homepage": null,
                 "id": 216653151,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T11:23:05Z",
+                "open_issues": 1,
                 "owner": "siddhantgoel",
                 "repo": "beancount-n26",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "accounting",
+                  "banking",
+                  "beancount",
+                  "finance",
+                  "germany",
+                  "n26",
+                  "personal-finance",
+                  "plaintext-accounting",
+                  "python",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -308,12 +479,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Beancount Importers for Commerzbank (Germany) CSV Exports ",
+                "homepage": null,
                 "id": 143616099,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-11T23:33:49Z",
+                "open_issues": 1,
                 "owner": "siddhantgoel",
                 "repo": "beancount-commerzbank",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "accounting",
+                  "banking",
+                  "beancount",
+                  "commerzbank",
+                  "finance",
+                  "germany",
+                  "maintainer-wanted",
+                  "personal-finance",
+                  "plaintext-accounting",
+                  "python",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -324,12 +512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Importer for beancount to convert CSV files exported from the online banking of Volksbank or GLS Bank.",
+                "homepage": null,
                 "id": 326243364,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-21T10:55:43Z",
+                "open_issues": 0,
                 "owner": "Fjanks",
                 "repo": "beancount-importer-volksbank",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             }
@@ -347,12 +540,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of tools (importer, commodity pricer, etc...) for my personnal use. (French banks)",
+                "homepage": null,
                 "id": 208236243,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-08T20:14:41Z",
+                "open_issues": 0,
                 "owner": "grostim",
                 "repo": "Beancount-myTools",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -363,12 +561,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💸 Beancount Importer for Caisse d'Epargne statements (pdf and csv files) - Pypi package",
+                "homepage": "https://pypi.org/project/beancount-ce/",
                 "id": 293830874,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-04T06:12:39Z",
+                "open_issues": 0,
                 "owner": "ArthurFDLR",
                 "repo": "beancount-ce",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "accounting",
+                  "banking",
+                  "beancount",
+                  "finance",
+                  "personal-finance",
+                  "plaintext-accounting",
+                  "pypi",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -379,12 +591,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beancount importer for Fortuneo CSV exports",
+                "homepage": null,
                 "id": 184449304,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-23T16:57:57Z",
+                "open_issues": 0,
                 "owner": "vrischmann",
                 "repo": "beancount-importers",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "beancount",
+                  "plaintext-accounting"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             }
@@ -402,12 +622,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Collection of Beancount importers for Indian banks and trading platforms",
+                "homepage": null,
                 "id": 443802274,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-10-19T10:54:46Z",
+                "open_issues": 0,
                 "owner": "dumbPy",
                 "repo": "beancount-importers-india",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             }
@@ -425,12 +650,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beancount importer for ABN AMRO's plain text (.TAB) statement exports.",
+                "homepage": null,
                 "id": 746290587,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-21T17:48:52Z",
+                "open_issues": 0,
                 "owner": "deepakg",
                 "repo": "beancount-abnamro",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             }
@@ -448,12 +678,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a repo for some beancount tool ",
+                "homepage": null,
                 "id": 253304767,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-10T14:56:26Z",
+                "open_issues": 3,
                 "owner": "Dr-Nuke",
                 "repo": "drnuke-bean",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -469,12 +704,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Beancount Tools",
+                    "homepage": null,
                     "id": 225922307,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T21:35:03Z",
+                    "open_issues": 8,
                     "owner": "tarioch",
                     "repo": "beancounttools",
-                    "stars": 97
+                    "stars": 97,
+                    "topics": [
+                      "beancount",
+                      "beancount-prices",
+                      "plaintext-accounting"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:58.913Z"
                 },
@@ -485,12 +729,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a repo for some beancount tool ",
+                    "homepage": null,
                     "id": 253304767,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-10T14:56:26Z",
+                    "open_issues": 3,
                     "owner": "Dr-Nuke",
                     "repo": "drnuke-bean",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:58.913Z"
                 }
@@ -510,12 +759,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beancount importers for Wise, Monzo, Revolut, IBKR and potentially others using beancount-import library",
+                "homepage": null,
                 "id": 795598816,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-12T15:18:20Z",
+                "open_issues": 0,
                 "owner": "Evernight",
                 "repo": "beancount-importers",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "beancount"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -531,12 +787,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Beancount importers for Wise, Monzo, Revolut, IBKR and potentially others using beancount-import library",
+                    "homepage": null,
                     "id": 795598816,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-03-12T15:18:20Z",
+                    "open_issues": 0,
                     "owner": "Evernight",
                     "repo": "beancount-importers",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "beancount"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:58.913Z"
                 }
@@ -554,12 +817,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Beancount importers for Wise, Monzo, Revolut, IBKR and potentially others using beancount-import library",
+                    "homepage": null,
                     "id": 795598816,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-03-12T15:18:20Z",
+                    "open_issues": 0,
                     "owner": "Evernight",
                     "repo": "beancount-importers",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "beancount"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:58.913Z"
                 }
@@ -579,12 +849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple ingesting tools for Beancount (plain text, double entry accounting software). More importantly, a framework to allow you to easily write your own importers.",
+                "homepage": null,
                 "id": 260047558,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-30T00:06:21Z",
+                "open_issues": 33,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -595,12 +870,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple ingesting tools for Beancount (plain text, double entry accounting software). More importantly, a framework to allow you to easily write your own importers.",
+                "homepage": null,
                 "id": 260047558,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-30T00:06:21Z",
+                "open_issues": 33,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -611,12 +891,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple ingesting tools for Beancount (plain text, double entry accounting software). More importantly, a framework to allow you to easily write your own importers.",
+                "homepage": null,
                 "id": 260047558,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-30T00:06:21Z",
+                "open_issues": 33,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -627,12 +912,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beancount importer for Chase bank",
+                "homepage": null,
                 "id": 456202232,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-03T23:28:33Z",
+                "open_issues": 1,
                 "owner": "mtlynch",
                 "repo": "beancount-chase-bank",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -643,12 +933,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📈 Beancount Importer  for Chase CSV statements - Pypi package",
+                "homepage": "https://pypi.org/project/beancount-chase/",
                 "id": 320466911,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-07-06T04:02:11Z",
+                "open_issues": 0,
                 "owner": "ArthurFDLR",
                 "repo": "beancount-chase",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "accounting",
+                  "banking",
+                  "beancount",
+                  "chase-bank",
+                  "finance",
+                  "personal-finance",
+                  "plaintext-accounting",
+                  "pypi"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -659,12 +963,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beancount importer for Mercury Startup Checking",
+                "homepage": null,
                 "id": 456000908,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-23T19:04:34Z",
+                "open_issues": 1,
                 "owner": "mtlynch",
                 "repo": "beancount-mercury",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -675,12 +984,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beancount importer for CapitalOne",
+                "homepage": null,
                 "id": 612254978,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-23T18:56:00Z",
+                "open_issues": 0,
                 "owner": "mtlynch",
                 "repo": "beancount-capitalone",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             }
@@ -698,12 +1012,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web UI for semi-automatically importing external data into beancount",
+                "homepage": null,
                 "id": 47961517,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-20T17:11:43Z",
+                "open_issues": 78,
                 "owner": "jbms",
                 "repo": "beancount-import",
-                "stars": 470
+                "stars": 470,
+                "topics": [
+                  "beancount"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -714,12 +1035,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Augment Beancount importers with machine learning functionality.",
+                "homepage": null,
                 "id": 112750160,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-26T12:59:09Z",
+                "open_issues": 4,
                 "owner": "beancount",
                 "repo": "smart_importer",
-                "stars": 308
+                "stars": 308,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -730,12 +1056,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple ingesting tools for Beancount (plain text, double entry accounting software). More importantly, a framework to allow you to easily write your own importers.",
+                "homepage": null,
                 "id": 260047558,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-30T00:06:21Z",
+                "open_issues": 33,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -746,12 +1077,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beancount Tools",
+                "homepage": null,
                 "id": 225922307,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:35:03Z",
+                "open_issues": 8,
                 "owner": "tarioch",
                 "repo": "beancounttools",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "beancount",
+                  "beancount-prices",
+                  "plaintext-accounting"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -762,12 +1102,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zero-knowledge open banking — server-to-server SDKs (.NET, Node, Python, Rust, Go, Java, Ruby, PHP) and the openbanking CLI for open-banking.io",
+                "homepage": "https://open-banking.io",
                 "id": 1264078752,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-26T12:06:28Z",
+                "open_issues": 12,
                 "owner": "open-banking-io",
                 "repo": "clients",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "aisp",
+                  "banking",
+                  "cli",
+                  "europe",
+                  "fintech",
+                  "open-banking",
+                  "openbanking",
+                  "psd2",
+                  "sdk",
+                  "zero-knowledge"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -778,12 +1134,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some beancount importers ",
+                "homepage": null,
                 "id": 116847092,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2018-05-04T12:37:58Z",
+                "open_issues": 0,
                 "owner": "jamatute",
                 "repo": "beancount-importer",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             }
@@ -810,12 +1171,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command line tool for exporting Beancount data as JSON",
+                "homepage": null,
                 "id": 472152977,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-11T06:42:20Z",
+                "open_issues": 2,
                 "owner": "LaunchPlatform",
                 "repo": "beancount-exporter",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "beancount",
+                  "export",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             }
@@ -833,12 +1203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An experiment in using PostgreSQL for accounting",
+                "homepage": null,
                 "id": 790326838,
                 "language": "PLpgSQL",
+                "license": "GPL-3.0",
                 "last_commit": "2024-04-29T17:47:11Z",
+                "open_issues": 0,
                 "owner": "gerdemb",
                 "repo": "beanpost",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             }
@@ -857,12 +1232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Language Server Protocol (LSP) for beancount files",
+            "homepage": null,
             "id": 265094440,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-01T04:54:03Z",
+            "open_issues": 23,
             "owner": "polarmutex",
             "repo": "beancount-language-server",
-            "stars": 244
+            "stars": 244,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -873,12 +1253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vim ftplugin for beancount",
+            "homepage": null,
             "id": 24867673,
             "language": "Vim Script",
+            "license": null,
             "last_commit": "2024-11-25T23:54:46Z",
+            "open_issues": 25,
             "owner": "nathangrigg",
             "repo": "vim-beancount",
-            "stars": 191
+            "stars": 191,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -889,12 +1274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emacs major-mode to work with Beancount ledger files",
+            "homepage": null,
             "id": 303555018,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-17T18:03:45Z",
+            "open_issues": 11,
             "owner": "beancount",
             "repo": "beancount-mode",
-            "stars": 159
+            "stars": 159,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -905,12 +1295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a tree-sitter parser for the beancount syntax",
+            "homepage": null,
             "id": 281706272,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-26T08:22:43Z",
+            "open_issues": 7,
             "owner": "polarmutex",
             "repo": "tree-sitter-beancount",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -921,12 +1316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bits and pieces to facilitate accounting with Beancount.",
+            "homepage": null,
             "id": 23852513,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-06T16:10:50Z",
+            "open_issues": 8,
             "owner": "norseghost",
             "repo": "sublime-beancount",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -937,12 +1337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dotfiles configuration.",
+            "homepage": null,
             "id": 23732507,
             "language": "Nix",
+            "license": null,
             "last_commit": "2026-08-26T17:55:02Z",
+            "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -953,12 +1358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zed support for the Beancount language (https://beancount.github.io)",
+            "homepage": null,
             "id": 754898584,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-07T22:08:02Z",
+            "open_issues": 5,
             "owner": "zed-extensions",
             "repo": "beancount",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         }
@@ -977,12 +1387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Miscellaneous plugins for Beancount double entry accounting",
+                "homepage": null,
                 "id": 48400521,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-24T13:51:45Z",
+                "open_issues": 9,
                 "owner": "redstreet",
                 "repo": "beancount_reds_plugins",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -993,12 +1408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Miscellaneous plugins for Beancount double entry accounting",
+                "homepage": null,
                 "id": 48400521,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-24T13:51:45Z",
+                "open_issues": 9,
                 "owner": "redstreet",
                 "repo": "beancount_reds_plugins",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1009,12 +1429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Miscellaneous plugins for Beancount double entry accounting",
+                "homepage": null,
                 "id": 48400521,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-24T13:51:45Z",
+                "open_issues": 9,
                 "owner": "redstreet",
                 "repo": "beancount_reds_plugins",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1025,12 +1450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Miscellaneous plugins for Beancount double entry accounting",
+                "homepage": null,
                 "id": 48400521,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-24T13:51:45Z",
+                "open_issues": 9,
                 "owner": "redstreet",
                 "repo": "beancount_reds_plugins",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1041,12 +1471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Miscellaneous plugins for Beancount double entry accounting",
+                "homepage": null,
                 "id": 48400521,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-24T13:51:45Z",
+                "open_issues": 9,
                 "owner": "redstreet",
                 "repo": "beancount_reds_plugins",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1057,12 +1492,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Returns calculations on portfolios in Beancount",
+                "homepage": null,
                 "id": 333634558,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2025-10-15T03:43:30Z",
+                "open_issues": 18,
                 "owner": "beancount",
                 "repo": "beangrow",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1073,12 +1513,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of plugins and scripts that help automating bookkeeping with beancount",
+                "homepage": null,
                 "id": 201581324,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-12T20:08:14Z",
+                "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1089,12 +1534,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of plugins and scripts that help automating bookkeeping with beancount",
+                "homepage": null,
                 "id": 201581324,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-12T20:08:14Z",
+                "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1105,12 +1555,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of plugins and scripts that help automating bookkeeping with beancount",
+                "homepage": null,
                 "id": 201581324,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-12T20:08:14Z",
+                "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1121,12 +1576,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of plugins and scripts that help automating bookkeeping with beancount",
+                "homepage": null,
                 "id": 201581324,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-12T20:08:14Z",
+                "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1137,12 +1597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of plugins and scripts that help automating bookkeeping with beancount",
+                "homepage": null,
                 "id": 201581324,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-12T20:08:14Z",
+                "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1153,12 +1618,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of plugins and scripts that help automating bookkeeping with beancount",
+                "homepage": null,
                 "id": 201581324,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-12T20:08:14Z",
+                "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1169,12 +1639,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beancount portfolio returns generator",
+                "homepage": null,
                 "id": 164037366,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-28T14:36:16Z",
+                "open_issues": 1,
                 "owner": "hoostus",
                 "repo": "portfolio-returns",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1185,12 +1660,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reports on portfolio asset allocations in beancount. Useful for risk analysis and for rebalancing purposes.",
+                "homepage": null,
                 "id": 137623549,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2025-11-29T17:01:56Z",
+                "open_issues": 0,
                 "owner": "ghislainbourgeois",
                 "repo": "beancount_portfolio_allocation",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1201,12 +1681,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Beancount plugin that performs an assertion (check) on the change in balance between two dates.",
+                "homepage": null,
                 "id": 459365274,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2025-07-12T15:04:38Z",
+                "open_issues": 0,
                 "owner": "daniel-wells",
                 "repo": "beancount_balancechange",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "beancount"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1217,12 +1704,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check balances against simple expressions in beancount",
+                "homepage": null,
                 "id": 346462384,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-24T03:08:11Z",
+                "open_issues": 0,
                 "owner": "w1ndy",
                 "repo": "beancount_balexpr",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1233,12 +1725,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A beancount plugin that automatically inserts a 0 balance check for closed balance sheet accounts",
+                "homepage": null,
                 "id": 456281012,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2025-07-12T15:05:10Z",
+                "open_issues": 0,
                 "owner": "daniel-wells",
                 "repo": "beancount_checkclosed",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "beancount"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1249,12 +1748,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set of plugins for Beancount (valuation, filter_map, balance_extended, group_pad_transactions, currency_convert, expense_merchant_map, tag_from_continuous_events, updated auto_accounts and generate_base_ccy_prices). Best used with https://github.com/Evernight/lazy-beancount/",
+                "homepage": "https://lazy-beancount.xyz/",
                 "id": 863571695,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-01T13:04:59Z",
+                "open_issues": 0,
                 "owner": "Evernight",
                 "repo": "beancount-lazy-plugins",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "beancount"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1265,12 +1771,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set of plugins for Beancount (valuation, filter_map, balance_extended, group_pad_transactions, currency_convert, expense_merchant_map, tag_from_continuous_events, updated auto_accounts and generate_base_ccy_prices). Best used with https://github.com/Evernight/lazy-beancount/",
+                "homepage": "https://lazy-beancount.xyz/",
                 "id": 863571695,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-01T13:04:59Z",
+                "open_issues": 0,
                 "owner": "Evernight",
                 "repo": "beancount-lazy-plugins",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "beancount"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1281,12 +1794,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set of plugins for Beancount (valuation, filter_map, balance_extended, group_pad_transactions, currency_convert, expense_merchant_map, tag_from_continuous_events, updated auto_accounts and generate_base_ccy_prices). Best used with https://github.com/Evernight/lazy-beancount/",
+                "homepage": "https://lazy-beancount.xyz/",
                 "id": 863571695,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-01T13:04:59Z",
+                "open_issues": 0,
                 "owner": "Evernight",
                 "repo": "beancount-lazy-plugins",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "beancount"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1297,12 +1817,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set of plugins for Beancount (valuation, filter_map, balance_extended, group_pad_transactions, currency_convert, expense_merchant_map, tag_from_continuous_events, updated auto_accounts and generate_base_ccy_prices). Best used with https://github.com/Evernight/lazy-beancount/",
+                "homepage": "https://lazy-beancount.xyz/",
                 "id": 863571695,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-01T13:04:59Z",
+                "open_issues": 0,
                 "owner": "Evernight",
                 "repo": "beancount-lazy-plugins",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "beancount"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1313,12 +1840,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beancount plugin for adding metadata to entries per regex pattern",
+                "homepage": null,
                 "id": 157490987,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-08-28T18:46:38Z",
+                "open_issues": 2,
                 "owner": "seltzered",
                 "repo": "beancount-plugins-metadata-spray",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1329,12 +1861,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mortgage schedule simulation plugin for beancount ledger",
+                "homepage": null,
                 "id": 1317642595,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T14:08:40Z",
+                "open_issues": 0,
                 "owner": "mclate",
                 "repo": "beancount-mortgage",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             }
@@ -1352,12 +1889,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom Dashboards for Beancount in Fava",
+                "homepage": null,
                 "id": 611467725,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-15T14:27:50Z",
+                "open_issues": 2,
                 "owner": "andreasgerstmayr",
                 "repo": "fava-dashboards",
-                "stars": 402
+                "stars": 402,
+                "topics": [
+                  "beancount",
+                  "charts",
+                  "dashboards",
+                  "fava",
+                  "sankey"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1368,12 +1916,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Comprehensive set of reports, analyses, and tools for investments, for Beancount and Fava (plain text, double entry accounting software). Includes Fava plugins, command line tools, and libraries for each module.",
+                "homepage": null,
                 "id": 245901501,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-21T20:19:04Z",
+                "open_issues": 14,
                 "owner": "redstreet",
                 "repo": "fava_investor",
-                "stars": 180
+                "stars": 180,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1384,12 +1937,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A beancount fava extension to add a envelope budgeting capability",
+                "homepage": null,
                 "id": 252475092,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-17T02:23:15Z",
+                "open_issues": 17,
                 "owner": "polarmutex",
                 "repo": "fava-envelope",
-                "stars": 143
+                "stars": 143,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1400,12 +1958,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fava-portfolio-returns shows portfolio returns in Fava",
+                "homepage": null,
                 "id": 460908160,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-15T14:58:42Z",
+                "open_issues": 9,
                 "owner": "andreasgerstmayr",
                 "repo": "fava-portfolio-returns",
-                "stars": 102
+                "stars": 102,
+                "topics": [
+                  "beancount",
+                  "beangrow",
+                  "fava",
+                  "portfolio",
+                  "returns"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1416,12 +1985,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fava extension to display a portfolio summary",
+                "homepage": null,
                 "id": 417156425,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-07T18:23:30Z",
+                "open_issues": 5,
                 "owner": "PhracturedBlue",
                 "repo": "fava-portfolio-summary",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1432,12 +2006,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fava Extension for viewing your financial portfolio kept in a Beancount plaintext accounting ledger.",
+                "homepage": null,
                 "id": 207036421,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-02-04T16:53:43Z",
+                "open_issues": 4,
                 "owner": "seltzered",
                 "repo": "fava-classy-portfolio",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1448,12 +2027,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " a Fava extension plugin designed to provide flexible and powerful budget management and visualization features",
+                "homepage": null,
                 "id": 1106601325,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-02-07T15:04:43Z",
+                "open_issues": 1,
                 "owner": "Leon2xiaowu",
                 "repo": "fava_budget_freedom",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "beancount",
+                  "budget",
+                  "fava"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1464,12 +2052,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fava (Beancount) plugin for tracking currencies and fetching historical prices using UI",
+                "homepage": null,
                 "id": 1129734399,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-08T16:59:55Z",
+                "open_issues": 0,
                 "owner": "Evernight",
                 "repo": "fava-currency-tracker",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "beancount",
+                  "beancount-prices"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1480,12 +2076,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beancount plugin for generating informational UK tax report (calculate capital gains tax)",
+                "homepage": null,
                 "id": 943361737,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-04T18:14:31Z",
+                "open_issues": 0,
                 "owner": "Evernight",
                 "repo": "beancount-plugin-tax-uk",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "beancount",
+                  "capital-gains",
+                  "capital-gains-calculator",
+                  "cgt",
+                  "uk-tax-calculator"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1496,12 +2103,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BeanTab is a spreadsheet-like interface for Fava to mangage balance assertions in your Beancount ledger",
+                "homepage": null,
                 "id": 1157359674,
                 "language": "TypeScript",
+                "license": "GPL-2.0",
                 "last_commit": "2026-06-01T13:47:12Z",
+                "open_issues": 0,
                 "owner": "Evernight",
                 "repo": "beantab",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "beancount"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1512,12 +2126,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple git interface inside Fava",
+                "homepage": null,
                 "id": 1157464699,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-04-09T16:26:32Z",
+                "open_issues": 3,
                 "owner": "Evernight",
                 "repo": "fava-git",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             }
@@ -1539,12 +2158,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rule-based double-entry bookkeeping importer (from Alipay/WeChat/Huobi etc. to Beancount/Ledger).",
+            "homepage": "https://deb-sig.github.io/double-entry-generator/",
             "id": 213560328,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-04T12:45:21Z",
+            "open_issues": 27,
             "owner": "deb-sig",
             "repo": "double-entry-generator",
-            "stars": 715
+            "stars": 715,
+            "topics": [
+              "alipay",
+              "alipay-records",
+              "beancount",
+              "double-entry-accounting",
+              "double-entry-bookkeeping",
+              "hacktoberfest",
+              "ledger",
+              "wechat"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -1555,12 +2188,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python OFX Library",
+            "homepage": null,
             "id": 910161,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-01T07:16:20Z",
+            "open_issues": 2,
             "owner": "csingley",
             "repo": "ofxtools",
-            "stars": 345
+            "stars": 345,
+            "topics": [
+              "banking",
+              "finance",
+              "ofx",
+              "open-banking",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -1571,12 +2215,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Opinionated code formatter, just like Python's black code formatter but for Beancount",
+            "homepage": null,
             "id": 477183163,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-08T21:08:05Z",
+            "open_issues": 9,
             "owner": "LaunchPlatform",
             "repo": "beancount-black",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "beancount",
+              "formatter",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -1587,12 +2240,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beancount MCP Server is an experimental implementation that utilizes the Model Context Protocol (MCP) to enable AI assistants to query and analyze Beancount ledger files using Beancount Query Language (BQL) and the beanquery tool.",
+            "homepage": null,
             "id": 958212823,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-01T07:20:42Z",
+            "open_issues": 2,
             "owner": "vanto",
             "repo": "beanquery-mcp",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "beancount",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "personal-finance",
+              "plaintext-accounting",
+              "plaintextaccounting"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -1603,12 +2269,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Standalone Lark based Beancount syntax parser (not relying on Beancount library), MIT license",
+            "homepage": null,
             "id": 476501536,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-09T18:37:02Z",
+            "open_issues": 5,
             "owner": "LaunchPlatform",
             "repo": "beancount-parser",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "beancount",
+              "lark",
+              "parser",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -1619,12 +2295,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A RAG-powered Telegram / Mattermost bot to record beancount transactions with few words",
+            "homepage": null,
             "id": 841375464,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-19T13:38:43Z",
+            "open_issues": 0,
             "owner": "StdioA",
             "repo": "beancount-bot",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "beancount",
+              "chatbot",
+              "ledger",
+              "mattermost",
+              "rag",
+              "telegram"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -1635,12 +2323,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Converts from CSV files to .beancount",
+            "homepage": null,
             "id": 81868948,
             "language": "Clojure",
+            "license": "EPL-1.0",
             "last_commit": "2017-02-24T14:43:07Z",
+            "open_issues": 0,
             "owner": "PaNaVTEC",
             "repo": "csv2beancount",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "accounting",
+              "bank",
+              "banking",
+              "beancount",
+              "csv",
+              "finance"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -1651,12 +2351,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Administer future transactions on beancount ledgers",
+            "homepage": null,
             "id": 567492685,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-23T16:04:27Z",
+            "open_issues": 3,
             "owner": "maread99",
             "repo": "beanahead",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "beancount",
+              "plaintext-accounting"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -1667,12 +2375,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Decorator for beancount importers, providing automatic categorization. ",
+            "homepage": null,
             "id": 351864621,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-03-27T13:54:17Z",
+            "open_issues": 1,
             "owner": "bratekarate",
             "repo": "beancount-categorizer",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -1683,12 +2396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for generating and processing BeanHub's custom forms",
+            "homepage": "https://beanhub-forms-docs.beanhub.io",
             "id": 688288170,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-06T02:28:25Z",
+            "open_issues": 5,
             "owner": "LaunchPlatform",
             "repo": "beanhub-forms",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -1699,12 +2417,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Importer from YNAB to beancount",
+            "homepage": null,
             "id": 78843665,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-13T05:20:33Z",
+            "open_issues": 0,
             "owner": "hoostus",
             "repo": "beancount-ynab",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -1715,12 +2438,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "some importer for beancount",
+            "homepage": null,
             "id": 189510973,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-07-07T12:09:50Z",
+            "open_issues": 0,
             "owner": "zhangzhishan",
             "repo": "beancount_importer",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -1731,12 +2459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React components for BeanHub web app",
+            "homepage": null,
             "id": 463996532,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-19T04:46:35Z",
+            "open_issues": 0,
             "owner": "LaunchPlatform",
             "repo": "beanhub-web-react",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -1752,12 +2485,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gnucash to Beancount Converter.",
+                "homepage": null,
                 "id": 77810166,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2022-09-27T17:38:04Z",
+                "open_issues": 12,
                 "owner": "henriquebastos",
                 "repo": "gnucash-to-beancount",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1768,12 +2506,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project can convert GnuCash sqlite3 files into new Beancount ledger files.",
+                "homepage": null,
                 "id": 798350702,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-01T10:34:49Z",
+                "open_issues": 0,
                 "owner": "dtrai2",
                 "repo": "gnucash-to-beancount",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "beancount",
+                  "gnucash",
+                  "plaintext-accounting"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             }
@@ -1791,12 +2538,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ledger to Beancount text-based converter",
+                "homepage": null,
                 "id": 125626223,
                 "language": "Perl",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-14T07:22:39Z",
+                "open_issues": 23,
                 "owner": "beancount",
                 "repo": "ledger2beancount",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "accounting",
+                  "beancount",
+                  "conversion",
+                  "ledger",
+                  "plaintext"
+                ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             },
@@ -1807,12 +2565,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Another Ledger to Beancount converter",
+                "homepage": null,
                 "id": 100901430,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-02T08:59:11Z",
+                "open_issues": 3,
                 "owner": "glasserc",
                 "repo": "ledger-to-beancount",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
             }
@@ -1831,12 +2594,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Price sources for Beancount that provide prices for various cryptoassets",
+            "homepage": null,
             "id": 203583193,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-07T09:12:29Z",
+            "open_issues": 0,
             "owner": "xuhcc",
             "repo": "beancount-cryptoassets",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "beancount",
+              "beancount-prices",
+              "bzx",
+              "coinmarketcap",
+              "compound",
+              "cryptonator",
+              "tokensets"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -1847,12 +2623,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Price source for Beancount that loads data from https://exchangerate.host/",
+            "homepage": null,
             "id": 202524060,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-12-27T10:38:54Z",
+            "open_issues": 1,
             "owner": "xuhcc",
             "repo": "beancount-exchangerates",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "beancount",
+              "beancount-prices",
+              "exchangeratesapi"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         }
@@ -1869,12 +2654,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beancount accounting system packaged in a Docker image together with Fava, few other libraries and some additional UIs. Privacy-focused and comprehensive approach to personal finances.",
+            "homepage": "https://lazy-beancount.xyz/",
             "id": 784206642,
             "language": "TypeScript",
+            "license": "GPL-2.0",
             "last_commit": "2026-06-03T13:44:34Z",
+            "open_issues": 6,
             "owner": "Evernight",
             "repo": "lazy-beancount",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "beancount",
+              "docker",
+              "expense-tracker",
+              "fava",
+              "finance-management",
+              "finance-tracker",
+              "personal-finance",
+              "plaintext-accounting",
+              "portfolio-tracker",
+              "wealth-management"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -1885,12 +2686,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reports on portfolio asset allocations in beancount. Useful for risk analysis and for rebalancing purposes.",
+            "homepage": null,
             "id": 137623549,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2025-11-29T17:01:56Z",
+            "open_issues": 0,
             "owner": "ghislainbourgeois",
             "repo": "beancount_portfolio_allocation",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         },
@@ -1901,12 +2707,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 945909824,
             "language": "Java",
+            "license": "MPL-2.0",
             "last_commit": "2025-03-10T21:14:52Z",
+            "open_issues": 0,
             "owner": "jbeancount",
             "repo": "jbeancount",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
         }
@@ -1915,15 +2726,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:13:58.913Z",
+    "last_updated": "2026-08-29T04:45:37.920Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Beancount Resources",
+      "homepage": "https://awesome-beancount.com",
       "id": 154991835,
       "language": "HTML",
+      "license": "NOASSERTION",
       "last_commit": "2026-08-05T18:39:05Z",
+      "open_issues": 4,
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
-      "stars": 383
+      "stars": 383,
+      "topics": [
+        "accounting",
+        "awesome",
+        "awesome-list",
+        "beancount",
+        "beancount-resources",
+        "finance",
+        "personal-finances",
+        "plaintext-accounting",
+        "python"
+      ]
     },
     "original_repository_sha": "7cc1dea3bcb3945f8314caef5739f1ce83578a5e",
     "enhanced_repository": "enhansome/enhansome-beancount",
