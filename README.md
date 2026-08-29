@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 376 | 🐛 11 | 🌐 Rust | 📅 2026-08-28 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 377 | 🐛 11 | 🌐 Rust | 📅 2026-08-29 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
@@ -48,14 +48,14 @@ system — ideal for plain text accounting users and Python software developers.
 * Alipay / 支付宝
   * [deb-sig/double-entry-generator](https://github.com/deb-sig/double-entry-generator) ⭐ 715 | 🐛 27 | 🌐 Go | 📅 2026-08-04
   * [wzyboy/awesome-beancount](https://github.com/wzyboy/awesome-beancount/blob/master/importers/alipay_acclog.py) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2026-01-02
-  * [dhr2333/Beancount-Trans](https://github.com/dhr2333/Beancount-Trans) ⭐ 77 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-25
+  * [dhr2333/Beancount-Trans](https://github.com/dhr2333/Beancount-Trans) ⭐ 77 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-29
 * China Merchants Bank (CMB)
   * [Debit](https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_debit_cards.py) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2026-01-02
   * [Credit](https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_credit_cards.py) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2026-01-02
 
 ### Germany
 
-* [Deutsche Kredit Bank](https://github.com/siddhantgoel/beancount-dkb) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2026-08-24
+* [Deutsche Kredit Bank](https://github.com/siddhantgoel/beancount-dkb) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2026-08-29
 * [ING](https://github.com/siddhantgoel/beancount-ing) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2026-08-24
 * [N26](https://github.com/siddhantgoel/beancount-n26) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2026-08-24
 * [Commerzbank](https://github.com/siddhantgoel/beancount-commerzbank) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2024-04-11
@@ -122,7 +122,7 @@ system — ideal for plain text accounting users and Python software developers.
 * [Augment Beancount importers with machine learning](https://github.com/beancount/smart_importer) ⭐ 308 | 🐛 4 | 🌐 Python | 📅 2026-07-26
 * [Red's Importers: Collection of simple importers and a framework to write your own](https://github.com/redstreet/beancount_reds_importers) ⭐ 166 | 🐛 33 | 🌐 Python | 📅 2026-04-30
 * [Importers, plugins and price-fetchers for Beancount](https://github.com/tarioch/beancounttools) ⭐ 97 | 🐛 8 | 🌐 Python | 📅 2026-08-28
-* [open-banking.io](https://github.com/open-banking-io/clients/tree/main/beancount) ⭐ 12 | 🐛 12 | 🌐 Go | 📅 2026-08-26: beangulp importer syncing EEA & UK bank transactions over PSD2, decrypted client-side; no eIDAS certificate and no per-account daily rate-limit (`pip install beancount-openbanking-io`)
+* [open-banking.io](https://github.com/open-banking-io/clients/tree/main/beancount) ⭐ 12 | 🐛 11 | 🌐 Go | 📅 2026-08-29: beangulp importer syncing EEA & UK bank transactions over PSD2, decrypted client-side; no eIDAS certificate and no per-account daily rate-limit (`pip install beancount-openbanking-io`)
 * [Beancount importers for the F-Droid Budget app and for a bank CSV](https://github.com/jamatute/beancount-importer) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2018-05-04
 * [yabci - yet another beancount importer](https://codeberg.org/privatize-koala/yabci)
 
@@ -205,6 +205,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [beancount-plugin-tax-uk](https://github.com/Evernight/beancount-plugin-tax-uk) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-04 - UK tax reporting for Beancount (capital gains and more)
 * [beantab](https://github.com/Evernight/beantab) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-01 - Beancount Fava extension for balances editing visualization
 * [fava-git](https://github.com/Evernight/fava-git) ⭐ 5 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-09 - simple Git integration for Fava
+* [beancount-zakat](https://github.com/WildeBeast2521/beancount-zakat) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-29 - Zakat calculation against the gold and silver nisab, as a Fava dashboard and a CLI
 
 ## Tools
 
@@ -213,6 +214,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [beancount-black](https://github.com/LaunchPlatform/beancount-black) ⭐ 52 | 🐛 9 | 🌐 Python | 📅 2025-03-08 - Opinionated code formatter, just like Python's black code formatter but for Beancount
 * [beanquery-mcp](https://github.com/vanto/beanquery-mcp) ⭐ 52 | 🐛 2 | 🌐 Python | 📅 2025-04-01 - MCP (Model Context Protocol) server for Beancount Ledger files
 * [beancount-parser](https://github.com/LaunchPlatform/beancount-parser) ⭐ 34 | 🐛 5 | 🌐 Python | 📅 2024-05-09 - Standalone Lark based Beancount syntax parser (not relying on Beancount library)
+* [Slashbooks](https://github.com/giltotherescue/slashbooks) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Local-first bookkeeping agent that can export Beancount for inspection in PTA tools
 * [Beancount Bot](https://github.com/StdioA/beancount-bot) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-05-19 - Telegram / Mattermost bot to generate new transactions with few words
 * [CSV to Beancount](https://github.com/PaNaVTEC/csv2beancount) ⭐ 21 | 🐛 0 | 🌐 Clojure | 📅 2017-02-24
 * [beanahead](https://github.com/maread99/beanahead) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-07-23 - Administer future transactions for a beancount ledger

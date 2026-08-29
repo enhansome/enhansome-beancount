@@ -304,7 +304,7 @@
                     "id": 670040890,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-25T08:54:01Z",
+                    "last_commit": "2026-08-29T07:59:39Z",
                     "open_issues": 4,
                     "owner": "dhr2333",
                     "repo": "Beancount-Trans",
@@ -388,8 +388,8 @@
                 "id": 127779406,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-24T17:12:58Z",
-                "open_issues": 1,
+                "last_commit": "2026-08-29T14:51:37Z",
+                "open_issues": 0,
                 "owner": "siddhantgoel",
                 "repo": "beancount-dkb",
                 "stars": 52,
@@ -1107,8 +1107,8 @@
                 "id": 1264078752,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-26T12:06:28Z",
-                "open_issues": 12,
+                "last_commit": "2026-08-29T11:47:49Z",
+                "open_issues": 11,
                 "owner": "open-banking-io",
                 "repo": "clients",
                 "stars": 12,
@@ -2139,6 +2139,35 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
+            },
+            {
+              "node_type": "item",
+              "title": "beancount-zakat",
+              "description": "Zakat calculation against the gold and silver nisab, as a Fava dashboard and a CLI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Zakat calculation for Beancount ledgers, with a Fava dashboard and a standalone CLI",
+                "homepage": "https://pypi.org/project/beancount-zakat/",
+                "id": 1343633672,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-29T12:17:41Z",
+                "open_issues": 0,
+                "owner": "WildeBeast2521",
+                "repo": "beancount-zakat",
+                "stars": 1,
+                "topics": [
+                  "accounting",
+                  "beancount",
+                  "fava",
+                  "islamic-finance",
+                  "plaintext-accounting",
+                  "python",
+                  "zakat"
+                ]
+              },
+              "first_seen": "2026-08-29T17:25:27.695Z"
             }
           ],
           "description": null,
@@ -2287,6 +2316,36 @@
             ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Slashbooks",
+          "description": "Local-first bookkeeping agent that can export Beancount for inspection in PTA tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Replace QuickBooks and your outsourced bookkeeper with an AI agent you control.",
+            "homepage": "https://slashbooks.org",
+            "id": 1273830468,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-24T22:40:20Z",
+            "open_issues": 0,
+            "owner": "giltotherescue",
+            "repo": "slashbooks",
+            "stars": 31,
+            "topics": [
+              "accounting",
+              "ai-agents",
+              "bookkeeping",
+              "claude-code",
+              "local-first",
+              "plain-text-accounting",
+              "quickbooks",
+              "small-business"
+            ]
+          },
+          "first_seen": "2026-08-29T17:25:27.695Z"
         },
         {
           "node_type": "item",
@@ -2726,7 +2785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:45:37.920Z",
+    "last_updated": "2026-08-29T17:25:27.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
@@ -2734,8 +2793,8 @@
       "id": 154991835,
       "language": "HTML",
       "license": "NOASSERTION",
-      "last_commit": "2026-08-05T18:39:05Z",
-      "open_issues": 4,
+      "last_commit": "2026-08-29T09:05:41Z",
+      "open_issues": 0,
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
       "stars": 383,
@@ -2751,7 +2810,7 @@
         "python"
       ]
     },
-    "original_repository_sha": "7cc1dea3bcb3945f8314caef5739f1ce83578a5e",
+    "original_repository_sha": "bf02e67a40493c32912772c9e851e36a35a0f98a",
     "enhanced_repository": "enhansome/enhansome-beancount",
     "enhanced_repository_description": null,
     "title": "Awesome Beancount with stars"
