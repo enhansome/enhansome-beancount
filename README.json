@@ -19,7 +19,7 @@
             "open_issues": 237,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5949,
+            "stars": 5953,
             "topics": [
               "beancount"
             ]
@@ -1342,7 +1342,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-08-26T17:55:02Z",
+            "last_commit": "2026-08-30T17:18:24Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -1943,7 +1943,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-17T02:23:15Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "polarmutex",
                 "repo": "fava-envelope",
                 "stars": 143,
@@ -2785,7 +2785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:25:27.695Z",
+    "last_updated": "2026-08-30T17:48:09.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
