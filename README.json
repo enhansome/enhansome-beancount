@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-08-23T20:17:45Z",
-            "open_issues": 237,
+            "open_issues": 238,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5953,
+            "stars": 5957,
             "topics": [
               "beancount"
             ]
@@ -388,7 +388,7 @@
                 "id": 127779406,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T14:51:37Z",
+                "last_commit": "2026-08-31T19:36:14Z",
                 "open_issues": 0,
                 "owner": "siddhantgoel",
                 "repo": "beancount-dkb",
@@ -420,7 +420,7 @@
                 "id": 142293785,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-24T12:22:59Z",
+                "last_commit": "2026-08-31T12:23:08Z",
                 "open_issues": 1,
                 "owner": "siddhantgoel",
                 "repo": "beancount-ing",
@@ -452,7 +452,7 @@
                 "id": 216653151,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-24T11:23:05Z",
+                "last_commit": "2026-08-31T11:23:03Z",
                 "open_issues": 1,
                 "owner": "siddhantgoel",
                 "repo": "beancount-n26",
@@ -1342,7 +1342,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-08-30T17:18:24Z",
+            "last_commit": "2026-08-31T17:35:50Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -1967,7 +1967,7 @@
                 "open_issues": 9,
                 "owner": "andreasgerstmayr",
                 "repo": "fava-portfolio-returns",
-                "stars": 102,
+                "stars": 103,
                 "topics": [
                   "beancount",
                   "beangrow",
@@ -2722,7 +2722,7 @@
             "open_issues": 6,
             "owner": "Evernight",
             "repo": "lazy-beancount",
-            "stars": 168,
+            "stars": 169,
             "topics": [
               "beancount",
               "docker",
@@ -2785,7 +2785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T17:48:09.859Z",
+    "last_updated": "2026-08-31T19:42:57.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
