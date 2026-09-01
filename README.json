@@ -19,7 +19,7 @@
             "open_issues": 238,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5957,
+            "stars": 5958,
             "topics": [
               "beancount"
             ]
@@ -160,7 +160,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-01-13T16:07:38Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "blinkstu",
             "repo": "beancount-telegram-bot",
             "stars": 7,
@@ -1237,11 +1237,11 @@
             "id": 265094440,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-01T04:54:03Z",
+            "last_commit": "2026-09-01T04:52:37Z",
             "open_issues": 23,
             "owner": "polarmutex",
             "repo": "beancount-language-server",
-            "stars": 244,
+            "stars": 245,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1342,7 +1342,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-08-31T17:35:50Z",
+            "last_commit": "2026-09-01T10:22:12Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -1367,7 +1367,7 @@
             "open_issues": 5,
             "owner": "zed-extensions",
             "repo": "beancount",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
@@ -2785,7 +2785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:42:57.554Z",
+    "last_updated": "2026-09-01T17:28:02.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
