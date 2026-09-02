@@ -19,7 +19,7 @@
             "open_issues": 238,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5958,
+            "stars": 5959,
             "topics": [
               "beancount"
             ]
@@ -1107,11 +1107,11 @@
                 "id": 1264078752,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T11:47:49Z",
+                "last_commit": "2026-09-02T12:12:56Z",
                 "open_issues": 11,
                 "owner": "open-banking-io",
                 "repo": "clients",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "aisp",
                   "banking",
@@ -1262,7 +1262,7 @@
             "open_issues": 25,
             "owner": "nathangrigg",
             "repo": "vim-beancount",
-            "stars": 191,
+            "stars": 192,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1342,7 +1342,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-09-01T10:22:12Z",
+            "last_commit": "2026-09-02T16:39:41Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -2785,7 +2785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:28:02.541Z",
+    "last_updated": "2026-09-02T17:26:05.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
@@ -2794,7 +2794,7 @@
       "language": "HTML",
       "license": "NOASSERTION",
       "last_commit": "2026-08-29T09:05:41Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
       "stars": 383,
