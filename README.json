@@ -19,7 +19,7 @@
             "open_issues": 238,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5962,
+            "stars": 5966,
             "topics": [
               "beancount"
             ]
@@ -1107,8 +1107,8 @@
                 "id": 1264078752,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-02T12:12:56Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-04T11:29:02Z",
+                "open_issues": 12,
                 "owner": "open-banking-io",
                 "repo": "clients",
                 "stars": 14,
@@ -1342,7 +1342,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-09-02T16:39:41Z",
+            "last_commit": "2026-09-04T12:53:08Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -1898,7 +1898,7 @@
                 "open_issues": 2,
                 "owner": "andreasgerstmayr",
                 "repo": "fava-dashboards",
-                "stars": 402,
+                "stars": 403,
                 "topics": [
                   "beancount",
                   "charts",
@@ -1925,7 +1925,7 @@
                 "open_issues": 14,
                 "owner": "redstreet",
                 "repo": "fava_investor",
-                "stars": 180,
+                "stars": 181,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1946,7 +1946,7 @@
                 "open_issues": 18,
                 "owner": "polarmutex",
                 "repo": "fava-envelope",
-                "stars": 143,
+                "stars": 144,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1980,27 +1980,6 @@
             },
             {
               "node_type": "item",
-              "title": "fava-portfolio-summary",
-              "description": "grouped portfolio view; also calculate MWRR (Money-Weighted Rate of Return) or TWRR (Time-Weighted Rate of Return)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Fava extension to display a portfolio summary",
-                "homepage": null,
-                "id": 417156425,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-01-07T18:23:30Z",
-                "open_issues": 5,
-                "owner": "PhracturedBlue",
-                "repo": "fava-portfolio-summary",
-                "stars": 29,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:13:58.913Z"
-            },
-            {
-              "node_type": "item",
               "title": "fava-classy-portfolio",
               "description": "displays a list of different portfolios, with breakdowns using metadata labels",
               "children": [],
@@ -2015,6 +1994,27 @@
                 "open_issues": 4,
                 "owner": "seltzered",
                 "repo": "fava-classy-portfolio",
+                "stars": 30,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:13:58.913Z"
+            },
+            {
+              "node_type": "item",
+              "title": "fava-portfolio-summary",
+              "description": "grouped portfolio view; also calculate MWRR (Money-Weighted Rate of Return) or TWRR (Time-Weighted Rate of Return)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fava extension to display a portfolio summary",
+                "homepage": null,
+                "id": 417156425,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-01-07T18:23:30Z",
+                "open_issues": 5,
+                "owner": "PhracturedBlue",
+                "repo": "fava-portfolio-summary",
                 "stars": 29,
                 "topics": []
               },
@@ -2333,7 +2333,7 @@
             "open_issues": 0,
             "owner": "giltotherescue",
             "repo": "slashbooks",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "accounting",
               "ai-agents",
@@ -2377,6 +2377,30 @@
         },
         {
           "node_type": "item",
+          "title": "beanahead",
+          "description": "Administer future transactions for a beancount ledger",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Administer future transactions on beancount ledgers",
+            "homepage": null,
+            "id": 567492685,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-07-23T16:04:27Z",
+            "open_issues": 3,
+            "owner": "maread99",
+            "repo": "beanahead",
+            "stars": 22,
+            "topics": [
+              "beancount",
+              "plaintext-accounting"
+            ]
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
+        },
+        {
+          "node_type": "item",
           "title": "CSV to Beancount",
           "description": null,
           "children": [],
@@ -2399,30 +2423,6 @@
               "beancount",
               "csv",
               "finance"
-            ]
-          },
-          "first_seen": "2026-08-28T23:13:58.913Z"
-        },
-        {
-          "node_type": "item",
-          "title": "beanahead",
-          "description": "Administer future transactions for a beancount ledger",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Administer future transactions on beancount ledgers",
-            "homepage": null,
-            "id": 567492685,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-07-23T16:04:27Z",
-            "open_issues": 3,
-            "owner": "maread99",
-            "repo": "beanahead",
-            "stars": 21,
-            "topics": [
-              "beancount",
-              "plaintext-accounting"
             ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
@@ -2785,7 +2785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:19:06.505Z",
+    "last_updated": "2026-09-04T17:11:25.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
@@ -2797,7 +2797,7 @@
       "open_issues": 1,
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
-      "stars": 383,
+      "stars": 385,
       "topics": [
         "accounting",
         "awesome",
