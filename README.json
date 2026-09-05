@@ -19,7 +19,7 @@
             "open_issues": 238,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5966,
+            "stars": 5970,
             "topics": [
               "beancount"
             ]
@@ -1925,7 +1925,7 @@
                 "open_issues": 14,
                 "owner": "redstreet",
                 "repo": "fava_investor",
-                "stars": 181,
+                "stars": 182,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -2785,7 +2785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:11:25.153Z",
+    "last_updated": "2026-09-05T16:18:10.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",

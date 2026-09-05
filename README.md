@@ -15,7 +15,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Official Resources
 
-* [Source Code](https://github.com/beancount/beancount) ⭐ 5,966 | 🐛 238 | 🌐 Python | 📅 2026-08-23
+* [Source Code](https://github.com/beancount/beancount) ⭐ 5,970 | 🐛 238 | 🌐 Python | 📅 2026-08-23
 * [Homepage](https://beancount.github.io/)
 * Documentation
   * [GitHub Pages](https://beancount.github.io/docs/) ([generated](https://github.com/beancount/docs) ⭐ 59 | 🐛 12 | 🌐 Python | 📅 2026-07-11 from Google Docs)
@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 380 | 🐛 3 | 🌐 Rust | 📅 2026-09-04 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 380 | 🐛 6 | 🌐 Rust | 📅 2026-09-05 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
@@ -195,7 +195,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 ### Fava
 
 * [fava-dashboards](https://github.com/andreasgerstmayr/fava-dashboards) ⭐ 403 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-15 - Additional fully custom dashboards
-* [fava\_investor](https://github.com/redstreet/fava_investor) ⭐ 181 | 🐛 14 | 🌐 Python | 📅 2026-01-21 reports, analyses, and tools for investments
+* [fava\_investor](https://github.com/redstreet/fava_investor) ⭐ 182 | 🐛 14 | 🌐 Python | 📅 2026-01-21 reports, analyses, and tools for investments
 * [fava-envelope](https://github.com/polarmutex/fava-envelope) ⭐ 144 | 🐛 18 | 🌐 Python | 📅 2025-07-17 - Beancount Fava extension for envelope budgeting
 * [fava-portfolio-returns](https://github.com/andreasgerstmayr/fava-portfolio-returns) ⭐ 103 | 🐛 9 | 🌐 Python | 📅 2026-08-15 shows portfolio returns
 * [fava-classy-portfolio](https://github.com/seltzered/fava-classy-portfolio) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2022-02-04 displays a list of different portfolios, with breakdowns using metadata labels
@@ -293,4 +293,4 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
