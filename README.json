@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-08-23T20:17:45Z",
-            "open_issues": 238,
+            "open_issues": 239,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5970,
+            "stars": 5976,
             "topics": [
               "beancount"
             ]
@@ -106,7 +106,7 @@
             "open_issues": 21,
             "owner": "LucaBernstein",
             "repo": "beancount-bot-tg",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "beancount",
               "go",
@@ -192,7 +192,7 @@
                 "open_issues": 27,
                 "owner": "deb-sig",
                 "repo": "double-entry-generator",
-                "stars": 715,
+                "stars": 717,
                 "topics": [
                   "alipay",
                   "alipay-records",
@@ -257,7 +257,7 @@
                     "open_issues": 27,
                     "owner": "deb-sig",
                     "repo": "double-entry-generator",
-                    "stars": 715,
+                    "stars": 717,
                     "topics": [
                       "alipay",
                       "alipay-records",
@@ -768,7 +768,7 @@
                 "open_issues": 0,
                 "owner": "Evernight",
                 "repo": "beancount-importers",
-                "stars": 16,
+                "stars": 17,
                 "topics": [
                   "beancount"
                 ]
@@ -796,7 +796,7 @@
                     "open_issues": 0,
                     "owner": "Evernight",
                     "repo": "beancount-importers",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": [
                       "beancount"
                     ]
@@ -826,7 +826,7 @@
                     "open_issues": 0,
                     "owner": "Evernight",
                     "repo": "beancount-importers",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": [
                       "beancount"
                     ]
@@ -1021,7 +1021,7 @@
                 "open_issues": 78,
                 "owner": "jbms",
                 "repo": "beancount-import",
-                "stars": 470,
+                "stars": 471,
                 "topics": [
                   "beancount"
                 ]
@@ -1180,7 +1180,7 @@
                 "open_issues": 2,
                 "owner": "LaunchPlatform",
                 "repo": "beancount-exporter",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "beancount",
                   "export",
@@ -1300,8 +1300,8 @@
             "id": 281706272,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-07-26T08:22:43Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-06T08:22:23Z",
+            "open_issues": 8,
             "owner": "polarmutex",
             "repo": "tree-sitter-beancount",
             "stars": 56,
@@ -1367,7 +1367,7 @@
             "open_issues": 5,
             "owner": "zed-extensions",
             "repo": "beancount",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1898,7 +1898,7 @@
                 "open_issues": 2,
                 "owner": "andreasgerstmayr",
                 "repo": "fava-dashboards",
-                "stars": 403,
+                "stars": 405,
                 "topics": [
                   "beancount",
                   "charts",
@@ -1967,7 +1967,7 @@
                 "open_issues": 9,
                 "owner": "andreasgerstmayr",
                 "repo": "fava-portfolio-returns",
-                "stars": 103,
+                "stars": 105,
                 "topics": [
                   "beancount",
                   "beangrow",
@@ -2061,7 +2061,7 @@
                 "open_issues": 0,
                 "owner": "Evernight",
                 "repo": "fava-currency-tracker",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "beancount",
                   "beancount-prices"
@@ -2085,7 +2085,7 @@
                 "open_issues": 0,
                 "owner": "Evernight",
                 "repo": "beancount-plugin-tax-uk",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "beancount",
                   "capital-gains",
@@ -2196,7 +2196,7 @@
             "open_issues": 27,
             "owner": "deb-sig",
             "repo": "double-entry-generator",
-            "stars": 715,
+            "stars": 717,
             "topics": [
               "alipay",
               "alipay-records",
@@ -2249,11 +2249,11 @@
             "id": 477183163,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T05:03:29Z",
+            "last_commit": "2026-09-06T00:42:37Z",
             "open_issues": 9,
             "owner": "LaunchPlatform",
             "repo": "beancount-black",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "beancount",
               "formatter",
@@ -2278,7 +2278,7 @@
             "open_issues": 2,
             "owner": "vanto",
             "repo": "beanquery-mcp",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "beancount",
               "mcp",
@@ -2307,7 +2307,7 @@
             "open_issues": 5,
             "owner": "LaunchPlatform",
             "repo": "beancount-parser",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "beancount",
               "lark",
@@ -2333,7 +2333,7 @@
             "open_issues": 0,
             "owner": "giltotherescue",
             "repo": "slashbooks",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "accounting",
               "ai-agents",
@@ -2363,7 +2363,7 @@
             "open_issues": 0,
             "owner": "StdioA",
             "repo": "beancount-bot",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "beancount",
               "chatbot",
@@ -2371,6 +2371,34 @@
               "mattermost",
               "rag",
               "telegram"
+            ]
+          },
+          "first_seen": "2026-08-28T23:13:58.913Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CSV to Beancount",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Converts from CSV files to .beancount",
+            "homepage": null,
+            "id": 81868948,
+            "language": "Clojure",
+            "license": "EPL-1.0",
+            "last_commit": "2017-02-24T14:43:07Z",
+            "open_issues": 0,
+            "owner": "PaNaVTEC",
+            "repo": "csv2beancount",
+            "stars": 22,
+            "topics": [
+              "accounting",
+              "bank",
+              "banking",
+              "beancount",
+              "csv",
+              "finance"
             ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
@@ -2395,34 +2423,6 @@
             "topics": [
               "beancount",
               "plaintext-accounting"
-            ]
-          },
-          "first_seen": "2026-08-28T23:13:58.913Z"
-        },
-        {
-          "node_type": "item",
-          "title": "CSV to Beancount",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Converts from CSV files to .beancount",
-            "homepage": null,
-            "id": 81868948,
-            "language": "Clojure",
-            "license": "EPL-1.0",
-            "last_commit": "2017-02-24T14:43:07Z",
-            "open_issues": 0,
-            "owner": "PaNaVTEC",
-            "repo": "csv2beancount",
-            "stars": 21,
-            "topics": [
-              "accounting",
-              "bank",
-              "banking",
-              "beancount",
-              "csv",
-              "finance"
             ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
@@ -2691,7 +2691,7 @@
             "open_issues": 1,
             "owner": "xuhcc",
             "repo": "beancount-exchangerates",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "beancount",
               "beancount-prices",
@@ -2722,7 +2722,7 @@
             "open_issues": 6,
             "owner": "Evernight",
             "repo": "lazy-beancount",
-            "stars": 169,
+            "stars": 170,
             "topics": [
               "beancount",
               "docker",
@@ -2785,7 +2785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:18:10.424Z",
+    "last_updated": "2026-09-06T16:28:50.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
@@ -2797,7 +2797,7 @@
       "open_issues": 1,
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
-      "stars": 385,
+      "stars": 386,
       "topics": [
         "accounting",
         "awesome",
