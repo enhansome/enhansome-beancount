@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-08-23T20:17:45Z",
-            "open_issues": 238,
+            "open_issues": 237,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5978,
+            "stars": 5982,
             "topics": [
               "beancount"
             ]
@@ -388,8 +388,8 @@
                 "id": 127779406,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-07T17:13:01Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-08T17:04:04Z",
+                "open_issues": 0,
                 "owner": "siddhantgoel",
                 "repo": "beancount-dkb",
                 "stars": 52,
@@ -1107,8 +1107,8 @@
                 "id": 1264078752,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-07T14:19:04Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-07T19:26:17Z",
+                "open_issues": 12,
                 "owner": "open-banking-io",
                 "repo": "clients",
                 "stars": 14,
@@ -1342,7 +1342,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-09-07T16:23:31Z",
+            "last_commit": "2026-09-08T16:48:07Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -2785,7 +2785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:25:53.693Z",
+    "last_updated": "2026-09-08T17:35:23.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",

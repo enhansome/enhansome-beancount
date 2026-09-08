@@ -15,7 +15,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Official Resources
 
-* [Source Code](https://github.com/beancount/beancount) ⭐ 5,978 | 🐛 238 | 🌐 Python | 📅 2026-08-23
+* [Source Code](https://github.com/beancount/beancount) ⭐ 5,982 | 🐛 237 | 🌐 Python | 📅 2026-08-23
 * [Homepage](https://beancount.github.io/)
 * Documentation
   * [GitHub Pages](https://beancount.github.io/docs/) ([generated](https://github.com/beancount/docs) ⭐ 59 | 🐛 12 | 🌐 Python | 📅 2026-07-11 from Google Docs)
@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 382 | 🐛 9 | 🌐 Rust | 📅 2026-09-07 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 383 | 🐛 10 | 🌐 Rust | 📅 2026-09-08 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
@@ -55,7 +55,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ### Germany
 
-* [Deutsche Kredit Bank](https://github.com/siddhantgoel/beancount-dkb) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2026-09-07
+* [Deutsche Kredit Bank](https://github.com/siddhantgoel/beancount-dkb) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2026-09-08
 * [ING](https://github.com/siddhantgoel/beancount-ing) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2026-09-07
 * [N26](https://github.com/siddhantgoel/beancount-n26) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2026-09-07
 * [Commerzbank](https://github.com/siddhantgoel/beancount-commerzbank) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2024-04-11
@@ -122,7 +122,7 @@ system — ideal for plain text accounting users and Python software developers.
 * [Augment Beancount importers with machine learning](https://github.com/beancount/smart_importer) ⭐ 308 | 🐛 4 | 🌐 Python | 📅 2026-07-26
 * [Red's Importers: Collection of simple importers and a framework to write your own](https://github.com/redstreet/beancount_reds_importers) ⭐ 166 | 🐛 33 | 🌐 Python | 📅 2026-04-30
 * [Importers, plugins and price-fetchers for Beancount](https://github.com/tarioch/beancounttools) ⭐ 97 | 🐛 8 | 🌐 Python | 📅 2026-08-28
-* [open-banking.io](https://github.com/open-banking-io/clients/tree/main/beancount) ⭐ 14 | 🐛 14 | 🌐 Go | 📅 2026-09-07: beangulp importer syncing EEA & UK bank transactions over PSD2, decrypted client-side; no eIDAS certificate and no per-account daily rate-limit (`pip install beancount-openbanking-io`)
+* [open-banking.io](https://github.com/open-banking-io/clients/tree/main/beancount) ⭐ 14 | 🐛 12 | 🌐 Go | 📅 2026-09-07: beangulp importer syncing EEA & UK bank transactions over PSD2, decrypted client-side; no eIDAS certificate and no per-account daily rate-limit (`pip install beancount-openbanking-io`)
 * [Beancount importers for the F-Droid Budget app and for a bank CSV](https://github.com/jamatute/beancount-importer) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2018-05-04
 * [yabci - yet another beancount importer](https://codeberg.org/privatize-koala/yabci)
 
@@ -159,7 +159,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [Emacs](https://github.com/beancount/beancount-mode) ⭐ 159 | 🐛 11 | 🌐 Emacs Lisp | 📅 2026-05-17
 * [Tree-Sitter](https://github.com/polarmutex/tree-sitter-beancount) ⭐ 56 | 🐛 8 | 🌐 Rust | 📅 2026-09-06
 * [Sublime Text](https://github.com/norseghost/sublime-beancount) ⭐ 35 | 🐛 8 | 🌐 Python | 📅 2025-11-06
-* [ctags](https://github.com/aldur/dotfiles/blob/master/various/ctags/beancount.ctags) ⭐ 23 | 🐛 0 | 🌐 Nix | 📅 2026-09-07
+* [ctags](https://github.com/aldur/dotfiles/blob/master/various/ctags/beancount.ctags) ⭐ 23 | 🐛 0 | 🌐 Nix | 📅 2026-09-08
 * [Zed](https://github.com/zed-extensions/beancount) ⭐ 20 | 🐛 5 | 🌐 Rust | 📅 2026-06-07
 * [Atom](https://atom.io/packages/beancount)
 * [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
@@ -293,4 +293,4 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
