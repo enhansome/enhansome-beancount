@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 383 | 🐛 10 | 🌐 Rust | 📅 2026-09-08 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 384 | 🐛 8 | 🌐 Rust | 📅 2026-09-09 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
@@ -56,8 +56,8 @@ system — ideal for plain text accounting users and Python software developers.
 ### Germany
 
 * [Deutsche Kredit Bank](https://github.com/siddhantgoel/beancount-dkb) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2026-09-08
-* [ING](https://github.com/siddhantgoel/beancount-ing) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2026-09-07
-* [N26](https://github.com/siddhantgoel/beancount-n26) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2026-09-07
+* [ING](https://github.com/siddhantgoel/beancount-ing) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2026-09-08
+* [N26](https://github.com/siddhantgoel/beancount-n26) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2026-09-08
 * [Commerzbank](https://github.com/siddhantgoel/beancount-commerzbank) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2024-04-11
 * [Volksbank & GLS-Bank](https://github.com/Fjanks/beancount-importer-volksbank) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-03-21
 
@@ -122,7 +122,7 @@ system — ideal for plain text accounting users and Python software developers.
 * [Augment Beancount importers with machine learning](https://github.com/beancount/smart_importer) ⭐ 308 | 🐛 4 | 🌐 Python | 📅 2026-07-26
 * [Red's Importers: Collection of simple importers and a framework to write your own](https://github.com/redstreet/beancount_reds_importers) ⭐ 166 | 🐛 33 | 🌐 Python | 📅 2026-04-30
 * [Importers, plugins and price-fetchers for Beancount](https://github.com/tarioch/beancounttools) ⭐ 97 | 🐛 8 | 🌐 Python | 📅 2026-08-28
-* [open-banking.io](https://github.com/open-banking-io/clients/tree/main/beancount) ⭐ 14 | 🐛 12 | 🌐 Go | 📅 2026-09-07: beangulp importer syncing EEA & UK bank transactions over PSD2, decrypted client-side; no eIDAS certificate and no per-account daily rate-limit (`pip install beancount-openbanking-io`)
+* [open-banking.io](https://github.com/open-banking-io/clients/tree/main/beancount) ⭐ 14 | 🐛 15 | 🌐 Go | 📅 2026-09-09: beangulp importer syncing EEA & UK bank transactions over PSD2, decrypted client-side; no eIDAS certificate and no per-account daily rate-limit (`pip install beancount-openbanking-io`)
 * [Beancount importers for the F-Droid Budget app and for a bank CSV](https://github.com/jamatute/beancount-importer) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2018-05-04
 * [yabci - yet another beancount importer](https://codeberg.org/privatize-koala/yabci)
 
@@ -159,7 +159,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [Emacs](https://github.com/beancount/beancount-mode) ⭐ 159 | 🐛 11 | 🌐 Emacs Lisp | 📅 2026-05-17
 * [Tree-Sitter](https://github.com/polarmutex/tree-sitter-beancount) ⭐ 56 | 🐛 8 | 🌐 Rust | 📅 2026-09-06
 * [Sublime Text](https://github.com/norseghost/sublime-beancount) ⭐ 35 | 🐛 8 | 🌐 Python | 📅 2025-11-06
-* [ctags](https://github.com/aldur/dotfiles/blob/master/various/ctags/beancount.ctags) ⭐ 23 | 🐛 0 | 🌐 Nix | 📅 2026-09-08
+* [ctags](https://github.com/aldur/dotfiles/blob/master/various/ctags/beancount.ctags) ⭐ 23 | 🐛 0 | 🌐 Nix | 📅 2026-09-09
 * [Zed](https://github.com/zed-extensions/beancount) ⭐ 20 | 🐛 5 | 🌐 Rust | 📅 2026-06-07
 * [Atom](https://atom.io/packages/beancount)
 * [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
@@ -199,7 +199,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [fava-envelope](https://github.com/polarmutex/fava-envelope) ⭐ 144 | 🐛 18 | 🌐 Python | 📅 2025-07-17 - Beancount Fava extension for envelope budgeting
 * [fava-portfolio-returns](https://github.com/andreasgerstmayr/fava-portfolio-returns) ⭐ 105 | 🐛 9 | 🌐 Python | 📅 2026-08-15 shows portfolio returns
 * [fava-classy-portfolio](https://github.com/seltzered/fava-classy-portfolio) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2022-02-04 displays a list of different portfolios, with breakdowns using metadata labels
-* [fava-portfolio-summary](https://github.com/PhracturedBlue/fava-portfolio-summary) ⭐ 29 | 🐛 5 | 🌐 Python | 📅 2025-01-07 grouped portfolio view; also calculate MWRR (Money-Weighted Rate of Return) or TWRR (Time-Weighted Rate of Return)
+* [fava-portfolio-summary](https://github.com/PhracturedBlue/fava-portfolio-summary) ⭐ 29 | 🐛 6 | 🌐 Python | 📅 2025-01-07 grouped portfolio view; also calculate MWRR (Money-Weighted Rate of Return) or TWRR (Time-Weighted Rate of Return)
 * [fava\_budget\_freedom](https://github.com/Leon2xiaowu/fava_budget_freedom) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-02-07 provide flexible and powerful budget management and visualization features
 * [fava-currency-tracker](https://github.com/Evernight/fava-currency-tracker) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-08 - Currency exchange rate dashboard for Fava
 * [beancount-plugin-tax-uk](https://github.com/Evernight/beancount-plugin-tax-uk) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-04 - UK tax reporting for Beancount (capital gains and more)
@@ -284,7 +284,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ## Misc
 
-* [Lazy Beancount: Beancount and tools in Docker with an alternative use guide](https://github.com/Evernight/lazy-beancount) ⭐ 170 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-03
+* [Lazy Beancount: Beancount and tools in Docker with an alternative use guide](https://github.com/Evernight/lazy-beancount) ⭐ 171 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-03
 * [Reports on portfolio asset allocation in Beancount](https://github.com/ghislainbourgeois/beancount_portfolio_allocation/) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2025-11-29
 * [jbeancount](https://github.com/jbeancount/jbeancount) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2025-03-10
 * [Budgets using Fava](https://fava.pythonanywhere.com/example-with-budgets/)
@@ -293,4 +293,4 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
