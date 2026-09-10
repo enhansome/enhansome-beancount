@@ -19,7 +19,7 @@
             "open_issues": 237,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5982,
+            "stars": 5987,
             "topics": [
               "beancount"
             ]
@@ -192,7 +192,7 @@
                 "open_issues": 27,
                 "owner": "deb-sig",
                 "repo": "double-entry-generator",
-                "stars": 717,
+                "stars": 718,
                 "topics": [
                   "alipay",
                   "alipay-records",
@@ -257,7 +257,7 @@
                     "open_issues": 27,
                     "owner": "deb-sig",
                     "repo": "double-entry-generator",
-                    "stars": 717,
+                    "stars": 718,
                     "topics": [
                       "alipay",
                       "alipay-records",
@@ -1280,7 +1280,7 @@
             "language": "Emacs Lisp",
             "license": "GPL-3.0",
             "last_commit": "2026-05-17T18:03:45Z",
-            "open_issues": 11,
+            "open_issues": 13,
             "owner": "beancount",
             "repo": "beancount-mode",
             "stars": 159,
@@ -1342,7 +1342,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-09-09T15:23:24Z",
+            "last_commit": "2026-09-10T12:56:26Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -2196,7 +2196,7 @@
             "open_issues": 27,
             "owner": "deb-sig",
             "repo": "double-entry-generator",
-            "stars": 717,
+            "stars": 718,
             "topics": [
               "alipay",
               "alipay-records",
@@ -2785,7 +2785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:20:44.002Z",
+    "last_updated": "2026-09-10T17:19:07.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
@@ -2794,7 +2794,7 @@
       "language": "HTML",
       "license": "NOASSERTION",
       "last_commit": "2026-08-29T09:05:41Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
       "stars": 385,
