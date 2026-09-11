@@ -19,7 +19,7 @@
             "open_issues": 237,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5987,
+            "stars": 5990,
             "topics": [
               "beancount"
             ]
@@ -64,6 +64,33 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "beancount-gs",
+          "description": "Self-hosted multi-user Beancount web service (React + Go) with AI assistant and MCP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "基于 beancount 提供个人记账财务管理的 RESTful API 服务（包含前端页面）",
+            "homepage": "https://www.yuque.com/chuyi-ble7p/beancount-gs",
+            "id": 409127788,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-08-25T03:08:14Z",
+            "open_issues": 36,
+            "owner": "BaoXuebin",
+            "repo": "beancount-gs",
+            "stars": 416,
+            "topics": [
+              "beancount",
+              "docker",
+              "gin-gonic",
+              "go",
+              "golang"
+            ]
+          },
+          "first_seen": "2026-09-11T17:20:59.222Z"
+        },
         {
           "node_type": "item",
           "title": "Beancount Mobile",
@@ -205,6 +232,30 @@
                 ]
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BeanBridge",
+              "description": "Browser-based rule importer (Alipay/WeChat/banks/crypto → Beancount or Ledger) powered by double-entry-generator WASM (live demo).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "BeanBridge - 让复式记账更简单！ 🎯",
+                "homepage": "https://fatsheep2.github.io/beanBridge/",
+                "id": 1003401079,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2026-06-04T06:38:46Z",
+                "open_issues": 2,
+                "owner": "fatsheep2",
+                "repo": "beanBridge",
+                "stars": 20,
+                "topics": [
+                  "beancount",
+                  "bookkeeping"
+                ]
+              },
+              "first_seen": "2026-09-11T17:20:59.222Z"
             },
             {
               "node_type": "item",
@@ -855,7 +906,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-04-30T00:06:21Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
                 "stars": 166,
@@ -876,7 +927,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-04-30T00:06:21Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
                 "stars": 166,
@@ -897,7 +948,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-04-30T00:06:21Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
                 "stars": 166,
@@ -1062,7 +1113,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-04-30T00:06:21Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
                 "stars": 166,
@@ -1898,7 +1949,7 @@
                 "open_issues": 2,
                 "owner": "andreasgerstmayr",
                 "repo": "fava-dashboards",
-                "stars": 405,
+                "stars": 406,
                 "topics": [
                   "beancount",
                   "charts",
@@ -2785,7 +2836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:19:07.245Z",
+    "last_updated": "2026-09-11T17:20:59.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
@@ -2793,8 +2844,8 @@
       "id": 154991835,
       "language": "HTML",
       "license": "NOASSERTION",
-      "last_commit": "2026-08-29T09:05:41Z",
-      "open_issues": 2,
+      "last_commit": "2026-09-10T19:18:19Z",
+      "open_issues": 1,
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
       "stars": 385,
@@ -2810,7 +2861,7 @@
         "python"
       ]
     },
-    "original_repository_sha": "bf02e67a40493c32912772c9e851e36a35a0f98a",
+    "original_repository_sha": "bb09f558ae4aaa0e1c7c5f2fb5d73a0ac983cfad",
     "enhanced_repository": "enhansome/enhansome-beancount",
     "enhanced_repository_description": null,
     "title": "Awesome Beancount with stars"

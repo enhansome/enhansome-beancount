@@ -15,7 +15,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Official Resources
 
-* [Source Code](https://github.com/beancount/beancount) ⭐ 5,987 | 🐛 237 | 🌐 Python | 📅 2026-08-23
+* [Source Code](https://github.com/beancount/beancount) ⭐ 5,990 | 🐛 237 | 🌐 Python | 📅 2026-08-23
 * [Homepage](https://beancount.github.io/)
 * Documentation
   * [GitHub Pages](https://beancount.github.io/docs/) ([generated](https://github.com/beancount/docs) ⭐ 59 | 🐛 12 | 🌐 Python | 📅 2026-07-11 from Google Docs)
@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 385 | 🐛 6 | 🌐 Rust | 📅 2026-09-10 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 387 | 🐛 8 | 🌐 Rust | 📅 2026-09-11 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
@@ -32,6 +32,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## User Interfaces
 
+* [beancount-gs](https://github.com/BaoXuebin/beancount-gs) ⭐ 416 | 🐛 36 | 🌐 Go | 📅 2026-08-25 - Self-hosted multi-user Beancount web service (React + Go) with AI assistant and MCP
 * [Beancount Mobile](https://github.com/xuhcc/beancount-mobile) ⭐ 129 | 🐛 12 | 🌐 TypeScript | 📅 2022-11-03 - Data entry app for Beancount plain-text accounting system
 * [Beancount Telegram Bot](https://github.com/LucaBernstein/beancount-bot-tg) ⭐ 43 | 🐛 21 | 🌐 Go | 📅 2025-04-07 - Telegram bot to track Beancount transactions on the go
 * [Fava-GTK](https://github.com/johannesjh/fava-gtk) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2026-01-06 - GNOME Desktop app for Fava and Beancount
@@ -44,6 +45,7 @@ system — ideal for plain text accounting users and Python software developers.
 ### China
 
 * [WeChat Pay / 微信支付](https://github.com/deb-sig/double-entry-generator) ⭐ 718 | 🐛 27 | 🌐 Go | 📅 2026-08-04
+* [BeanBridge](https://github.com/fatsheep2/beanBridge) ⭐ 20 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-04 - Browser-based rule importer (Alipay/WeChat/banks/crypto → Beancount or Ledger) powered by double-entry-generator WASM ([live demo](https://fatsheep2.github.io/beanBridge/)).
 * [FinancialBeancount](https://github.com/CacinieP/FinancialBeancount) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-05-30 - China-focused Beancount importer and deduplication pipeline for Alipay, WeChat Pay, and bank statements.
 * Alipay / 支付宝
   * [deb-sig/double-entry-generator](https://github.com/deb-sig/double-entry-generator) ⭐ 718 | 🐛 27 | 🌐 Go | 📅 2026-08-04
@@ -98,9 +100,9 @@ system — ideal for plain text accounting users and Python software developers.
 
 ### US
 
-* [Amazon](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers/amazon) ⭐ 166 | 🐛 33 | 🌐 Python | 📅 2026-04-30 (GDPR Download order data, gift card. pip-installable)
-* [IBKR](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers/ibkr) ⭐ 166 | 🐛 33 | 🌐 Python | 📅 2026-04-30 (Flex Query importer and downloader)
-* [Red's Importers](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers) ⭐ 166 | 🐛 33 | 🌐 Python | 📅 2026-04-30 (Including Ally, Chase, Citi, Fidelity, Schwab, Vanguard, pip-installable)
+* [Amazon](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers/amazon) ⭐ 166 | 🐛 34 | 🌐 Python | 📅 2026-04-30 (GDPR Download order data, gift card. pip-installable)
+* [IBKR](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers/ibkr) ⭐ 166 | 🐛 34 | 🌐 Python | 📅 2026-04-30 (Flex Query importer and downloader)
+* [Red's Importers](https://github.com/redstreet/beancount_reds_importers/tree/main/beancount_reds_importers/importers) ⭐ 166 | 🐛 34 | 🌐 Python | 📅 2026-04-30 (Including Ally, Chase, Citi, Fidelity, Schwab, Vanguard, pip-installable)
 * [Chase](https://github.com/mtlynch/beancount-chase-bank) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-08-03 (Checking, Credit, pip-installable)
 * [Chase](https://github.com/ArthurFDLR/beancount-chase) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2021-07-06 (Checking, pip-installable)
 * [Mercury](https://github.com/mtlynch/beancount-mercury) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2026-03-23
@@ -120,7 +122,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 * [Web UI for semi-automatically importing external data into beancount](https://github.com/jbms/beancount-import) ⭐ 471 | 🐛 78 | 🌐 Python | 📅 2026-08-20
 * [Augment Beancount importers with machine learning](https://github.com/beancount/smart_importer) ⭐ 308 | 🐛 4 | 🌐 Python | 📅 2026-07-26
-* [Red's Importers: Collection of simple importers and a framework to write your own](https://github.com/redstreet/beancount_reds_importers) ⭐ 166 | 🐛 33 | 🌐 Python | 📅 2026-04-30
+* [Red's Importers: Collection of simple importers and a framework to write your own](https://github.com/redstreet/beancount_reds_importers) ⭐ 166 | 🐛 34 | 🌐 Python | 📅 2026-04-30
 * [Importers, plugins and price-fetchers for Beancount](https://github.com/tarioch/beancounttools) ⭐ 97 | 🐛 8 | 🌐 Python | 📅 2026-08-28
 * [open-banking.io](https://github.com/open-banking-io/clients/tree/main/beancount) ⭐ 14 | 🐛 15 | 🌐 Go | 📅 2026-09-09: beangulp importer syncing EEA & UK bank transactions over PSD2, decrypted client-side; no eIDAS certificate and no per-account daily rate-limit (`pip install beancount-openbanking-io`)
 * [Beancount importers for the F-Droid Budget app and for a bank CSV](https://github.com/jamatute/beancount-importer) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2018-05-04
@@ -145,6 +147,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 * [Beancount.io iOS App](https://apps.apple.com/us/app/id1527950512): Visualizes and connects to your Beancount.io ledger on iOS
 * [Beancount.io Android App](https://play.google.com/store/apps/details?id=io.beancount.android): Visualizes and connects to your Beancount.io ledger on Android
+* [Cocono](https://cocono.app/) ([App Store](https://apps.apple.com/app/cocono-beancount-made-easy/id6497061011)): Privacy-first iOS Beancount client with on-device AI (screenshot/voice entry, BQL dashboards, Siri/Shortcuts)
 
 ## Community
 
@@ -194,7 +197,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ### Fava
 
-* [fava-dashboards](https://github.com/andreasgerstmayr/fava-dashboards) ⭐ 405 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-15 - Additional fully custom dashboards
+* [fava-dashboards](https://github.com/andreasgerstmayr/fava-dashboards) ⭐ 406 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-15 - Additional fully custom dashboards
 * [fava\_investor](https://github.com/redstreet/fava_investor) ⭐ 182 | 🐛 14 | 🌐 Python | 📅 2026-01-21 reports, analyses, and tools for investments
 * [fava-envelope](https://github.com/polarmutex/fava-envelope) ⭐ 144 | 🐛 18 | 🌐 Python | 📅 2025-07-17 - Beancount Fava extension for envelope budgeting
 * [fava-portfolio-returns](https://github.com/andreasgerstmayr/fava-portfolio-returns) ⭐ 105 | 🐛 9 | 🌐 Python | 📅 2026-08-15 shows portfolio returns
@@ -273,6 +276,9 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
     * [复式借贷记账法 Beancount (2) - 环境设置](https://yishanhe.net/beancount-tutorial-2/)
     * [复式借贷记账法 Beancount (3) - 房产](https://yishanhe.net/beancount-tutorial-3/)
     * [复式借贷记账法 Beancount (4) - RSU](https://yishanhe.net/beancount-tutorial-4/)
+  * [记账神器 Beancount 教程 - 少数派](https://sspai.com/post/59777)
+  * [『Beancount指南』复式记账 - Fermi's Blog](https://fermi.ink/posts/2023/05/31/01/)
+  * [复式记账工具：Beancount 入门 | val's Blog](https://gaoweix.com/beancount-getting-started/)
 
 ## Discussions
 
@@ -293,4 +299,4 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
