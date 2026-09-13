@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-08-23T20:17:45Z",
-            "open_issues": 237,
+            "open_issues": 238,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 5994,
+            "stars": 5995,
             "topics": [
               "beancount"
             ]
@@ -355,7 +355,7 @@
                     "id": 670040890,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T07:59:39Z",
+                    "last_commit": "2026-09-13T08:12:14Z",
                     "open_issues": 4,
                     "owner": "dhr2333",
                     "repo": "Beancount-Trans",
@@ -443,7 +443,7 @@
                 "open_issues": 0,
                 "owner": "siddhantgoel",
                 "repo": "beancount-dkb",
-                "stars": 52,
+                "stars": 53,
                 "topics": [
                   "accounting",
                   "banking",
@@ -1158,11 +1158,11 @@
                 "id": 1264078752,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-09T12:11:54Z",
+                "last_commit": "2026-09-13T14:10:59Z",
                 "open_issues": 15,
                 "owner": "open-banking-io",
                 "repo": "clients",
-                "stars": 14,
+                "stars": 13,
                 "topics": [
                   "aisp",
                   "banking",
@@ -1198,6 +1198,38 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ledgerbridge",
+              "description": "converts OFX 1.x/2.x/QFX, QIF, CAMT.053 and CSV to beancount with balance assertions; verifies opening + transactions == closing and refuses to write output when they disagree (Python 3.10+, stdlib only)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Convert bank statements (OFX/QFX, QIF, CSV, CAMT.053) into beancount, hledger and Firefly III imports. Offline, zero dependencies, with deduplication and balance checks.",
+                "homepage": null,
+                "id": 1352668433,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-09T04:34:35Z",
+                "open_issues": 0,
+                "owner": "MugenLab",
+                "repo": "ledgerbridge",
+                "stars": 2,
+                "topics": [
+                  "bank-statements",
+                  "beancount",
+                  "camt053",
+                  "cli",
+                  "firefly-iii",
+                  "hledger",
+                  "ofx",
+                  "plaintextaccounting",
+                  "python",
+                  "qif"
+                ]
+              },
+              "first_seen": "2026-09-13T17:04:56.589Z"
             }
           ],
           "description": null,
@@ -1351,7 +1383,7 @@
             "id": 281706272,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-06T08:22:23Z",
+            "last_commit": "2026-09-13T08:22:57Z",
             "open_issues": 8,
             "owner": "polarmutex",
             "repo": "tree-sitter-beancount",
@@ -1393,7 +1425,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-09-11T17:44:54Z",
+            "last_commit": "2026-09-12T20:34:12Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -2836,7 +2868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T16:34:07.618Z",
+    "last_updated": "2026-09-13T17:04:56.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
@@ -2844,8 +2876,8 @@
       "id": 154991835,
       "language": "HTML",
       "license": "NOASSERTION",
-      "last_commit": "2026-09-10T19:18:19Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-13T11:59:02Z",
+      "open_issues": 0,
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
       "stars": 385,
@@ -2861,7 +2893,7 @@
         "python"
       ]
     },
-    "original_repository_sha": "bb09f558ae4aaa0e1c7c5f2fb5d73a0ac983cfad",
+    "original_repository_sha": "37de5f5d2032b2f9c342898b07e21d2d3c712f48",
     "enhanced_repository": "enhansome/enhansome-beancount",
     "enhanced_repository_description": null,
     "title": "Awesome Beancount with stars"
