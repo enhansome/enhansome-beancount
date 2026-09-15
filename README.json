@@ -19,7 +19,7 @@
             "open_issues": 238,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6000,
+            "stars": 6006,
             "topics": [
               "beancount"
             ]
@@ -359,7 +359,7 @@
                     "open_issues": 4,
                     "owner": "dhr2333",
                     "repo": "Beancount-Trans",
-                    "stars": 78,
+                    "stars": 79,
                     "topics": [
                       "ai",
                       "beancount",
@@ -439,8 +439,8 @@
                 "id": 127779406,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T17:13:05Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-14T19:20:22Z",
+                "open_issues": 0,
                 "owner": "siddhantgoel",
                 "repo": "beancount-dkb",
                 "stars": 53,
@@ -471,8 +471,8 @@
                 "id": 142293785,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T12:22:59Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-14T19:20:33Z",
+                "open_issues": 0,
                 "owner": "siddhantgoel",
                 "repo": "beancount-ing",
                 "stars": 36,
@@ -503,8 +503,8 @@
                 "id": 216653151,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T11:22:59Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-14T19:20:52Z",
+                "open_issues": 0,
                 "owner": "siddhantgoel",
                 "repo": "beancount-n26",
                 "stars": 28,
@@ -1425,7 +1425,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-09-14T16:15:39Z",
+            "last_commit": "2026-09-15T16:17:34Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -2868,7 +2868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:55:17.992Z",
+    "last_updated": "2026-09-15T17:47:20.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
