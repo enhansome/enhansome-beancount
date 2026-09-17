@@ -15,7 +15,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Official Resources
 
-* [Source Code](https://github.com/beancount/beancount) ⭐ 6,008 | 🐛 238 | 🌐 Python | 📅 2026-08-23
+* [Source Code](https://github.com/beancount/beancount) ⭐ 6,010 | 🐛 238 | 🌐 Python | 📅 2026-08-23
 * [Homepage](https://beancount.github.io/)
 * Documentation
   * [GitHub Pages](https://beancount.github.io/docs/) ([generated](https://github.com/beancount/docs) ⭐ 59 | 🐛 12 | 🌐 Python | 📅 2026-07-11 from Google Docs)
@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 388 | 🐛 14 | 🌐 Rust | 📅 2026-09-16 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 390 | 🐛 11 | 🌐 Rust | 📅 2026-09-17 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
@@ -46,7 +46,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 * [WeChat Pay / 微信支付](https://github.com/deb-sig/double-entry-generator) ⭐ 720 | 🐛 27 | 🌐 Go | 📅 2026-08-04
 * [BeanBridge](https://github.com/fatsheep2/beanBridge) ⭐ 20 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-04 - Browser-based rule importer (Alipay/WeChat/banks/crypto → Beancount or Ledger) powered by double-entry-generator WASM ([live demo](https://fatsheep2.github.io/beanBridge/)).
-* [FinancialBeancount](https://github.com/CacinieP/FinancialBeancount) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-05-30 - China-focused Beancount importer and deduplication pipeline for Alipay, WeChat Pay, and bank statements.
+* [FinancialBeancount](https://github.com/CacinieP/FinancialBeancount) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2026-05-30 - China-focused Beancount importer and deduplication pipeline for Alipay, WeChat Pay, and bank statements.
 * Alipay / 支付宝
   * [deb-sig/double-entry-generator](https://github.com/deb-sig/double-entry-generator) ⭐ 720 | 🐛 27 | 🌐 Go | 📅 2026-08-04
   * [wzyboy/awesome-beancount](https://github.com/wzyboy/awesome-beancount/blob/master/importers/alipay_acclog.py) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2026-01-02
@@ -158,7 +158,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ## Editor Support
 
-* [Beancount Language Server](https://github.com/polarmutex/beancount-language-server) ⭐ 245 | 🐛 23 | 🌐 Rust | 📅 2026-09-01
+* [Beancount Language Server](https://github.com/polarmutex/beancount-language-server) ⭐ 247 | 🐛 23 | 🌐 Rust | 📅 2026-09-01
 * [Vim](https://github.com/nathangrigg/vim-beancount) ⭐ 192 | 🐛 25 | 🌐 Vim Script | 📅 2024-11-25
 * [Emacs](https://github.com/beancount/beancount-mode) ⭐ 159 | 🐛 13 | 🌐 Emacs Lisp | 📅 2026-05-17
 * [Tree-Sitter](https://github.com/polarmutex/tree-sitter-beancount) ⭐ 56 | 🐛 8 | 🌐 Rust | 📅 2026-09-13
@@ -177,7 +177,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [reds opengroup](https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/opengroup#readme) ⭐ 123 | 🐛 9 | 🌐 Python | 📅 2026-07-24: Inserts open statements for sets of accounts based on specifiable rules.
 * [reds rename\_accounts](https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/rename_accounts#readme) ⭐ 123 | 🐛 9 | 🌐 Python | 📅 2026-07-24: rename arbitrary accounts on the fly (eg: move Taxes from Expenses to Income when you temporarily want to view all your Expenses except taxes)
 * [reds zerosum](https://github.com/redstreet/beancount_reds_plugins/tree/master/beancount_reds_plugins/zerosum#readme) ⭐ 123 | 🐛 9 | 🌐 Python | 📅 2026-07-24: find matching pairs of postings that sum up to zero. Useful in de-duplication, and tracking things such as reimbursements, rebates, etc.
-* [beangrow](https://github.com/beancount/beangrow) ⭐ 89 | 🐛 18 | 🌐 Python | 📅 2025-10-15 computes investment returns on a variety of assets
+* [beangrow](https://github.com/beancount/beangrow) ⭐ 90 | 🐛 18 | 🌐 Python | 📅 2025-10-15 computes investment returns on a variety of assets
 * [autobean.include](https://github.com/SEIAROTg/autobean/tree/master/autobean/include) ⭐ 77 | 🐛 8 | 🌐 Python | 📅 2026-07-12: Includes external beancount ledgers without disabling their plugins
 * [autobean.narration](https://github.com/SEIAROTg/autobean/tree/master/autobean/narration) ⭐ 77 | 🐛 8 | 🌐 Python | 📅 2026-07-12: Generates transaction narration from posting narration and posting narration from comments
 * [autobean.share](https://github.com/SEIAROTg/autobean/tree/master/autobean/share) ⭐ 77 | 🐛 8 | 🌐 Python | 📅 2026-07-12: Expense split, joint bookkeeping, and debt management for personal use cases
@@ -198,7 +198,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ### Fava
 
-* [fava-dashboards](https://github.com/andreasgerstmayr/fava-dashboards) ⭐ 407 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-15 - Additional fully custom dashboards
+* [fava-dashboards](https://github.com/andreasgerstmayr/fava-dashboards) ⭐ 408 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-15 - Additional fully custom dashboards
 * [fava\_investor](https://github.com/redstreet/fava_investor) ⭐ 182 | 🐛 14 | 🌐 Python | 📅 2026-01-21 reports, analyses, and tools for investments
 * [fava-envelope](https://github.com/polarmutex/fava-envelope) ⭐ 144 | 🐛 18 | 🌐 Python | 📅 2025-07-17 - Beancount Fava extension for envelope budgeting
 * [fava-portfolio-returns](https://github.com/andreasgerstmayr/fava-portfolio-returns) ⭐ 105 | 🐛 9 | 🌐 Python | 📅 2026-08-15 shows portfolio returns
@@ -300,4 +300,4 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

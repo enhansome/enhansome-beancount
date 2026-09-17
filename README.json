@@ -19,7 +19,7 @@
             "open_issues": 238,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6008,
+            "stars": 6010,
             "topics": [
               "beancount"
             ]
@@ -273,7 +273,7 @@
                 "open_issues": 1,
                 "owner": "CacinieP",
                 "repo": "FinancialBeancount",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "accounting",
                   "alipay",
@@ -1324,7 +1324,7 @@
             "open_issues": 23,
             "owner": "polarmutex",
             "repo": "beancount-language-server",
-            "stars": 245,
+            "stars": 247,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1584,7 +1584,7 @@
                 "open_issues": 18,
                 "owner": "beancount",
                 "repo": "beangrow",
-                "stars": 89,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1981,7 +1981,7 @@
                 "open_issues": 2,
                 "owner": "andreasgerstmayr",
                 "repo": "fava-dashboards",
-                "stars": 407,
+                "stars": 408,
                 "topics": [
                   "beancount",
                   "charts",
@@ -2868,7 +2868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:46:01.595Z",
+    "last_updated": "2026-09-17T17:45:31.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
@@ -2880,7 +2880,7 @@
       "open_issues": 0,
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
-      "stars": 386,
+      "stars": 387,
       "topics": [
         "accounting",
         "awesome",
