@@ -19,7 +19,7 @@
             "open_issues": 238,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6010,
+            "stars": 6014,
             "topics": [
               "beancount"
             ]
@@ -439,8 +439,8 @@
                 "id": 127779406,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T01:30:53Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-18T18:57:12Z",
+                "open_issues": 0,
                 "owner": "siddhantgoel",
                 "repo": "beancount-dkb",
                 "stars": 53,
@@ -503,8 +503,8 @@
                 "id": 216653151,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T01:31:22Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-18T18:57:01Z",
+                "open_issues": 0,
                 "owner": "siddhantgoel",
                 "repo": "beancount-n26",
                 "stars": 28,
@@ -760,8 +760,8 @@
                     "id": 225922307,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T01:31:43Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-09-19T00:17:32Z",
+                    "open_issues": 6,
                     "owner": "tarioch",
                     "repo": "beancounttools",
                     "stars": 97,
@@ -1133,8 +1133,8 @@
                 "id": 225922307,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T01:31:43Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-19T00:17:32Z",
+                "open_issues": 6,
                 "owner": "tarioch",
                 "repo": "beancounttools",
                 "stars": 97,
@@ -1366,7 +1366,7 @@
             "open_issues": 13,
             "owner": "beancount",
             "repo": "beancount-mode",
-            "stars": 159,
+            "stars": 160,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
@@ -2868,7 +2868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:17:51.590Z",
+    "last_updated": "2026-09-19T16:50:15.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
