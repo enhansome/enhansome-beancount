@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-08-23T20:17:45Z",
-            "open_issues": 238,
+            "open_issues": 239,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6014,
+            "stars": 6017,
             "topics": [
               "beancount"
             ]
@@ -107,7 +107,7 @@
             "open_issues": 12,
             "owner": "xuhcc",
             "repo": "beancount-mobile",
-            "stars": 129,
+            "stars": 128,
             "topics": [
               "android",
               "beancount",
@@ -760,7 +760,7 @@
                     "id": 225922307,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-19T00:17:32Z",
+                    "last_commit": "2026-09-20T12:12:07Z",
                     "open_issues": 6,
                     "owner": "tarioch",
                     "repo": "beancounttools",
@@ -1133,7 +1133,7 @@
                 "id": 225922307,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T00:17:32Z",
+                "last_commit": "2026-09-20T12:12:07Z",
                 "open_issues": 6,
                 "owner": "tarioch",
                 "repo": "beancounttools",
@@ -1978,10 +1978,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-15T21:24:31Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "andreasgerstmayr",
                 "repo": "fava-dashboards",
-                "stars": 408,
+                "stars": 410,
                 "topics": [
                   "beancount",
                   "charts",
@@ -2868,7 +2868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:50:15.766Z",
+    "last_updated": "2026-09-20T17:03:09.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
