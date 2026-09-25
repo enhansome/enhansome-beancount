@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 396 | 🐛 18 | 🌐 Rust | 📅 2026-09-24 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 396 | 🐛 23 | 🌐 Rust | 📅 2026-09-25 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
@@ -32,7 +32,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## User Interfaces
 
-* [beancount-gs](https://github.com/BaoXuebin/beancount-gs) ⭐ 416 | 🐛 36 | 🌐 Go | 📅 2026-08-25 - Self-hosted multi-user Beancount web service (React + Go) with AI assistant and MCP
+* [beancount-gs](https://github.com/BaoXuebin/beancount-gs) ⭐ 417 | 🐛 36 | 🌐 Go | 📅 2026-08-25 - Self-hosted multi-user Beancount web service (React + Go) with AI assistant and MCP
 * [Beancount Mobile](https://github.com/xuhcc/beancount-mobile) ⭐ 128 | 🐛 12 | 🌐 TypeScript | 📅 2022-11-03 - Data entry app for Beancount plain-text accounting system
 * [Beancount Telegram Bot](https://github.com/LucaBernstein/beancount-bot-tg) ⭐ 43 | 🐛 21 | 🌐 Go | 📅 2025-04-07 - Telegram bot to track Beancount transactions on the go
 * [Fava-GTK](https://github.com/johannesjh/fava-gtk) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2026-01-06 - GNOME Desktop app for Fava and Beancount
@@ -83,7 +83,7 @@ system — ideal for plain text accounting users and Python software developers.
 * [BCGE](https://tariochbctools.readthedocs.io/)
 * [Neon](https://tariochbctools.readthedocs.io/)
 * PostFinance
-  * [tariochbc/beancounttools](https://github.com/tarioch/beancounttools/blob/master/src/tariochbctools/importers/postfinance/importer.py) ⭐ 96 | 🐛 6 | 🌐 Python | 📅 2026-09-20
+  * [tariochbc/beancounttools](https://github.com/tarioch/beancounttools/blob/master/src/tariochbctools/importers/postfinance/importer.py) ⭐ 96 | 🐛 6 | 🌐 Python | 📅 2026-09-25
   * [Dr-Nuke/drnunke-bean](https://github.com/Dr-Nuke/drnuke-bean?tab=readme-ov-file#postfinance-importer-swiss) ⭐ 19 | 🐛 3 | 🌐 Python | 📅 2026-08-10
 * [Raiffeisen](https://tariochbctools.readthedocs.io/)
 * [ZKB](https://tariochbctools.readthedocs.io/)
@@ -123,8 +123,8 @@ system — ideal for plain text accounting users and Python software developers.
 * [Web UI for semi-automatically importing external data into beancount](https://github.com/jbms/beancount-import) ⭐ 471 | 🐛 78 | 🌐 Python | 📅 2026-08-20
 * [Augment Beancount importers with machine learning](https://github.com/beancount/smart_importer) ⭐ 308 | 🐛 4 | 🌐 Python | 📅 2026-07-26
 * [Red's Importers: Collection of simple importers and a framework to write your own](https://github.com/redstreet/beancount_reds_importers) ⭐ 166 | 🐛 34 | 🌐 Python | 📅 2026-04-30
-* [Importers, plugins and price-fetchers for Beancount](https://github.com/tarioch/beancounttools) ⭐ 96 | 🐛 6 | 🌐 Python | 📅 2026-09-20
-* [open-banking.io](https://github.com/open-banking-io/clients/tree/main/beancount) ⭐ 15 | 🐛 18 | 🌐 Go | 📅 2026-09-23: beangulp importer syncing EEA & UK bank transactions over PSD2, decrypted client-side; no eIDAS certificate and no per-account daily rate-limit (`pip install beancount-openbanking-io`)
+* [Importers, plugins and price-fetchers for Beancount](https://github.com/tarioch/beancounttools) ⭐ 96 | 🐛 6 | 🌐 Python | 📅 2026-09-25
+* [open-banking.io](https://github.com/open-banking-io/clients/tree/main/beancount) ⭐ 16 | 🐛 18 | 🌐 Go | 📅 2026-09-23: beangulp importer syncing EEA & UK bank transactions over PSD2, decrypted client-side; no eIDAS certificate and no per-account daily rate-limit (`pip install beancount-openbanking-io`)
 * [Beancount importers for the F-Droid Budget app and for a bank CSV](https://github.com/jamatute/beancount-importer) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2018-05-04
 * [ledgerbridge](https://github.com/MugenLab/ledgerbridge) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-09: converts OFX 1.x/2.x/QFX, QIF, CAMT.053 and CSV to beancount with balance assertions; verifies opening + transactions == closing and refuses to write output when they disagree (Python 3.10+, stdlib only)
 * [yabci - yet another beancount importer](https://codeberg.org/privatize-koala/yabci)
@@ -162,8 +162,8 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [Vim](https://github.com/nathangrigg/vim-beancount) ⭐ 192 | 🐛 25 | 🌐 Vim Script | 📅 2024-11-25
 * [Emacs](https://github.com/beancount/beancount-mode) ⭐ 160 | 🐛 13 | 🌐 Emacs Lisp | 📅 2026-05-17
 * [Tree-Sitter](https://github.com/polarmutex/tree-sitter-beancount) ⭐ 56 | 🐛 8 | 🌐 Rust | 📅 2026-09-13
-* [Sublime Text](https://github.com/norseghost/sublime-beancount) ⭐ 35 | 🐛 8 | 🌐 Python | 📅 2025-11-06
-* [ctags](https://github.com/aldur/dotfiles/blob/master/various/ctags/beancount.ctags) ⭐ 23 | 🐛 1 | 🌐 Nix | 📅 2026-09-24
+* [Sublime Text](https://github.com/norseghost/sublime-beancount) ⭐ 35 | 🐛 9 | 🌐 Python | 📅 2025-11-06
+* [ctags](https://github.com/aldur/dotfiles/blob/master/various/ctags/beancount.ctags) ⭐ 23 | 🐛 0 | 🌐 Nix | 📅 2026-09-25
 * [Zed](https://github.com/zed-extensions/beancount) ⭐ 20 | 🐛 5 | 🌐 Rust | 📅 2026-06-07
 * [Atom](https://atom.io/packages/beancount)
 * [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
@@ -300,4 +300,4 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
