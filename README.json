@@ -19,7 +19,7 @@
             "open_issues": 241,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6030,
+            "stars": 6035,
             "topics": [
               "beancount"
             ]
@@ -355,7 +355,7 @@
                     "id": 670040890,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-16T08:23:06Z",
+                    "last_commit": "2026-09-26T01:44:24Z",
                     "open_issues": 4,
                     "owner": "dhr2333",
                     "repo": "Beancount-Trans",
@@ -819,7 +819,7 @@
                 "open_issues": 0,
                 "owner": "Evernight",
                 "repo": "beancount-importers",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "beancount"
                 ]
@@ -847,7 +847,7 @@
                     "open_issues": 0,
                     "owner": "Evernight",
                     "repo": "beancount-importers",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": [
                       "beancount"
                     ]
@@ -877,7 +877,7 @@
                     "open_issues": 0,
                     "owner": "Evernight",
                     "repo": "beancount-importers",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": [
                       "beancount"
                     ]
@@ -1072,7 +1072,7 @@
                 "open_issues": 78,
                 "owner": "jbms",
                 "repo": "beancount-import",
-                "stars": 471,
+                "stars": 473,
                 "topics": [
                   "beancount"
                 ]
@@ -1162,7 +1162,7 @@
                 "open_issues": 18,
                 "owner": "open-banking-io",
                 "repo": "clients",
-                "stars": 16,
+                "stars": 17,
                 "topics": [
                   "aisp",
                   "banking",
@@ -1405,7 +1405,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-11-06T16:10:50Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "norseghost",
             "repo": "sublime-beancount",
             "stars": 35,
@@ -1981,7 +1981,7 @@
                 "open_issues": 2,
                 "owner": "andreasgerstmayr",
                 "repo": "fava-dashboards",
-                "stars": 410,
+                "stars": 412,
                 "topics": [
                   "beancount",
                   "charts",
@@ -2868,7 +2868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:06:21.251Z",
+    "last_updated": "2026-09-26T17:25:11.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
