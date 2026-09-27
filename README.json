@@ -19,7 +19,7 @@
             "open_issues": 241,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6035,
+            "stars": 6037,
             "topics": [
               "beancount"
             ]
@@ -219,7 +219,7 @@
                 "open_issues": 26,
                 "owner": "deb-sig",
                 "repo": "double-entry-generator",
-                "stars": 720,
+                "stars": 721,
                 "topics": [
                   "alipay",
                   "alipay-records",
@@ -308,7 +308,7 @@
                     "open_issues": 26,
                     "owner": "deb-sig",
                     "repo": "double-entry-generator",
-                    "stars": 720,
+                    "stars": 721,
                     "topics": [
                       "alipay",
                       "alipay-records",
@@ -1159,10 +1159,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-23T12:11:51Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "open-banking-io",
                 "repo": "clients",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "aisp",
                   "banking",
@@ -1752,7 +1752,7 @@
                 "open_issues": 0,
                 "owner": "ghislainbourgeois",
                 "repo": "beancount_portfolio_allocation",
-                "stars": 31,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1981,7 +1981,7 @@
                 "open_issues": 2,
                 "owner": "andreasgerstmayr",
                 "repo": "fava-dashboards",
-                "stars": 412,
+                "stars": 413,
                 "topics": [
                   "beancount",
                   "charts",
@@ -2279,7 +2279,7 @@
             "open_issues": 26,
             "owner": "deb-sig",
             "repo": "double-entry-generator",
-            "stars": 720,
+            "stars": 721,
             "topics": [
               "alipay",
               "alipay-records",
@@ -2837,7 +2837,7 @@
             "open_issues": 0,
             "owner": "ghislainbourgeois",
             "repo": "beancount_portfolio_allocation",
-            "stars": 31,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
@@ -2868,7 +2868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:25:11.228Z",
+    "last_updated": "2026-09-27T17:57:11.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
