@@ -19,7 +19,7 @@
             "open_issues": 241,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6037,
+            "stars": 6040,
             "topics": [
               "beancount"
             ]
@@ -219,7 +219,7 @@
                 "open_issues": 26,
                 "owner": "deb-sig",
                 "repo": "double-entry-generator",
-                "stars": 721,
+                "stars": 722,
                 "topics": [
                   "alipay",
                   "alipay-records",
@@ -308,7 +308,7 @@
                     "open_issues": 26,
                     "owner": "deb-sig",
                     "repo": "double-entry-generator",
-                    "stars": 721,
+                    "stars": 722,
                     "topics": [
                       "alipay",
                       "alipay-records",
@@ -439,8 +439,8 @@
                 "id": 127779406,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T17:50:25Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-28T17:12:54Z",
+                "open_issues": 1,
                 "owner": "siddhantgoel",
                 "repo": "beancount-dkb",
                 "stars": 53,
@@ -471,8 +471,8 @@
                 "id": 142293785,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T17:50:36Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-28T12:22:54Z",
+                "open_issues": 1,
                 "owner": "siddhantgoel",
                 "repo": "beancount-ing",
                 "stars": 36,
@@ -503,8 +503,8 @@
                 "id": 216653151,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T17:50:55Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-28T11:22:56Z",
+                "open_issues": 1,
                 "owner": "siddhantgoel",
                 "repo": "beancount-n26",
                 "stars": 28,
@@ -1425,8 +1425,8 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-09-25T10:42:20Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-28T15:50:08Z",
+            "open_issues": 3,
             "owner": "aldur",
             "repo": "dotfiles",
             "stars": 23,
@@ -2279,7 +2279,7 @@
             "open_issues": 26,
             "owner": "deb-sig",
             "repo": "double-entry-generator",
-            "stars": 721,
+            "stars": 722,
             "topics": [
               "alipay",
               "alipay-records",
@@ -2868,7 +2868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:57:11.942Z",
+    "last_updated": "2026-09-28T20:16:39.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
