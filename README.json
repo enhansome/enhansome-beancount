@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-08-23T20:17:45Z",
-            "open_issues": 243,
+            "open_issues": 244,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6039,
+            "stars": 6043,
             "topics": [
               "beancount"
             ]
@@ -47,7 +47,7 @@
                 "open_issues": 12,
                 "owner": "beancount",
                 "repo": "docs",
-                "stars": 59,
+                "stars": 60,
                 "topics": [
                   "beancount",
                   "mkdocs-site",
@@ -760,8 +760,8 @@
                     "id": 225922307,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T19:03:26Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-10-01T19:21:53Z",
+                    "open_issues": 6,
                     "owner": "tarioch",
                     "repo": "beancounttools",
                     "stars": 96,
@@ -1133,8 +1133,8 @@
                 "id": 225922307,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T19:03:26Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-01T19:21:53Z",
+                "open_issues": 6,
                 "owner": "tarioch",
                 "repo": "beancounttools",
                 "stars": 96,
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "MugenLab",
                 "repo": "ledgerbridge",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "bank-statements",
                   "beancount",
@@ -1425,8 +1425,8 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-01T13:17:28Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-02T16:59:33Z",
+            "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
             "stars": 23,
@@ -2868,7 +2868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:04:50.526Z",
+    "last_updated": "2026-10-02T18:44:34.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
