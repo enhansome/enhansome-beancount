@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 402 | 🐛 30 | 🌐 Rust | 📅 2026-10-02 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 403 | 🐛 29 | 🌐 Rust | 📅 2026-10-03 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
@@ -300,4 +300,4 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

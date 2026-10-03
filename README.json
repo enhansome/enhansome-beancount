@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "beancount/beancount",
-          "description": null,
+          "description": "beancount/beancount",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -206,7 +206,7 @@
             {
               "node_type": "item",
               "title": "WeChat Pay / 微信支付",
-              "description": null,
+              "description": "deb-sig/double-entry-generator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -295,7 +295,7 @@
                 {
                   "node_type": "item",
                   "title": "deb-sig/double-entry-generator",
-                  "description": null,
+                  "description": "deb-sig/double-entry-generator",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -325,7 +325,7 @@
                 {
                   "node_type": "item",
                   "title": "wzyboy/awesome-beancount",
-                  "description": null,
+                  "description": "wzyboy/awesome-beancount",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -346,7 +346,7 @@
                 {
                   "node_type": "item",
                   "title": "dhr2333/Beancount-Trans",
-                  "description": null,
+                  "description": "dhr2333/Beancount-Trans",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -379,7 +379,7 @@
                 {
                   "node_type": "item",
                   "title": "Debit",
-                  "description": null,
+                  "description": "wzyboy/awesome-beancount",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -400,7 +400,7 @@
                 {
                   "node_type": "item",
                   "title": "Credit",
-                  "description": null,
+                  "description": "wzyboy/awesome-beancount",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -430,7 +430,7 @@
             {
               "node_type": "item",
               "title": "Deutsche Kredit Bank",
-              "description": null,
+              "description": "siddhantgoel/beancount-dkb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -462,7 +462,7 @@
             {
               "node_type": "item",
               "title": "ING",
-              "description": null,
+              "description": "siddhantgoel/beancount-ing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -494,7 +494,7 @@
             {
               "node_type": "item",
               "title": "N26",
-              "description": null,
+              "description": "siddhantgoel/beancount-n26",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -526,7 +526,7 @@
             {
               "node_type": "item",
               "title": "Commerzbank",
-              "description": null,
+              "description": "siddhantgoel/beancount-commerzbank",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -559,7 +559,7 @@
             {
               "node_type": "item",
               "title": "Volksbank & GLS-Bank",
-              "description": null,
+              "description": "Fjanks/beancount-importer-volksbank",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -587,7 +587,7 @@
             {
               "node_type": "item",
               "title": "Boursorama, Amex, ...",
-              "description": null,
+              "description": "grostim/Beancount-myTools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -608,7 +608,7 @@
             {
               "node_type": "item",
               "title": "Caisse d'Epargne",
-              "description": null,
+              "description": "ArthurFDLR/beancount-ce",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -638,7 +638,7 @@
             {
               "node_type": "item",
               "title": "Fortuneo, Crédit Mutuel",
-              "description": null,
+              "description": "vrischmann/beancount-importers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -669,7 +669,7 @@
             {
               "node_type": "item",
               "title": "SBI/BOI/PAYTM/HSBC/ICICI",
-              "description": null,
+              "description": "dumbPy/beancount-importers-india",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -697,7 +697,7 @@
             {
               "node_type": "item",
               "title": "ABN AMRO Bank",
-              "description": null,
+              "description": "deepakg/beancount-abnamro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -725,7 +725,7 @@
             {
               "node_type": "item",
               "title": "Finpension",
-              "description": null,
+              "description": "Dr-Nuke/drnuke-bean",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -751,7 +751,7 @@
                 {
                   "node_type": "item",
                   "title": "tariochbc/beancounttools",
-                  "description": null,
+                  "description": "tarioch/beancounttools",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -776,7 +776,7 @@
                 {
                   "node_type": "item",
                   "title": "Dr-Nuke/drnunke-bean",
-                  "description": null,
+                  "description": "Dr-Nuke/drnuke-bean",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -806,7 +806,7 @@
             {
               "node_type": "item",
               "title": "Monzo",
-              "description": null,
+              "description": "Evernight/beancount-importers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -834,7 +834,7 @@
                 {
                   "node_type": "item",
                   "title": "Evernight/beancount-importers",
-                  "description": null,
+                  "description": "Evernight/beancount-importers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -864,7 +864,7 @@
                 {
                   "node_type": "item",
                   "title": "Evernight/beancount-importers",
-                  "description": null,
+                  "description": "Evernight/beancount-importers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1010,7 +1010,7 @@
             {
               "node_type": "item",
               "title": "Mercury",
-              "description": null,
+              "description": "mtlynch/beancount-mercury",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1059,7 +1059,7 @@
             {
               "node_type": "item",
               "title": "Web UI for semi-automatically importing external data into beancount",
-              "description": null,
+              "description": "jbms/beancount-import",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1082,7 +1082,7 @@
             {
               "node_type": "item",
               "title": "Augment Beancount importers with machine learning",
-              "description": null,
+              "description": "beancount/smart_importer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1103,7 +1103,7 @@
             {
               "node_type": "item",
               "title": "Red's Importers: Collection of simple importers and a framework to write your own",
-              "description": null,
+              "description": "redstreet/beancount_reds_importers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1124,7 +1124,7 @@
             {
               "node_type": "item",
               "title": "Importers, plugins and price-fetchers for Beancount",
-              "description": null,
+              "description": "tarioch/beancounttools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1181,7 +1181,7 @@
             {
               "node_type": "item",
               "title": "Beancount importers for the F-Droid Budget app and for a bank CSV",
-              "description": null,
+              "description": "jamatute/beancount-importer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1250,7 +1250,7 @@
             {
               "node_type": "item",
               "title": "LaunchPlatform/beancount-exporter",
-              "description": null,
+              "description": "LaunchPlatform/beancount-exporter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1282,7 +1282,7 @@
             {
               "node_type": "item",
               "title": "Postgres",
-              "description": null,
+              "description": "gerdemb/beanpost",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1311,7 +1311,7 @@
         {
           "node_type": "item",
           "title": "Beancount Language Server",
-          "description": null,
+          "description": "polarmutex/beancount-language-server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1332,7 +1332,7 @@
         {
           "node_type": "item",
           "title": "Vim",
-          "description": null,
+          "description": "nathangrigg/vim-beancount",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1353,7 +1353,7 @@
         {
           "node_type": "item",
           "title": "Emacs",
-          "description": null,
+          "description": "beancount/beancount-mode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1374,7 +1374,7 @@
         {
           "node_type": "item",
           "title": "Tree-Sitter",
-          "description": null,
+          "description": "polarmutex/tree-sitter-beancount",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1395,7 +1395,7 @@
         {
           "node_type": "item",
           "title": "Sublime Text",
-          "description": null,
+          "description": "norseghost/sublime-beancount",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1416,7 +1416,7 @@
         {
           "node_type": "item",
           "title": "ctags",
-          "description": null,
+          "description": "aldur/dotfiles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1437,7 +1437,7 @@
         {
           "node_type": "item",
           "title": "Zed",
-          "description": null,
+          "description": "zed-extensions/beancount",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2461,7 +2461,7 @@
         {
           "node_type": "item",
           "title": "CSV to Beancount",
-          "description": null,
+          "description": "PaNaVTEC/csv2beancount",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2555,7 +2555,7 @@
         {
           "node_type": "item",
           "title": "Importer from YNAB to Beancount",
-          "description": null,
+          "description": "hoostus/beancount-ynab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2576,7 +2576,7 @@
         {
           "node_type": "item",
           "title": "Moneywiz3 to Beancount",
-          "description": null,
+          "description": "zhangzhishan/beancount_importer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2623,7 +2623,7 @@
             {
               "node_type": "item",
               "title": "henriquebastos/gnucash-to-beancount",
-              "description": null,
+              "description": "henriquebastos/gnucash-to-beancount",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2644,7 +2644,7 @@
             {
               "node_type": "item",
               "title": "dtrai2/gnucash-to-beancount",
-              "description": null,
+              "description": "dtrai2/gnucash-to-beancount",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2676,7 +2676,7 @@
             {
               "node_type": "item",
               "title": "beancount/ledger2beancount",
-              "description": null,
+              "description": "beancount/ledger2beancount",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2703,7 +2703,7 @@
             {
               "node_type": "item",
               "title": "glasserc/ledger-to-beancount",
-              "description": null,
+              "description": "glasserc/ledger-to-beancount",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2732,7 +2732,7 @@
         {
           "node_type": "item",
           "title": "Cryptoassets",
-          "description": null,
+          "description": "xuhcc/beancount-cryptoassets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2792,7 +2792,7 @@
         {
           "node_type": "item",
           "title": "Lazy Beancount: Beancount and tools in Docker with an alternative use guide",
-          "description": null,
+          "description": "Evernight/lazy-beancount",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2824,7 +2824,7 @@
         {
           "node_type": "item",
           "title": "Reports on portfolio asset allocation in Beancount",
-          "description": null,
+          "description": "ghislainbourgeois/beancount_portfolio_allocation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2845,7 +2845,7 @@
         {
           "node_type": "item",
           "title": "jbeancount",
-          "description": null,
+          "description": "jbeancount/jbeancount",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2868,7 +2868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:44:34.427Z",
+    "last_updated": "2026-10-03T04:34:48.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
@@ -2877,7 +2877,7 @@
       "language": "HTML",
       "license": "NOASSERTION",
       "last_commit": "2026-09-13T11:59:02Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
       "stars": 387,
