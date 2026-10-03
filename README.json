@@ -19,7 +19,7 @@
             "open_issues": 244,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6043,
+            "stars": 6045,
             "topics": [
               "beancount"
             ]
@@ -215,8 +215,8 @@
                 "id": 213560328,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T06:57:45Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-03T14:14:14Z",
+                "open_issues": 20,
                 "owner": "deb-sig",
                 "repo": "double-entry-generator",
                 "stars": 722,
@@ -304,8 +304,8 @@
                     "id": 213560328,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-23T06:57:45Z",
-                    "open_issues": 26,
+                    "last_commit": "2026-10-03T14:14:14Z",
+                    "open_issues": 20,
                     "owner": "deb-sig",
                     "repo": "double-entry-generator",
                     "stars": 722,
@@ -2275,8 +2275,8 @@
             "id": 213560328,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T06:57:45Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-03T14:14:14Z",
+            "open_issues": 20,
             "owner": "deb-sig",
             "repo": "double-entry-generator",
             "stars": 722,
@@ -2689,7 +2689,7 @@
                 "open_issues": 23,
                 "owner": "beancount",
                 "repo": "ledger2beancount",
-                "stars": 95,
+                "stars": 96,
                 "topics": [
                   "accounting",
                   "beancount",
@@ -2868,7 +2868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:34:48.763Z",
+    "last_updated": "2026-10-03T17:38:52.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
