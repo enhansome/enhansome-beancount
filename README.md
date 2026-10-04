@@ -15,7 +15,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Official Resources
 
-* [Source Code](https://github.com/beancount/beancount) ⭐ 6,045 | 🐛 244 | 🌐 Python | 📅 2026-08-23
+* [Source Code](https://github.com/beancount/beancount) ⭐ 6,051 | 🐛 245 | 🌐 Python | 📅 2026-08-23
 * [Homepage](https://beancount.github.io/)
 * Documentation
   * [GitHub Pages](https://beancount.github.io/docs/) ([generated](https://github.com/beancount/docs) ⭐ 60 | 🐛 12 | 🌐 Python | 📅 2026-07-11 from Google Docs)
@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 405 | 🐛 29 | 🌐 Rust | 📅 2026-10-03 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 405 | 🐛 29 | 🌐 Rust | 📅 2026-10-04 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
@@ -44,11 +44,11 @@ system — ideal for plain text accounting users and Python software developers.
 
 ### China
 
-* [WeChat Pay / 微信支付](https://github.com/deb-sig/double-entry-generator) ⭐ 722 | 🐛 20 | 🌐 Go | 📅 2026-10-03
+* [WeChat Pay / 微信支付](https://github.com/deb-sig/double-entry-generator) ⭐ 722 | 🐛 20 | 🌐 Go | 📅 2026-10-04
 * [BeanBridge](https://github.com/fatsheep2/beanBridge) ⭐ 20 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-04 - Browser-based rule importer (Alipay/WeChat/banks/crypto → Beancount or Ledger) powered by double-entry-generator WASM ([live demo](https://fatsheep2.github.io/beanBridge/)).
 * [FinancialBeancount](https://github.com/CacinieP/FinancialBeancount) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2026-10-01 - China-focused Beancount importer and deduplication pipeline for Alipay, WeChat Pay, and bank statements.
 * Alipay / 支付宝
-  * [deb-sig/double-entry-generator](https://github.com/deb-sig/double-entry-generator) ⭐ 722 | 🐛 20 | 🌐 Go | 📅 2026-10-03
+  * [deb-sig/double-entry-generator](https://github.com/deb-sig/double-entry-generator) ⭐ 722 | 🐛 20 | 🌐 Go | 📅 2026-10-04
   * [wzyboy/awesome-beancount](https://github.com/wzyboy/awesome-beancount/blob/master/importers/alipay_acclog.py) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2026-01-02
   * [dhr2333/Beancount-Trans](https://github.com/dhr2333/Beancount-Trans) ⭐ 80 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-26
 * China Merchants Bank (CMB)
@@ -213,8 +213,8 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ## Tools
 
-* [double-entry-generator](https://github.com/deb-sig/double-entry-generator) ⭐ 722 | 🐛 20 | 🌐 Go | 📅 2026-10-03 - Rule-based double-entry bookkeeping importer (from Alipay/WeChat/Huobi to Beancount).
-* [ofxtools](https://github.com/csingley/ofxtools) ⭐ 345 | 🐛 3 | 🌐 Python | 📅 2026-08-01 - Python library for working with Open Financial Exchange (OFX) data
+* [double-entry-generator](https://github.com/deb-sig/double-entry-generator) ⭐ 722 | 🐛 20 | 🌐 Go | 📅 2026-10-04 - Rule-based double-entry bookkeeping importer (from Alipay/WeChat/Huobi to Beancount).
+* [ofxtools](https://github.com/csingley/ofxtools) ⭐ 346 | 🐛 3 | 🌐 Python | 📅 2026-08-01 - Python library for working with Open Financial Exchange (OFX) data
 * [beancount-black](https://github.com/LaunchPlatform/beancount-black) ⭐ 53 | 🐛 9 | 🌐 Python | 📅 2026-09-06 - Opinionated code formatter, just like Python's black code formatter but for Beancount
 * [beanquery-mcp](https://github.com/vanto/beanquery-mcp) ⭐ 53 | 🐛 2 | 🌐 Python | 📅 2025-04-01 - MCP (Model Context Protocol) server for Beancount Ledger files
 * [beancount-parser](https://github.com/LaunchPlatform/beancount-parser) ⭐ 35 | 🐛 5 | 🌐 Python | 📅 2024-05-09 - Standalone Lark based Beancount syntax parser (not relying on Beancount library)
@@ -226,7 +226,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms) ⭐ 16 | 🐛 5 | 🌐 Python | 📅 2026-03-06 - Data types and processors of custom beancount forms for inputting repeating similar entries easily
 * [Importer from YNAB to Beancount](https://github.com/hoostus/beancount-ynab) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2024-02-13
 * [Moneywiz3 to Beancount](https://github.com/zhangzhishan/beancount_importer) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2020-07-07
-* [beanhub-web-react](https://github.com/LaunchPlatform/beanhub-web-react) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19 - React components for beancount entry input forms and [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms) ⭐ 16 | 🐛 5 | 🌐 Python | 📅 2026-03-06
+* [beanhub-web-react](https://github.com/LaunchPlatform/beanhub-web-react) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-04 - React components for beancount entry input forms and [beanhub-forms](https://github.com/LaunchPlatform/beanhub-forms) ⭐ 16 | 🐛 5 | 🌐 Python | 📅 2026-03-06
 * GnuCash to Beancount
   * <https://github.com/henriquebastos/gnucash-to-beancount/> ⚠️ Archived
   * <https://github.com/dtrai2/gnucash-to-beancount/> ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-03-01
@@ -300,4 +300,4 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
