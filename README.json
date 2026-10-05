@@ -19,7 +19,7 @@
             "open_issues": 245,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6051,
+            "stars": 6053,
             "topics": [
               "beancount"
             ]
@@ -47,7 +47,7 @@
                 "open_issues": 12,
                 "owner": "beancount",
                 "repo": "docs",
-                "stars": 60,
+                "stars": 61,
                 "topics": [
                   "beancount",
                   "mkdocs-site",
@@ -194,6 +194,36 @@
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BeanDesk",
+          "description": "Modern desktop financial workbench for Beancount & Fava built with Tauri 2 and React 19",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Read-only financial desktop & web workbench for Beancount / Fava with GAAP/CAS statements.",
+            "homepage": null,
+            "id": 1399539023,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-03T09:36:39Z",
+            "open_issues": 7,
+            "owner": "SuperDaniel-cn",
+            "repo": "BeanDesk",
+            "stars": 2,
+            "topics": [
+              "accounting",
+              "beancount",
+              "double-entry-bookkeeping",
+              "fava",
+              "financial-statements",
+              "react",
+              "tauri",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-10-05T21:28:12.813Z"
         }
       ],
       "title": "User Interfaces"
@@ -439,8 +469,8 @@
                 "id": 127779406,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-28T17:12:54Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-05T18:35:46Z",
+                "open_issues": 0,
                 "owner": "siddhantgoel",
                 "repo": "beancount-dkb",
                 "stars": 53,
@@ -471,8 +501,8 @@
                 "id": 142293785,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-28T12:22:54Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-05T18:35:59Z",
+                "open_issues": 0,
                 "owner": "siddhantgoel",
                 "repo": "beancount-ing",
                 "stars": 36,
@@ -503,8 +533,8 @@
                 "id": 216653151,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-28T11:22:56Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-05T18:36:18Z",
+                "open_issues": 0,
                 "owner": "siddhantgoel",
                 "repo": "beancount-n26",
                 "stars": 28,
@@ -905,7 +935,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-04-30T00:06:21Z",
+                "last_commit": "2026-10-04T21:21:19Z",
                 "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -926,7 +956,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-04-30T00:06:21Z",
+                "last_commit": "2026-10-04T21:21:19Z",
                 "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -947,7 +977,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-04-30T00:06:21Z",
+                "last_commit": "2026-10-04T21:21:19Z",
                 "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -1112,7 +1142,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-04-30T00:06:21Z",
+                "last_commit": "2026-10-04T21:21:19Z",
                 "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -1321,10 +1351,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-01T04:54:04Z",
-            "open_issues": 25,
+            "open_issues": 36,
             "owner": "polarmutex",
             "repo": "beancount-language-server",
-            "stars": 251,
+            "stars": 252,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1425,8 +1455,8 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-02T16:59:33Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-05T19:03:45Z",
+            "open_issues": 4,
             "owner": "aldur",
             "repo": "dotfiles",
             "stars": 23,
@@ -1981,7 +2011,7 @@
                 "open_issues": 2,
                 "owner": "andreasgerstmayr",
                 "repo": "fava-dashboards",
-                "stars": 416,
+                "stars": 417,
                 "topics": [
                   "beancount",
                   "charts",
@@ -2008,7 +2038,7 @@
                 "open_issues": 14,
                 "owner": "redstreet",
                 "repo": "fava_investor",
-                "stars": 182,
+                "stars": 181,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -2047,7 +2077,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-15T14:58:42Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "andreasgerstmayr",
                 "repo": "fava-portfolio-returns",
                 "stars": 105,
@@ -2305,8 +2335,8 @@
             "id": 910161,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-01T07:16:20Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-04T20:00:03Z",
+            "open_issues": 0,
             "owner": "csingley",
             "repo": "ofxtools",
             "stars": 346,
@@ -2868,7 +2898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T17:52:40.698Z",
+    "last_updated": "2026-10-05T21:28:12.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
@@ -2876,8 +2906,8 @@
       "id": 154991835,
       "language": "HTML",
       "license": "NOASSERTION",
-      "last_commit": "2026-09-13T11:59:02Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-05T19:13:11Z",
+      "open_issues": 1,
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
       "stars": 387,
@@ -2893,7 +2923,7 @@
         "python"
       ]
     },
-    "original_repository_sha": "37de5f5d2032b2f9c342898b07e21d2d3c712f48",
+    "original_repository_sha": "46ef2c1a431e5f7ae39d3f78e5b9df6a9bebdc17",
     "enhanced_repository": "enhansome/enhansome-beancount",
     "enhanced_repository_description": null,
     "title": "Awesome Beancount with stars"
