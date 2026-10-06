@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 406 | 🐛 32 | 🌐 Rust | 📅 2026-10-05 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 406 | 🐛 32 | 🌐 Rust | 📅 2026-10-06 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
@@ -37,7 +37,7 @@ system — ideal for plain text accounting users and Python software developers.
 * [Beancount Telegram Bot](https://github.com/LucaBernstein/beancount-bot-tg) ⭐ 43 | 🐛 21 | 🌐 Go | 📅 2025-04-07 - Telegram bot to track Beancount transactions on the go
 * [Fava-GTK](https://github.com/johannesjh/fava-gtk) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2026-01-06 - GNOME Desktop app for Fava and Beancount
 * [Beancount Telegram Bot](https://github.com/blinkstu/beancount-telegram-bot) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-01-13 - Telegram bot powered with llm to record any complex transactions with multiuser and web interface
-* [BeanDesk](https://github.com/SuperDaniel-cn/BeanDesk) ⭐ 2 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-03 - Modern desktop financial workbench for Beancount & Fava built with Tauri 2 and React 19
+* [BeanDesk](https://github.com/SuperDaniel-cn/BeanDesk) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-03 - Modern desktop financial workbench for Beancount & Fava built with Tauri 2 and React 19
 * [Fava](https://beancount.github.io/fava/) - Web interface for Beancount
 * [SQL queries for Beancount](http://aumayr.github.io/beancount-sql-queries/) - Example SQL queries for Beancount
 
@@ -51,7 +51,7 @@ system — ideal for plain text accounting users and Python software developers.
 * Alipay / 支付宝
   * [deb-sig/double-entry-generator](https://github.com/deb-sig/double-entry-generator) ⭐ 722 | 🐛 20 | 🌐 Go | 📅 2026-10-04
   * [wzyboy/awesome-beancount](https://github.com/wzyboy/awesome-beancount/blob/master/importers/alipay_acclog.py) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2026-01-02
-  * [dhr2333/Beancount-Trans](https://github.com/dhr2333/Beancount-Trans) ⭐ 80 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-26
+  * [dhr2333/Beancount-Trans](https://github.com/dhr2333/Beancount-Trans) ⭐ 80 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-06
 * China Merchants Bank (CMB)
   * [Debit](https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_debit_cards.py) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2026-01-02
   * [Credit](https://github.com/wzyboy/awesome-beancount/blob/master/importers/cmb_credit_cards.py) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2026-01-02
@@ -164,7 +164,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [Emacs](https://github.com/beancount/beancount-mode) ⭐ 160 | 🐛 13 | 🌐 Emacs Lisp | 📅 2026-05-17
 * [Tree-Sitter](https://github.com/polarmutex/tree-sitter-beancount) ⭐ 56 | 🐛 8 | 🌐 Rust | 📅 2026-09-13
 * [Sublime Text](https://github.com/norseghost/sublime-beancount) ⭐ 35 | 🐛 10 | 🌐 Python | 📅 2025-11-06
-* [ctags](https://github.com/aldur/dotfiles/blob/master/various/ctags/beancount.ctags) ⭐ 23 | 🐛 4 | 🌐 Nix | 📅 2026-10-05
+* [ctags](https://github.com/aldur/dotfiles/blob/master/various/ctags/beancount.ctags) ⭐ 23 | 🐛 1 | 🌐 Nix | 📅 2026-10-06
 * [Zed](https://github.com/zed-extensions/beancount) ⭐ 20 | 🐛 5 | 🌐 Rust | 📅 2026-06-07
 * [Atom](https://atom.io/packages/beancount)
 * [VSCode](https://marketplace.visualstudio.com/items?itemName=Lencerf.beancount)
@@ -209,7 +209,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [fava-currency-tracker](https://github.com/Evernight/fava-currency-tracker) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-08 - Currency exchange rate dashboard for Fava
 * [beancount-plugin-tax-uk](https://github.com/Evernight/beancount-plugin-tax-uk) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-04 - UK tax reporting for Beancount (capital gains and more)
 * [beantab](https://github.com/Evernight/beantab) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-01 - Beancount Fava extension for balances editing visualization
-* [fava-git](https://github.com/Evernight/fava-git) ⭐ 5 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-09 - simple Git integration for Fava
+* [fava-git](https://github.com/Evernight/fava-git) ⭐ 6 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-09 - simple Git integration for Fava
 * [beancount-zakat](https://github.com/WildeBeast2521/beancount-zakat) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-08-29 - Zakat calculation against the gold and silver nisab, as a Fava dashboard and a CLI
 
 ## Tools
@@ -292,7 +292,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ## Misc
 
-* [Lazy Beancount: Beancount and tools in Docker with an alternative use guide](https://github.com/Evernight/lazy-beancount) ⭐ 174 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-03
+* [Lazy Beancount: Beancount and tools in Docker with an alternative use guide](https://github.com/Evernight/lazy-beancount) ⭐ 175 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-03
 * [Reports on portfolio asset allocation in Beancount](https://github.com/ghislainbourgeois/beancount_portfolio_allocation/) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2025-11-29
 * [jbeancount](https://github.com/jbeancount/jbeancount) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2025-03-10
 * [Budgets using Fava](https://fava.pythonanywhere.com/example-with-budgets/)
@@ -301,4 +301,4 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
