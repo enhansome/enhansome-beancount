@@ -19,7 +19,7 @@
             "open_issues": 246,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6054,
+            "stars": 6056,
             "topics": [
               "beancount"
             ]
@@ -207,11 +207,11 @@
             "id": 1399539023,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-07T02:43:54Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-08T18:09:36Z",
+            "open_issues": 0,
             "owner": "SuperDaniel-cn",
             "repo": "BeanDesk",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "accounting",
               "beancount",
@@ -249,7 +249,7 @@
                 "open_issues": 20,
                 "owner": "deb-sig",
                 "repo": "double-entry-generator",
-                "stars": 722,
+                "stars": 723,
                 "topics": [
                   "alipay",
                   "alipay-records",
@@ -338,7 +338,7 @@
                     "open_issues": 20,
                     "owner": "deb-sig",
                     "repo": "double-entry-generator",
-                    "stars": 722,
+                    "stars": 723,
                     "topics": [
                       "alipay",
                       "alipay-records",
@@ -935,7 +935,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T21:21:19Z",
+                "last_commit": "2026-10-08T18:28:41Z",
                 "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -956,7 +956,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T21:21:19Z",
+                "last_commit": "2026-10-08T18:28:41Z",
                 "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -977,7 +977,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T21:21:19Z",
+                "last_commit": "2026-10-08T18:28:41Z",
                 "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -1142,7 +1142,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T21:21:19Z",
+                "last_commit": "2026-10-08T18:28:41Z",
                 "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -1189,10 +1189,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-30T12:06:05Z",
-                "open_issues": 22,
+                "open_issues": 21,
                 "owner": "open-banking-io",
                 "repo": "clients",
-                "stars": 17,
+                "stars": 19,
                 "topics": [
                   "aisp",
                   "banking",
@@ -1455,7 +1455,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-07T12:19:12Z",
+            "last_commit": "2026-10-08T07:36:44Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -2309,7 +2309,7 @@
             "open_issues": 20,
             "owner": "deb-sig",
             "repo": "double-entry-generator",
-            "stars": 722,
+            "stars": 723,
             "topics": [
               "alipay",
               "alipay-records",
@@ -2898,7 +2898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T19:36:07.004Z",
+    "last_updated": "2026-10-08T19:31:15.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
