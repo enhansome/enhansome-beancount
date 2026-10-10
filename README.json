@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-08-23T20:17:45Z",
-            "open_issues": 248,
+            "open_issues": 249,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6063,
+            "stars": 6067,
             "topics": [
               "beancount"
             ]
@@ -176,6 +176,36 @@
         },
         {
           "node_type": "item",
+          "title": "BeanDesk",
+          "description": "Modern desktop financial workbench for Beancount & Fava built with Tauri 2 and React 19",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Read-only financial desktop & web workbench for Beancount / Fava with GAAP/CAS statements.",
+            "homepage": null,
+            "id": 1399539023,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-10T08:26:04Z",
+            "open_issues": 0,
+            "owner": "SuperDaniel-cn",
+            "repo": "BeanDesk",
+            "stars": 12,
+            "topics": [
+              "accounting",
+              "beancount",
+              "double-entry-bookkeeping",
+              "fava",
+              "financial-statements",
+              "react",
+              "tauri",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-10-05T21:28:12.813Z"
+        },
+        {
+          "node_type": "item",
           "title": "Beancount Telegram Bot",
           "description": "Telegram bot powered with llm to record any complex transactions with multiuser and web interface",
           "children": [],
@@ -194,36 +224,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
-        },
-        {
-          "node_type": "item",
-          "title": "BeanDesk",
-          "description": "Modern desktop financial workbench for Beancount & Fava built with Tauri 2 and React 19",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Read-only financial desktop & web workbench for Beancount / Fava with GAAP/CAS statements.",
-            "homepage": null,
-            "id": 1399539023,
-            "language": "TypeScript",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-10-09T11:49:41Z",
-            "open_issues": 3,
-            "owner": "SuperDaniel-cn",
-            "repo": "BeanDesk",
-            "stars": 5,
-            "topics": [
-              "accounting",
-              "beancount",
-              "double-entry-bookkeeping",
-              "fava",
-              "financial-statements",
-              "react",
-              "tauri",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-10-05T21:28:12.813Z"
         }
       ],
       "title": "User Interfaces"
@@ -249,7 +249,7 @@
                 "open_issues": 20,
                 "owner": "deb-sig",
                 "repo": "double-entry-generator",
-                "stars": 723,
+                "stars": 724,
                 "topics": [
                   "alipay",
                   "alipay-records",
@@ -338,7 +338,7 @@
                     "open_issues": 20,
                     "owner": "deb-sig",
                     "repo": "double-entry-generator",
-                    "stars": 723,
+                    "stars": 724,
                     "topics": [
                       "alipay",
                       "alipay-records",
@@ -935,7 +935,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T18:28:41Z",
+                "last_commit": "2026-10-09T22:17:31Z",
                 "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -956,7 +956,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T18:28:41Z",
+                "last_commit": "2026-10-09T22:17:31Z",
                 "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -977,7 +977,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T18:28:41Z",
+                "last_commit": "2026-10-09T22:17:31Z",
                 "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -1142,7 +1142,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T18:28:41Z",
+                "last_commit": "2026-10-09T22:17:31Z",
                 "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -1455,7 +1455,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-08T07:36:44Z",
+            "last_commit": "2026-10-10T09:36:08Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -2309,7 +2309,7 @@
             "open_issues": 20,
             "owner": "deb-sig",
             "repo": "double-entry-generator",
-            "stars": 723,
+            "stars": 724,
             "topics": [
               "alipay",
               "alipay-records",
@@ -2898,7 +2898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:04:13.477Z",
+    "last_updated": "2026-10-10T18:04:50.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
