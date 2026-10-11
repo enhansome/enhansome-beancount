@@ -19,7 +19,7 @@
             "open_issues": 249,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6067,
+            "stars": 6070,
             "topics": [
               "beancount"
             ]
@@ -186,11 +186,11 @@
             "id": 1399539023,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-10T08:26:04Z",
+            "last_commit": "2026-10-11T03:31:44Z",
             "open_issues": 0,
             "owner": "SuperDaniel-cn",
             "repo": "BeanDesk",
-            "stars": 12,
+            "stars": 16,
             "topics": [
               "accounting",
               "beancount",
@@ -246,10 +246,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-04T07:10:24Z",
-                "open_issues": 20,
+                "open_issues": 23,
                 "owner": "deb-sig",
                 "repo": "double-entry-generator",
-                "stars": 724,
+                "stars": 726,
                 "topics": [
                   "alipay",
                   "alipay-records",
@@ -335,10 +335,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-04T07:10:24Z",
-                    "open_issues": 20,
+                    "open_issues": 23,
                     "owner": "deb-sig",
                     "repo": "double-entry-generator",
-                    "stars": 724,
+                    "stars": 726,
                     "topics": [
                       "alipay",
                       "alipay-records",
@@ -1099,7 +1099,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-20T17:11:43Z",
-                "open_issues": 78,
+                "open_issues": 79,
                 "owner": "jbms",
                 "repo": "beancount-import",
                 "stars": 473,
@@ -1396,7 +1396,7 @@
             "open_issues": 13,
             "owner": "beancount",
             "repo": "beancount-mode",
-            "stars": 160,
+            "stars": 159,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1435,7 +1435,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-11-06T16:10:50Z",
-            "open_issues": 11,
+            "open_issues": 15,
             "owner": "norseghost",
             "repo": "sublime-beancount",
             "stars": 35,
@@ -1455,7 +1455,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-10T09:36:08Z",
+            "last_commit": "2026-10-11T10:33:10Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -2011,7 +2011,7 @@
                 "open_issues": 2,
                 "owner": "andreasgerstmayr",
                 "repo": "fava-dashboards",
-                "stars": 417,
+                "stars": 418,
                 "topics": [
                   "beancount",
                   "charts",
@@ -2306,10 +2306,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-04T07:10:24Z",
-            "open_issues": 20,
+            "open_issues": 23,
             "owner": "deb-sig",
             "repo": "double-entry-generator",
-            "stars": 724,
+            "stars": 726,
             "topics": [
               "alipay",
               "alipay-records",
@@ -2446,7 +2446,7 @@
             "open_issues": 0,
             "owner": "giltotherescue",
             "repo": "slashbooks",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "accounting",
               "ai-agents",
@@ -2898,7 +2898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:04:50.249Z",
+    "last_updated": "2026-10-11T18:29:25.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
@@ -2910,7 +2910,7 @@
       "open_issues": 1,
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
-      "stars": 387,
+      "stars": 386,
       "topics": [
         "accounting",
         "awesome",
