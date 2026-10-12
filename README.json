@@ -19,7 +19,7 @@
             "open_issues": 249,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6070,
+            "stars": 6074,
             "topics": [
               "beancount"
             ]
@@ -190,7 +190,7 @@
             "open_issues": 0,
             "owner": "SuperDaniel-cn",
             "repo": "BeanDesk",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "accounting",
               "beancount",
@@ -389,7 +389,7 @@
                     "open_issues": 1,
                     "owner": "dhr2333",
                     "repo": "Beancount-Trans",
-                    "stars": 80,
+                    "stars": 81,
                     "topics": [
                       "ai",
                       "beancount",
@@ -998,7 +998,7 @@
                 "id": 456202232,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-03T23:28:33Z",
+                "last_commit": "2026-10-12T17:08:12Z",
                 "open_issues": 1,
                 "owner": "mtlynch",
                 "repo": "beancount-chase-bank",
@@ -1102,7 +1102,7 @@
                 "open_issues": 79,
                 "owner": "jbms",
                 "repo": "beancount-import",
-                "stars": 473,
+                "stars": 474,
                 "topics": [
                   "beancount"
                 ]
@@ -1455,8 +1455,8 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-11T10:33:10Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-12T14:51:27Z",
+            "open_issues": 1,
             "owner": "aldur",
             "repo": "dotfiles",
             "stars": 23,
@@ -2898,7 +2898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:29:25.415Z",
+    "last_updated": "2026-10-12T21:53:14.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
