@@ -19,7 +19,7 @@
             "open_issues": 249,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6074,
+            "stars": 6077,
             "topics": [
               "beancount"
             ]
@@ -47,7 +47,7 @@
                 "open_issues": 12,
                 "owner": "beancount",
                 "repo": "docs",
-                "stars": 61,
+                "stars": 60,
                 "topics": [
                   "beancount",
                   "mkdocs-site",
@@ -190,7 +190,7 @@
             "open_issues": 0,
             "owner": "SuperDaniel-cn",
             "repo": "BeanDesk",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "accounting",
               "beancount",
@@ -501,8 +501,8 @@
                 "id": 142293785,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T18:35:59Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-13T10:33:15Z",
+                "open_issues": 1,
                 "owner": "siddhantgoel",
                 "repo": "beancount-ing",
                 "stars": 36,
@@ -533,8 +533,8 @@
                 "id": 216653151,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T18:36:18Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-13T08:10:56Z",
+                "open_issues": 2,
                 "owner": "siddhantgoel",
                 "repo": "beancount-n26",
                 "stars": 28,
@@ -794,7 +794,7 @@
                     "open_issues": 6,
                     "owner": "tarioch",
                     "repo": "beancounttools",
-                    "stars": 96,
+                    "stars": 97,
                     "topics": [
                       "beancount",
                       "beancount-prices",
@@ -1099,7 +1099,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-20T17:11:43Z",
-                "open_issues": 79,
+                "open_issues": 80,
                 "owner": "jbms",
                 "repo": "beancount-import",
                 "stars": 474,
@@ -1167,7 +1167,7 @@
                 "open_issues": 6,
                 "owner": "tarioch",
                 "repo": "beancounttools",
-                "stars": 96,
+                "stars": 97,
                 "topics": [
                   "beancount",
                   "beancount-prices",
@@ -1455,8 +1455,8 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-12T14:51:27Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-13T10:07:30Z",
+            "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
             "stars": 23,
@@ -2442,8 +2442,8 @@
             "id": 1273830468,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T00:33:15Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-13T18:33:34Z",
+            "open_issues": 3,
             "owner": "giltotherescue",
             "repo": "slashbooks",
             "stars": 34,
@@ -2898,7 +2898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:53:14.773Z",
+    "last_updated": "2026-10-13T19:58:17.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
@@ -2910,7 +2910,7 @@
       "open_issues": 1,
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
-      "stars": 386,
+      "stars": 385,
       "topics": [
         "accounting",
         "awesome",
