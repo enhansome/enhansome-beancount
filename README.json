@@ -19,7 +19,7 @@
             "open_issues": 249,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6077,
+            "stars": 6084,
             "topics": [
               "beancount"
             ]
@@ -279,7 +279,7 @@
                 "open_issues": 2,
                 "owner": "fatsheep2",
                 "repo": "beanBridge",
-                "stars": 20,
+                "stars": 21,
                 "topics": [
                   "beancount",
                   "bookkeeping"
@@ -385,7 +385,7 @@
                     "id": 670040890,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-06T08:11:56Z",
+                    "last_commit": "2026-10-14T09:45:27Z",
                     "open_issues": 1,
                     "owner": "dhr2333",
                     "repo": "Beancount-Trans",
@@ -469,8 +469,8 @@
                 "id": 127779406,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T18:35:46Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-13T21:31:31Z",
+                "open_issues": 1,
                 "owner": "siddhantgoel",
                 "repo": "beancount-dkb",
                 "stars": 53,
@@ -505,7 +505,7 @@
                 "open_issues": 1,
                 "owner": "siddhantgoel",
                 "repo": "beancount-ing",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "accounting",
                   "banking",
@@ -1098,8 +1098,8 @@
                 "id": 47961517,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-20T17:11:43Z",
-                "open_issues": 80,
+                "last_commit": "2026-10-14T06:44:13Z",
+                "open_issues": 73,
                 "owner": "jbms",
                 "repo": "beancount-import",
                 "stars": 474,
@@ -1192,7 +1192,7 @@
                 "open_issues": 21,
                 "owner": "open-banking-io",
                 "repo": "clients",
-                "stars": 20,
+                "stars": 21,
                 "topics": [
                   "aisp",
                   "banking",
@@ -2442,8 +2442,8 @@
             "id": 1273830468,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T18:33:34Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-14T16:15:34Z",
+            "open_issues": 2,
             "owner": "giltotherescue",
             "repo": "slashbooks",
             "stars": 34,
@@ -2898,7 +2898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:58:17.456Z",
+    "last_updated": "2026-10-14T18:11:33.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
