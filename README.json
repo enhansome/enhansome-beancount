@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-08-23T20:17:45Z",
-            "open_issues": 250,
+            "open_issues": 251,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6092,
+            "stars": 6098,
             "topics": [
               "beancount"
             ]
@@ -190,7 +190,7 @@
             "open_issues": 0,
             "owner": "SuperDaniel-cn",
             "repo": "BeanDesk",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "accounting",
               "beancount",
@@ -1351,7 +1351,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-01T04:54:04Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "polarmutex",
             "repo": "beancount-language-server",
             "stars": 252,
@@ -1393,7 +1393,7 @@
             "language": "Emacs Lisp",
             "license": "GPL-3.0",
             "last_commit": "2026-05-17T18:03:45Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "beancount",
             "repo": "beancount-mode",
             "stars": 159,
@@ -1455,8 +1455,8 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-17T15:39:36Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-18T12:35:18Z",
+            "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
             "stars": 23,
@@ -2011,7 +2011,7 @@
                 "open_issues": 2,
                 "owner": "andreasgerstmayr",
                 "repo": "fava-dashboards",
-                "stars": 418,
+                "stars": 419,
                 "topics": [
                   "beancount",
                   "charts",
@@ -2335,8 +2335,8 @@
             "id": 910161,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T20:00:03Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-17T18:09:45Z",
+            "open_issues": 3,
             "owner": "csingley",
             "repo": "ofxtools",
             "stars": 347,
@@ -2442,7 +2442,7 @@
             "id": 1273830468,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T14:39:38Z",
+            "last_commit": "2026-10-17T22:04:17Z",
             "open_issues": 1,
             "owner": "giltotherescue",
             "repo": "slashbooks",
@@ -2898,7 +2898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:40:21.917Z",
+    "last_updated": "2026-10-18T16:57:59.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
