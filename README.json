@@ -19,7 +19,7 @@
             "open_issues": 251,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6100,
+            "stars": 6102,
             "topics": [
               "beancount"
             ]
@@ -80,7 +80,7 @@
             "open_issues": 36,
             "owner": "BaoXuebin",
             "repo": "beancount-gs",
-            "stars": 418,
+            "stars": 415,
             "topics": [
               "beancount",
               "docker",
@@ -389,7 +389,7 @@
                     "open_issues": 2,
                     "owner": "dhr2333",
                     "repo": "Beancount-Trans",
-                    "stars": 81,
+                    "stars": 82,
                     "topics": [
                       "ai",
                       "beancount",
@@ -935,7 +935,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-19T19:10:53Z",
+                "last_commit": "2026-10-19T21:28:01Z",
                 "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -956,7 +956,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-19T19:10:53Z",
+                "last_commit": "2026-10-19T21:28:01Z",
                 "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -977,7 +977,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-19T19:10:53Z",
+                "last_commit": "2026-10-19T21:28:01Z",
                 "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -1125,7 +1125,7 @@
                 "open_issues": 4,
                 "owner": "beancount",
                 "repo": "smart_importer",
-                "stars": 308,
+                "stars": 309,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1142,7 +1142,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-19T19:10:53Z",
+                "last_commit": "2026-10-19T21:28:01Z",
                 "open_issues": 34,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -1192,7 +1192,7 @@
                 "open_issues": 19,
                 "owner": "open-banking-io",
                 "repo": "clients",
-                "stars": 22,
+                "stars": 24,
                 "topics": [
                   "aisp",
                   "banking",
@@ -1435,7 +1435,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-11-06T16:10:50Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "norseghost",
             "repo": "sublime-beancount",
             "stars": 35,
@@ -1455,8 +1455,8 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-19T12:31:53Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-20T11:02:41Z",
+            "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
             "stars": 23,
@@ -1635,7 +1635,7 @@
                 "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1656,7 +1656,7 @@
                 "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1677,7 +1677,7 @@
                 "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1698,7 +1698,7 @@
                 "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1719,7 +1719,7 @@
                 "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1740,7 +1740,7 @@
                 "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -2442,11 +2442,11 @@
             "id": 1273830468,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T18:43:37Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-20T18:07:39Z",
+            "open_issues": 6,
             "owner": "giltotherescue",
             "repo": "slashbooks",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "accounting",
               "ai-agents",
@@ -2898,7 +2898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:31:05.241Z",
+    "last_updated": "2026-10-20T18:07:55.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
