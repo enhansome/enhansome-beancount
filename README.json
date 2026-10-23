@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-08-23T20:17:45Z",
-            "open_issues": 247,
+            "open_issues": 248,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6109,
+            "stars": 6111,
             "topics": [
               "beancount"
             ]
@@ -190,7 +190,7 @@
             "open_issues": 0,
             "owner": "SuperDaniel-cn",
             "repo": "BeanDesk",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "accounting",
               "beancount",
@@ -385,7 +385,7 @@
                     "id": 670040890,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-17T10:40:48Z",
+                    "last_commit": "2026-10-23T05:47:51Z",
                     "open_issues": 2,
                     "owner": "dhr2333",
                     "repo": "Beancount-Trans",
@@ -790,7 +790,7 @@
                     "id": 225922307,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-15T18:38:26Z",
+                    "last_commit": "2026-10-22T18:37:21Z",
                     "open_issues": 6,
                     "owner": "tarioch",
                     "repo": "beancounttools",
@@ -1163,7 +1163,7 @@
                 "id": 225922307,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T18:38:26Z",
+                "last_commit": "2026-10-22T18:37:21Z",
                 "open_issues": 6,
                 "owner": "tarioch",
                 "repo": "beancounttools",
@@ -1188,8 +1188,8 @@
                 "id": 1264078752,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-22T09:10:16Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-22T22:35:02Z",
+                "open_issues": 17,
                 "owner": "open-banking-io",
                 "repo": "clients",
                 "stars": 24,
@@ -1455,7 +1455,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-22T12:19:55Z",
+            "last_commit": "2026-10-23T16:27:42Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -1509,7 +1509,7 @@
                 "open_issues": 9,
                 "owner": "redstreet",
                 "repo": "beancount_reds_plugins",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1530,7 +1530,7 @@
                 "open_issues": 9,
                 "owner": "redstreet",
                 "repo": "beancount_reds_plugins",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1551,7 +1551,7 @@
                 "open_issues": 9,
                 "owner": "redstreet",
                 "repo": "beancount_reds_plugins",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1572,7 +1572,7 @@
                 "open_issues": 9,
                 "owner": "redstreet",
                 "repo": "beancount_reds_plugins",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1593,7 +1593,7 @@
                 "open_issues": 9,
                 "owner": "redstreet",
                 "repo": "beancount_reds_plugins",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -2442,7 +2442,7 @@
             "id": 1273830468,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T11:34:46Z",
+            "last_commit": "2026-10-23T12:12:03Z",
             "open_issues": 3,
             "owner": "giltotherescue",
             "repo": "slashbooks",
@@ -2898,7 +2898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:11:17.609Z",
+    "last_updated": "2026-10-23T17:58:22.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
@@ -2907,7 +2907,7 @@
       "language": "HTML",
       "license": "NOASSERTION",
       "last_commit": "2026-10-05T19:13:11Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
       "stars": 386,
