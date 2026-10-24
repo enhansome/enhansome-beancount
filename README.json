@@ -19,7 +19,7 @@
             "open_issues": 248,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6111,
+            "stars": 6113,
             "topics": [
               "beancount"
             ]
@@ -190,7 +190,7 @@
             "open_issues": 0,
             "owner": "SuperDaniel-cn",
             "repo": "BeanDesk",
-            "stars": 23,
+            "stars": 25,
             "topics": [
               "accounting",
               "beancount",
@@ -224,6 +224,39 @@
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Beanbook",
+          "description": "Android app that runs the real Beancount and Fava on the phone, on your own plain-text files, with no account or telemetry",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Plain-text accounting for Beancount on Android. Runs the real Beancount and Fava on your phone. No account, no telemetry.",
+            "homepage": "https://pintofi.github.io/beanbook/",
+            "id": 1417003947,
+            "language": "Kotlin",
+            "license": "GPL-2.0",
+            "last_commit": "2026-10-24T14:18:36Z",
+            "open_issues": 26,
+            "owner": "pintofi",
+            "repo": "beanbook",
+            "stars": 6,
+            "topics": [
+              "accounting",
+              "android",
+              "beancount",
+              "double-entry-accounting",
+              "fava",
+              "jetpack-compose",
+              "kotlin",
+              "offline-first",
+              "personal-finance",
+              "plain-text-accounting",
+              "privacy"
+            ]
+          },
+          "first_seen": "2026-10-24T17:02:28.855Z"
         }
       ],
       "title": "User Interfaces"
@@ -389,7 +422,7 @@
                     "open_issues": 2,
                     "owner": "dhr2333",
                     "repo": "Beancount-Trans",
-                    "stars": 82,
+                    "stars": 83,
                     "topics": [
                       "ai",
                       "beancount",
@@ -469,8 +502,8 @@
                 "id": 127779406,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-19T17:13:19Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-23T19:05:32Z",
+                "open_issues": 0,
                 "owner": "siddhantgoel",
                 "repo": "beancount-dkb",
                 "stars": 53,
@@ -501,8 +534,8 @@
                 "id": 142293785,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-19T12:23:01Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-23T19:05:42Z",
+                "open_issues": 0,
                 "owner": "siddhantgoel",
                 "repo": "beancount-ing",
                 "stars": 37,
@@ -533,8 +566,8 @@
                 "id": 216653151,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-19T11:23:20Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-23T19:06:53Z",
+                "open_issues": 0,
                 "owner": "siddhantgoel",
                 "repo": "beancount-n26",
                 "stars": 28,
@@ -790,7 +823,7 @@
                     "id": 225922307,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T18:37:21Z",
+                    "last_commit": "2026-10-24T00:20:23Z",
                     "open_issues": 6,
                     "owner": "tarioch",
                     "repo": "beancounttools",
@@ -1163,7 +1196,7 @@
                 "id": 225922307,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-22T18:37:21Z",
+                "last_commit": "2026-10-24T00:20:23Z",
                 "open_issues": 6,
                 "owner": "tarioch",
                 "repo": "beancounttools",
@@ -1455,7 +1488,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-23T16:27:42Z",
+            "last_commit": "2026-10-24T13:40:55Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -2442,7 +2475,7 @@
             "id": 1273830468,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T12:12:03Z",
+            "last_commit": "2026-10-23T21:30:10Z",
             "open_issues": 3,
             "owner": "giltotherescue",
             "repo": "slashbooks",
@@ -2898,7 +2931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:58:22.576Z",
+    "last_updated": "2026-10-24T17:02:28.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
@@ -2906,8 +2939,8 @@
       "id": 154991835,
       "language": "HTML",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-05T19:13:11Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-23T19:05:22Z",
+      "open_issues": 1,
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
       "stars": 386,
@@ -2923,7 +2956,7 @@
         "python"
       ]
     },
-    "original_repository_sha": "46ef2c1a431e5f7ae39d3f78e5b9df6a9bebdc17",
+    "original_repository_sha": "439cf77ae7dc2e465708bc85a455689cc1fd9bde",
     "enhanced_repository": "enhansome/enhansome-beancount",
     "enhanced_repository_description": null,
     "title": "Awesome Beancount with stars"
