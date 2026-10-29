@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-08-23T20:17:45Z",
-            "open_issues": 249,
+            "open_issues": 247,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6128,
+            "stars": 6131,
             "topics": [
               "beancount"
             ]
@@ -77,10 +77,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-25T03:08:14Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "BaoXuebin",
             "repo": "beancount-gs",
-            "stars": 416,
+            "stars": 415,
             "topics": [
               "beancount",
               "docker",
@@ -190,7 +190,7 @@
             "open_issues": 1,
             "owner": "SuperDaniel-cn",
             "repo": "BeanDesk",
-            "stars": 26,
+            "stars": 27,
             "topics": [
               "accounting",
               "beancount",
@@ -216,11 +216,11 @@
             "id": 1417003947,
             "language": "Kotlin",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-28T18:37:02Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-29T13:13:50Z",
+            "open_issues": 21,
             "owner": "pintofi",
             "repo": "beanbook",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "accounting",
               "android",
@@ -409,7 +409,7 @@
                 {
                   "node_type": "item",
                   "title": "dhr2333/Beancount-Trans",
-                  "description": "dhr2333/Beancount-Trans",
+                  "description": "Beancount-Trans/Beancount-Trans",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -418,9 +418,9 @@
                     "id": 670040890,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-23T05:47:51Z",
-                    "open_issues": 2,
-                    "owner": "dhr2333",
+                    "last_commit": "2026-10-29T09:44:01Z",
+                    "open_issues": 3,
+                    "owner": "Beancount-Trans",
                     "repo": "Beancount-Trans",
                     "stars": 82,
                     "topics": [
@@ -821,7 +821,7 @@
                     "id": 225922307,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T00:20:23Z",
+                    "last_commit": "2026-10-29T18:42:15Z",
                     "open_issues": 6,
                     "owner": "tarioch",
                     "repo": "beancounttools",
@@ -1133,7 +1133,7 @@
                 "open_issues": 73,
                 "owner": "jbms",
                 "repo": "beancount-import",
-                "stars": 474,
+                "stars": 475,
                 "topics": [
                   "beancount"
                 ]
@@ -1156,7 +1156,7 @@
                 "open_issues": 4,
                 "owner": "beancount",
                 "repo": "smart_importer",
-                "stars": 309,
+                "stars": 310,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1194,7 +1194,7 @@
                 "id": 225922307,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-24T00:20:23Z",
+                "last_commit": "2026-10-29T18:42:15Z",
                 "open_issues": 6,
                 "owner": "tarioch",
                 "repo": "beancounttools",
@@ -1220,7 +1220,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-28T12:13:23Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "open-banking-io",
                 "repo": "clients",
                 "stars": 25,
@@ -1356,7 +1356,7 @@
                 "open_issues": 0,
                 "owner": "gerdemb",
                 "repo": "beanpost",
-                "stars": 66,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1486,7 +1486,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-28T18:50:31Z",
+            "last_commit": "2026-10-29T12:40:38Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -2473,8 +2473,8 @@
             "id": 1273830468,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T19:05:51Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-28T19:23:08Z",
+            "open_issues": 4,
             "owner": "giltotherescue",
             "repo": "slashbooks",
             "stars": 35,
@@ -2866,7 +2866,7 @@
             "open_issues": 5,
             "owner": "Evernight",
             "repo": "lazy-beancount",
-            "stars": 176,
+            "stars": 177,
             "topics": [
               "beancount",
               "docker",
@@ -2929,7 +2929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:08:56.537Z",
+    "last_updated": "2026-10-29T19:18:13.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
