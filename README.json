@@ -19,7 +19,7 @@
             "open_issues": 247,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6131,
+            "stars": 6135,
             "topics": [
               "beancount"
             ]
@@ -80,7 +80,7 @@
             "open_issues": 37,
             "owner": "BaoXuebin",
             "repo": "beancount-gs",
-            "stars": 415,
+            "stars": 417,
             "topics": [
               "beancount",
               "docker",
@@ -190,7 +190,7 @@
             "open_issues": 1,
             "owner": "SuperDaniel-cn",
             "repo": "BeanDesk",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "accounting",
               "beancount",
@@ -216,8 +216,8 @@
             "id": 1417003947,
             "language": "Kotlin",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-29T13:13:50Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-30T18:07:13Z",
+            "open_issues": 18,
             "owner": "pintofi",
             "repo": "beanbook",
             "stars": 10,
@@ -282,7 +282,7 @@
                 "open_issues": 24,
                 "owner": "deb-sig",
                 "repo": "double-entry-generator",
-                "stars": 731,
+                "stars": 733,
                 "topics": [
                   "alipay",
                   "alipay-records",
@@ -371,7 +371,7 @@
                     "open_issues": 24,
                     "owner": "deb-sig",
                     "repo": "double-entry-generator",
-                    "stars": 731,
+                    "stars": 733,
                     "topics": [
                       "alipay",
                       "alipay-records",
@@ -1130,7 +1130,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-14T06:44:13Z",
-                "open_issues": 73,
+                "open_issues": 75,
                 "owner": "jbms",
                 "repo": "beancount-import",
                 "stars": 475,
@@ -1486,7 +1486,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-29T12:40:38Z",
+            "last_commit": "2026-10-30T08:34:50Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -2340,7 +2340,7 @@
             "open_issues": 24,
             "owner": "deb-sig",
             "repo": "double-entry-generator",
-            "stars": 731,
+            "stars": 733,
             "topics": [
               "alipay",
               "alipay-records",
@@ -2866,7 +2866,7 @@
             "open_issues": 5,
             "owner": "Evernight",
             "repo": "lazy-beancount",
-            "stars": 177,
+            "stars": 178,
             "topics": [
               "beancount",
               "docker",
@@ -2929,7 +2929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:18:13.820Z",
+    "last_updated": "2026-10-30T18:53:59.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
@@ -2941,7 +2941,7 @@
       "open_issues": 1,
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
-      "stars": 386,
+      "stars": 387,
       "topics": [
         "accounting",
         "awesome",
