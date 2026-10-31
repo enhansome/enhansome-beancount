@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-08-23T20:17:45Z",
-            "open_issues": 247,
+            "open_issues": 248,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6135,
+            "stars": 6138,
             "topics": [
               "beancount"
             ]
@@ -80,7 +80,7 @@
             "open_issues": 37,
             "owner": "BaoXuebin",
             "repo": "beancount-gs",
-            "stars": 417,
+            "stars": 416,
             "topics": [
               "beancount",
               "docker",
@@ -190,7 +190,7 @@
             "open_issues": 1,
             "owner": "SuperDaniel-cn",
             "repo": "BeanDesk",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "accounting",
               "beancount",
@@ -282,7 +282,7 @@
                 "open_issues": 24,
                 "owner": "deb-sig",
                 "repo": "double-entry-generator",
-                "stars": 733,
+                "stars": 732,
                 "topics": [
                   "alipay",
                   "alipay-records",
@@ -371,7 +371,7 @@
                     "open_issues": 24,
                     "owner": "deb-sig",
                     "repo": "double-entry-generator",
-                    "stars": 733,
+                    "stars": 732,
                     "topics": [
                       "alipay",
                       "alipay-records",
@@ -416,9 +416,9 @@
                     "description": "上传账单，自动转换为可审计的 Beancount 复式记账数据，并在几分钟内查看财务报表。",
                     "homepage": "https://trans.dhr2333.cn/",
                     "id": 670040890,
-                    "language": "TypeScript",
+                    "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-29T09:44:01Z",
+                    "last_commit": "2026-10-31T02:24:56Z",
                     "open_issues": 3,
                     "owner": "Beancount-Trans",
                     "repo": "Beancount-Trans",
@@ -1129,11 +1129,11 @@
                 "id": 47961517,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-14T06:44:13Z",
+                "last_commit": "2026-10-31T01:49:45Z",
                 "open_issues": 75,
                 "owner": "jbms",
                 "repo": "beancount-import",
-                "stars": 475,
+                "stars": 476,
                 "topics": [
                   "beancount"
                 ]
@@ -1486,7 +1486,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-30T08:34:50Z",
+            "last_commit": "2026-10-31T15:54:36Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -2340,7 +2340,7 @@
             "open_issues": 24,
             "owner": "deb-sig",
             "repo": "double-entry-generator",
-            "stars": 733,
+            "stars": 732,
             "topics": [
               "alipay",
               "alipay-records",
@@ -2473,8 +2473,8 @@
             "id": 1273830468,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T19:23:08Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-31T17:48:54Z",
+            "open_issues": 5,
             "owner": "giltotherescue",
             "repo": "slashbooks",
             "stars": 35,
@@ -2715,7 +2715,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-03-01T10:34:49Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "dtrai2",
                 "repo": "gnucash-to-beancount",
                 "stars": 6,
@@ -2866,7 +2866,7 @@
             "open_issues": 5,
             "owner": "Evernight",
             "repo": "lazy-beancount",
-            "stars": 178,
+            "stars": 177,
             "topics": [
               "beancount",
               "docker",
@@ -2929,7 +2929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:53:59.524Z",
+    "last_updated": "2026-10-31T17:58:50.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
