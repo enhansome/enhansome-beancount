@@ -19,7 +19,7 @@
             "open_issues": 248,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6138,
+            "stars": 6143,
             "topics": [
               "beancount"
             ]
@@ -190,7 +190,7 @@
             "open_issues": 1,
             "owner": "SuperDaniel-cn",
             "repo": "BeanDesk",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "accounting",
               "beancount",
@@ -1220,7 +1220,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-28T12:13:23Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "open-banking-io",
                 "repo": "clients",
                 "stars": 25,
@@ -1381,8 +1381,8 @@
             "id": 265094440,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-01T04:54:04Z",
-            "open_issues": 37,
+            "last_commit": "2026-11-01T04:50:21Z",
+            "open_issues": 36,
             "owner": "polarmutex",
             "repo": "beancount-language-server",
             "stars": 253,
@@ -1486,7 +1486,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-31T15:54:36Z",
+            "last_commit": "2026-11-01T09:34:48Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -1666,7 +1666,7 @@
                 "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1687,7 +1687,7 @@
                 "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1708,7 +1708,7 @@
                 "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1729,7 +1729,7 @@
                 "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1750,7 +1750,7 @@
                 "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1771,7 +1771,7 @@
                 "open_issues": 8,
                 "owner": "SEIAROTg",
                 "repo": "autobean",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -2069,7 +2069,7 @@
                 "open_issues": 14,
                 "owner": "redstreet",
                 "repo": "fava_investor",
-                "stars": 181,
+                "stars": 182,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -2111,7 +2111,7 @@
                 "open_issues": 11,
                 "owner": "andreasgerstmayr",
                 "repo": "fava-portfolio-returns",
-                "stars": 105,
+                "stars": 106,
                 "topics": [
                   "beancount",
                   "beangrow",
@@ -2437,6 +2437,36 @@
         },
         {
           "node_type": "item",
+          "title": "Slashbooks",
+          "description": "Local-first bookkeeping agent that can export Beancount for inspection in PTA tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Replace QuickBooks and your outsourced bookkeeper with an AI agent you control.",
+            "homepage": "https://slashbooks.org",
+            "id": 1273830468,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-31T17:59:11Z",
+            "open_issues": 4,
+            "owner": "giltotherescue",
+            "repo": "slashbooks",
+            "stars": 36,
+            "topics": [
+              "accounting",
+              "ai-agents",
+              "bookkeeping",
+              "claude-code",
+              "local-first",
+              "plain-text-accounting",
+              "quickbooks",
+              "small-business"
+            ]
+          },
+          "first_seen": "2026-08-29T17:25:27.695Z"
+        },
+        {
+          "node_type": "item",
           "title": "beancount-parser",
           "description": "Standalone Lark based Beancount syntax parser (not relying on Beancount library)",
           "children": [],
@@ -2460,36 +2490,6 @@
             ]
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Slashbooks",
-          "description": "Local-first bookkeeping agent that can export Beancount for inspection in PTA tools",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Replace QuickBooks and your outsourced bookkeeper with an AI agent you control.",
-            "homepage": "https://slashbooks.org",
-            "id": 1273830468,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-31T17:48:54Z",
-            "open_issues": 5,
-            "owner": "giltotherescue",
-            "repo": "slashbooks",
-            "stars": 35,
-            "topics": [
-              "accounting",
-              "ai-agents",
-              "bookkeeping",
-              "claude-code",
-              "local-first",
-              "plain-text-accounting",
-              "quickbooks",
-              "small-business"
-            ]
-          },
-          "first_seen": "2026-08-29T17:25:27.695Z"
         },
         {
           "node_type": "item",
@@ -2929,7 +2929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:58:50.588Z",
+    "last_updated": "2026-11-01T18:37:25.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
@@ -2941,7 +2941,7 @@
       "open_issues": 1,
       "owner": "siddhantgoel",
       "repo": "awesome-beancount",
-      "stars": 387,
+      "stars": 388,
       "topics": [
         "accounting",
         "awesome",
