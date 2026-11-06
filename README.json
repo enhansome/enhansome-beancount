@@ -19,7 +19,7 @@
             "open_issues": 248,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6152,
+            "stars": 6151,
             "topics": [
               "beancount"
             ]
@@ -1486,7 +1486,7 @@
             "id": 23732507,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-11-05T18:59:55Z",
+            "last_commit": "2026-11-06T15:57:00Z",
             "open_issues": 0,
             "owner": "aldur",
             "repo": "dotfiles",
@@ -2447,8 +2447,8 @@
             "id": 1273830468,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T15:39:53Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-06T14:12:37Z",
+            "open_issues": 5,
             "owner": "giltotherescue",
             "repo": "slashbooks",
             "stars": 37,
@@ -2929,7 +2929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:50:39.887Z",
+    "last_updated": "2026-11-06T20:06:41.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
