@@ -15,7 +15,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Official Resources
 
-* [Source Code](https://github.com/beancount/beancount) ⭐ 6,151 | 🐛 248 | 🌐 Python | 📅 2026-08-23
+* [Source Code](https://github.com/beancount/beancount) ⭐ 6,152 | 🐛 248 | 🌐 Python | 📅 2026-08-23
 * [Homepage](https://beancount.github.io/)
 * Documentation
   * [GitHub Pages](https://beancount.github.io/docs/) ([generated](https://github.com/beancount/docs) ⭐ 62 | 🐛 12 | 🌐 Python | 📅 2026-07-11 from Google Docs)
@@ -24,7 +24,7 @@ system — ideal for plain text accounting users and Python software developers.
 
 ## Alternative Implementations
 
-* [rustledger](https://github.com/rustledger/rustledger) ⭐ 423 | 🐛 22 | 🌐 Rust | 📅 2026-11-06 - Pure Rust implementation, drop-in replacement, 10x faster
+* [rustledger](https://github.com/rustledger/rustledger) ⭐ 423 | 🐛 11 | 🌐 Rust | 📅 2026-11-07 - Pure Rust implementation, drop-in replacement, 10x faster
 
 ## Books
 
@@ -37,7 +37,7 @@ system — ideal for plain text accounting users and Python software developers.
 * [Beancount Telegram Bot](https://github.com/LucaBernstein/beancount-bot-tg) ⭐ 43 | 🐛 21 | 🌐 Go | 📅 2025-04-07 - Telegram bot to track Beancount transactions on the go
 * [Fava-GTK](https://github.com/johannesjh/fava-gtk) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2026-01-06 - GNOME Desktop app for Fava and Beancount
 * [BeanDesk](https://github.com/SuperDaniel-cn/BeanDesk) ⭐ 32 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-11 - Modern desktop financial workbench for Beancount & Fava built with Tauri 2 and React 19
-* [Beanbook](https://github.com/pintofi/beanbook) ⭐ 12 | 🐛 20 | 🌐 Kotlin | 📅 2026-11-03 - Android app that runs the real Beancount and Fava on the phone, on your own plain-text files, with no account or telemetry
+* [Beanbook](https://github.com/pintofi/beanbook) ⭐ 13 | 🐛 26 | 🌐 Kotlin | 📅 2026-11-07 - Android app that runs the real Beancount and Fava on the phone, on your own plain-text files, with no account or telemetry
 * [Beancount Telegram Bot](https://github.com/blinkstu/beancount-telegram-bot) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-01-13 - Telegram bot powered with llm to record any complex transactions with multiuser and web interface
 * [Fava](https://beancount.github.io/fava/) - Web interface for Beancount
 * [SQL queries for Beancount](http://aumayr.github.io/beancount-sql-queries/) - Example SQL queries for Beancount
@@ -160,7 +160,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ## Editor Support
 
-* [Beancount Language Server](https://github.com/polarmutex/beancount-language-server) ⭐ 254 | 🐛 38 | 🌐 Rust | 📅 2026-11-01
+* [Beancount Language Server](https://github.com/polarmutex/beancount-language-server) ⭐ 254 | 🐛 15 | 🌐 Rust | 📅 2026-11-07
 * [Vim](https://github.com/nathangrigg/vim-beancount) ⭐ 192 | 🐛 25 | 🌐 Vim Script | 📅 2024-11-25
 * [Emacs](https://github.com/beancount/beancount-mode) ⭐ 160 | 🐛 15 | 🌐 Emacs Lisp | 📅 2026-05-17
 * [Tree-Sitter](https://github.com/polarmutex/tree-sitter-beancount) ⭐ 56 | 🐛 9 | 🌐 Rust | 📅 2026-09-13
@@ -219,7 +219,7 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 * [ofxtools](https://github.com/csingley/ofxtools) ⭐ 349 | 🐛 2 | 🌐 Python | 📅 2026-10-24 - Python library for working with Open Financial Exchange (OFX) data
 * [beancount-black](https://github.com/LaunchPlatform/beancount-black) ⭐ 53 | 🐛 9 | 🌐 Python | 📅 2026-09-06 - Opinionated code formatter, just like Python's black code formatter but for Beancount
 * [beanquery-mcp](https://github.com/vanto/beanquery-mcp) ⭐ 52 | 🐛 2 | 🌐 Python | 📅 2025-04-01 - MCP (Model Context Protocol) server for Beancount Ledger files
-* [Slashbooks](https://github.com/giltotherescue/slashbooks) ⭐ 37 | 🐛 5 | 🌐 Python | 📅 2026-11-06 - Local-first bookkeeping agent that can export Beancount for inspection in PTA tools
+* [Slashbooks](https://github.com/giltotherescue/slashbooks) ⭐ 37 | 🐛 6 | 🌐 Python | 📅 2026-11-07 - Local-first bookkeeping agent that can export Beancount for inspection in PTA tools
 * [beancount-parser](https://github.com/LaunchPlatform/beancount-parser) ⭐ 35 | 🐛 5 | 🌐 Python | 📅 2024-05-09 - Standalone Lark based Beancount syntax parser (not relying on Beancount library)
 * [Beancount Bot](https://github.com/StdioA/beancount-bot) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2026-05-19 - Telegram / Mattermost bot to generate new transactions with few words
 * [CSV to Beancount](https://github.com/PaNaVTEC/csv2beancount) ⭐ 22 | 🐛 0 | 🌐 Clojure | 📅 2017-02-24
@@ -302,4 +302,4 @@ How to export (the "inferred" *extended form* of) `*.beancount` to other formats
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

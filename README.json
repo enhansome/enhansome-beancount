@@ -19,7 +19,7 @@
             "open_issues": 248,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6151,
+            "stars": 6152,
             "topics": [
               "beancount"
             ]
@@ -216,11 +216,11 @@
             "id": 1417003947,
             "language": "Kotlin",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-03T19:20:06Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-07T17:46:53Z",
+            "open_issues": 26,
             "owner": "pintofi",
             "repo": "beanbook",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "accounting",
               "android",
@@ -1381,8 +1381,8 @@
             "id": 265094440,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-01T04:50:21Z",
-            "open_issues": 38,
+            "last_commit": "2026-11-07T16:39:58Z",
+            "open_issues": 15,
             "owner": "polarmutex",
             "repo": "beancount-language-server",
             "stars": 254,
@@ -2447,8 +2447,8 @@
             "id": 1273830468,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T14:12:37Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-07T16:43:07Z",
+            "open_issues": 6,
             "owner": "giltotherescue",
             "repo": "slashbooks",
             "stars": 37,
@@ -2929,7 +2929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:06:41.822Z",
+    "last_updated": "2026-11-07T18:21:07.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
