@@ -19,7 +19,7 @@
             "open_issues": 248,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6170,
+            "stars": 6176,
             "topics": [
               "beancount"
             ]
@@ -133,7 +133,7 @@
             "open_issues": 21,
             "owner": "LucaBernstein",
             "repo": "beancount-bot-tg",
-            "stars": 43,
+            "stars": 45,
             "topics": [
               "beancount",
               "go",
@@ -190,7 +190,7 @@
             "open_issues": 4,
             "owner": "SuperDaniel-cn",
             "repo": "BeanDesk",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "accounting",
               "beancount",
@@ -216,11 +216,11 @@
             "id": 1417003947,
             "language": "Kotlin",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-12T19:18:39Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-13T20:36:50Z",
+            "open_issues": 24,
             "owner": "pintofi",
             "repo": "beanbook",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "accounting",
               "android",
@@ -821,7 +821,7 @@
                     "id": 225922307,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-12T18:38:51Z",
+                    "last_commit": "2026-11-13T16:20:37Z",
                     "open_issues": 6,
                     "owner": "tarioch",
                     "repo": "beancounttools",
@@ -966,7 +966,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-08T16:05:02Z",
+                "last_commit": "2026-11-13T06:50:39Z",
                 "open_issues": 33,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -987,7 +987,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-08T16:05:02Z",
+                "last_commit": "2026-11-13T06:50:39Z",
                 "open_issues": 33,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -1008,7 +1008,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-08T16:05:02Z",
+                "last_commit": "2026-11-13T06:50:39Z",
                 "open_issues": 33,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -1129,7 +1129,7 @@
                 "id": 47961517,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-10T19:08:39Z",
+                "last_commit": "2026-11-13T17:54:03Z",
                 "open_issues": 55,
                 "owner": "jbms",
                 "repo": "beancount-import",
@@ -1156,7 +1156,7 @@
                 "open_issues": 4,
                 "owner": "beancount",
                 "repo": "smart_importer",
-                "stars": 309,
+                "stars": 310,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1173,7 +1173,7 @@
                 "id": 260047558,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-08T16:05:02Z",
+                "last_commit": "2026-11-13T06:50:39Z",
                 "open_issues": 33,
                 "owner": "redstreet",
                 "repo": "beancount_reds_importers",
@@ -1194,7 +1194,7 @@
                 "id": 225922307,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-12T18:38:51Z",
+                "last_commit": "2026-11-13T16:20:37Z",
                 "open_issues": 6,
                 "owner": "tarioch",
                 "repo": "beancounttools",
@@ -1406,7 +1406,7 @@
             "open_issues": 25,
             "owner": "nathangrigg",
             "repo": "vim-beancount",
-            "stars": 192,
+            "stars": 193,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1444,8 +1444,8 @@
             "id": 281706272,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-13T08:22:57Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-13T03:19:56Z",
+            "open_issues": 5,
             "owner": "polarmutex",
             "repo": "tree-sitter-beancount",
             "stars": 56,
@@ -2422,7 +2422,7 @@
             "open_issues": 2,
             "owner": "vanto",
             "repo": "beanquery-mcp",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "beancount",
               "mcp",
@@ -2447,7 +2447,7 @@
             "id": 1273830468,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T15:27:15Z",
+            "last_commit": "2026-11-13T15:04:41Z",
             "open_issues": 6,
             "owner": "giltotherescue",
             "repo": "slashbooks",
@@ -2718,7 +2718,7 @@
                 "open_issues": 1,
                 "owner": "dtrai2",
                 "repo": "gnucash-to-beancount",
-                "stars": 6,
+                "stars": 7,
                 "topics": [
                   "beancount",
                   "gnucash",
@@ -2866,7 +2866,7 @@
             "open_issues": 5,
             "owner": "Evernight",
             "repo": "lazy-beancount",
-            "stars": 177,
+            "stars": 179,
             "topics": [
               "beancount",
               "docker",
@@ -2929,7 +2929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:09:26.954Z",
+    "last_updated": "2026-11-13T20:40:16.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
