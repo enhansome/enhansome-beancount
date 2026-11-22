@@ -19,7 +19,7 @@
             "open_issues": 249,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6193,
+            "stars": 6198,
             "topics": [
               "beancount"
             ]
@@ -190,7 +190,7 @@
             "open_issues": 4,
             "owner": "SuperDaniel-cn",
             "repo": "BeanDesk",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "accounting",
               "beancount",
@@ -216,8 +216,8 @@
             "id": 1417003947,
             "language": "Kotlin",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-17T19:16:18Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-22T20:26:56Z",
+            "open_issues": 21,
             "owner": "pintofi",
             "repo": "beanbook",
             "stars": 21,
@@ -282,7 +282,7 @@
                 "open_issues": 25,
                 "owner": "deb-sig",
                 "repo": "double-entry-generator",
-                "stars": 735,
+                "stars": 736,
                 "topics": [
                   "alipay",
                   "alipay-records",
@@ -371,7 +371,7 @@
                     "open_issues": 25,
                     "owner": "deb-sig",
                     "repo": "double-entry-generator",
-                    "stars": 735,
+                    "stars": 736,
                     "topics": [
                       "alipay",
                       "alipay-records",
@@ -821,7 +821,7 @@
                     "id": 225922307,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-20T22:49:41Z",
+                    "last_commit": "2026-11-22T11:34:17Z",
                     "open_issues": 6,
                     "owner": "tarioch",
                     "repo": "beancounttools",
@@ -1156,7 +1156,7 @@
                 "open_issues": 4,
                 "owner": "beancount",
                 "repo": "smart_importer",
-                "stars": 310,
+                "stars": 311,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:58.913Z"
@@ -1194,7 +1194,7 @@
                 "id": 225922307,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-20T22:49:41Z",
+                "last_commit": "2026-11-22T11:34:17Z",
                 "open_issues": 6,
                 "owner": "tarioch",
                 "repo": "beancounttools",
@@ -1276,7 +1276,7 @@
                 "open_issues": 0,
                 "owner": "MugenLab",
                 "repo": "ledgerbridge",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "bank-statements",
                   "beancount",
@@ -1444,7 +1444,7 @@
             "id": 281706272,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-15T08:22:58Z",
+            "last_commit": "2026-11-22T08:22:54Z",
             "open_issues": 8,
             "owner": "polarmutex",
             "repo": "tree-sitter-beancount",
@@ -2107,11 +2107,11 @@
                 "id": 460908160,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-26T08:53:27Z",
+                "last_commit": "2026-11-22T16:56:05Z",
                 "open_issues": 11,
                 "owner": "andreasgerstmayr",
                 "repo": "fava-portfolio-returns",
-                "stars": 106,
+                "stars": 107,
                 "topics": [
                   "beancount",
                   "beangrow",
@@ -2340,7 +2340,7 @@
             "open_issues": 25,
             "owner": "deb-sig",
             "repo": "double-entry-generator",
-            "stars": 735,
+            "stars": 736,
             "topics": [
               "alipay",
               "alipay-records",
@@ -2366,7 +2366,7 @@
             "id": 910161,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T19:40:10Z",
+            "last_commit": "2026-11-22T16:53:45Z",
             "open_issues": 2,
             "owner": "csingley",
             "repo": "ofxtools",
@@ -2929,7 +2929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:15:55.964Z",
+    "last_updated": "2026-11-22T20:29:37.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
