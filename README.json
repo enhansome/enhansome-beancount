@@ -19,7 +19,7 @@
             "open_issues": 249,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6201,
+            "stars": 6203,
             "topics": [
               "beancount"
             ]
@@ -216,8 +216,8 @@
             "id": 1417003947,
             "language": "Kotlin",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-23T14:30:11Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-24T19:24:10Z",
+            "open_issues": 23,
             "owner": "pintofi",
             "repo": "beanbook",
             "stars": 22,
@@ -282,7 +282,7 @@
                 "open_issues": 25,
                 "owner": "deb-sig",
                 "repo": "double-entry-generator",
-                "stars": 737,
+                "stars": 738,
                 "topics": [
                   "alipay",
                   "alipay-records",
@@ -371,7 +371,7 @@
                     "open_issues": 25,
                     "owner": "deb-sig",
                     "repo": "double-entry-generator",
-                    "stars": 737,
+                    "stars": 738,
                     "topics": [
                       "alipay",
                       "alipay-records",
@@ -1133,7 +1133,7 @@
                 "open_issues": 55,
                 "owner": "jbms",
                 "repo": "beancount-import",
-                "stars": 478,
+                "stars": 479,
                 "topics": [
                   "beancount"
                 ]
@@ -2340,7 +2340,7 @@
             "open_issues": 25,
             "owner": "deb-sig",
             "repo": "double-entry-generator",
-            "stars": 737,
+            "stars": 738,
             "topics": [
               "alipay",
               "alipay-records",
@@ -2447,7 +2447,7 @@
             "id": 1273830468,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T22:47:21Z",
+            "last_commit": "2026-11-24T14:06:42Z",
             "open_issues": 10,
             "owner": "giltotherescue",
             "repo": "slashbooks",
@@ -2929,7 +2929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T01:17:03.767Z",
+    "last_updated": "2026-11-24T23:17:28.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
