@@ -19,7 +19,7 @@
             "open_issues": 249,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6203,
+            "stars": 6205,
             "topics": [
               "beancount"
             ]
@@ -1219,8 +1219,8 @@
                 "id": 1264078752,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-20T22:33:36Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-25T12:08:51Z",
+                "open_issues": 5,
                 "owner": "open-banking-io",
                 "repo": "clients",
                 "stars": 28,
@@ -2367,7 +2367,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-22T16:53:45Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "csingley",
             "repo": "ofxtools",
             "stars": 348,
@@ -2481,7 +2481,7 @@
             "open_issues": 5,
             "owner": "LaunchPlatform",
             "repo": "beancount-parser",
-            "stars": 35,
+            "stars": 34,
             "topics": [
               "beancount",
               "lark",
@@ -2559,8 +2559,8 @@
             "id": 567492685,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-23T16:33:03Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-25T21:46:00Z",
+            "open_issues": 3,
             "owner": "maread99",
             "repo": "beanahead",
             "stars": 22,
@@ -2929,7 +2929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:17:28.559Z",
+    "last_updated": "2026-11-25T22:49:48.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
