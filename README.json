@@ -19,7 +19,7 @@
             "open_issues": 249,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6205,
+            "stars": 6209,
             "topics": [
               "beancount"
             ]
@@ -821,7 +821,7 @@
                     "id": 225922307,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-22T11:34:17Z",
+                    "last_commit": "2026-11-26T18:37:57Z",
                     "open_issues": 6,
                     "owner": "tarioch",
                     "repo": "beancounttools",
@@ -1194,7 +1194,7 @@
                 "id": 225922307,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-22T11:34:17Z",
+                "last_commit": "2026-11-26T18:37:57Z",
                 "open_issues": 6,
                 "owner": "tarioch",
                 "repo": "beancounttools",
@@ -1220,10 +1220,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-25T12:08:51Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "open-banking-io",
                 "repo": "clients",
-                "stars": 28,
+                "stars": 27,
                 "topics": [
                   "aisp",
                   "banking",
@@ -2366,8 +2366,8 @@
             "id": 910161,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T16:53:45Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-26T01:10:32Z",
+            "open_issues": 0,
             "owner": "csingley",
             "repo": "ofxtools",
             "stars": 348,
@@ -2447,8 +2447,8 @@
             "id": 1273830468,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T14:06:42Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-26T17:33:01Z",
+            "open_issues": 11,
             "owner": "giltotherescue",
             "repo": "slashbooks",
             "stars": 40,
@@ -2929,7 +2929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:49:48.975Z",
+    "last_updated": "2026-11-26T22:38:27.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Beancount Resources",
